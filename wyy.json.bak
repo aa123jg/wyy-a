@@ -1075,19 +1075,7 @@
             "1905"                         
             ]                       
             }                         
-         }, 
-           {
-            "name": "平凡解析",
-            "type": 0,
-            "url": "http://60.204.225.89:789/getapi/qlin.php?url=,https://www.iqiyi.com/v_17rfvv09j88.html,token+,2,1",
-            "ext": {
-                "header": {
-                    "user-agent": "Dalvik/2.1.0 (Linux; U; Android 13; 23113RK12C Build/SKQ1.231004.001) "
-                }
-            }
-        },   
-         
-         
+         },                      
           {
             "name": "云解析",
             "type": 0,
