@@ -130,7 +130,20 @@
                 "version": ""
             }
         },
-            
+          {
+            "key": "小红",
+            "name": "🌟 小红｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.xiaohys.com",
+                "dataKey": "ENonBHeVBoYZhVUV",
+                "dataIv": "ENonBHeVBoYZhVUV",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "166"
+            }
+        },    
         {
             "key": "鲸鱼",
             "name": "🌟 鲸鱼｜APP",
@@ -1063,6 +1076,18 @@
             ]                       
             }                         
          }, 
+           {
+            "name": "平凡解析",
+            "type": 0,
+            "url": "http://60.204.225.89:789/getapi/qlin.php?url=,https://www.iqiyi.com/v_17rfvv09j88.html,token+,2,1",
+            "ext": {
+                "header": {
+                    "user-agent": "Dalvik/2.1.0 (Linux; U; Android 13; 23113RK12C Build/SKQ1.231004.001) "
+                }
+            }
+        },   
+         
+         
           {
             "name": "云解析",
             "type": 0,
