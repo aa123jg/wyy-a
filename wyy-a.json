@@ -5,6 +5,23 @@
     "spider": "./jar/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+      "lives": [
+        
+         {"name":"我的直播",
+               "type":0,"url":"./lives/我的直播.txt",
+               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+               "logo":"https://epg.112114.xyz/logo/{name}.png"
+         },
+        
+        {
+            "name": "AI直播",
+            "type": 0,
+            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
+            "timeout": 10
+        }
+    ],       
     "sites": [
         {
             "key": "豆瓣",
@@ -622,6 +639,30 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
+         {
+            "key": "金牌影视",
+            "name": "🌺 金牌｜影视",
+            "type": 3,
+            "api": "./py/金牌影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+            }
+        },
+        {
+            "key": "猎手影视",
+            "name": "🌺 猎手｜影视",
+            "type": 3,
+            "api": "./py/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },              
         {
             "key": "三六零",
             "name": "🌺 三六零｜视频",
@@ -1462,38 +1503,7 @@
             ]
         }
     ],
-    "lives": [
-        
-         {"name":"我的直播",
-               "type":0,"url":"https://5141.kstore.space/wyy-a/lives/我的直播.txt",
-               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-               "logo":"https://epg.112114.xyz/logo/{name}.png"
-         },
-        
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 1,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://github.3x25.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10
-        }
-    ],
+    
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
