@@ -263,7 +263,18 @@
                 "version": "200"
             }
         },
-               
+         {
+            "key": "行动",
+            "name": "🌟 行动｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },          
          {
             "key": "榴莲",
             "name": "🌟 榴莲｜APP",
@@ -277,21 +288,7 @@
                 "deviceId": "",
                 "version": "50000"
             }
-        },                                                    
-        {
-            "key": "桃子",
-            "name": "🌟 桃子｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.tzys.xyz",
-                "dataKey": "KL6vlZkw6WL5x90U",
-                "dataIv": "KL6vlZkw6WL5x90U",
-                "deviceId": "4b4c36766c5a6b7736574c3578393055",
-                "version": "119"
-            }
-        },      
+        },                                                        
         {
             "key": "萝卜",
             "name": "🌟 萝卜｜APP",
@@ -651,7 +648,7 @@
             "ext": {
                 "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
             }
-        },
+        },           
         {
             "key": "猎手影视",
             "name": "🌺 猎手｜影视",
