@@ -470,17 +470,16 @@
             }
         },         
         {
-            "key": "瓜萌",
-            "name": "🌟 瓜萌｜APP",
+            "key": "火猫",
+            "name": "🌟 火猫｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppMuou",
             "ext": {
-                "url": "https://www.guahd.com",
-                "dataKey": "f2A7D4B9E8C16531",
-                "dataIv": "f2A7D4B9E8C16531",
-                "deviceId": "",
-                "version": ""
+                "url": "http://154.12.22.168:14988",
+                "dataKey": "531f6082a43ac5d7",
+                "dataIv": "531f6082a43ac5d7",
+                "jxurl": "http://app.789dd.cn"
             }
         },
         {
@@ -755,11 +754,16 @@
             "api": "csp_HBPQ",
             "ext": "./json/三九影视.json"
         },
-       {
-            "key": "鸭梨影视",
-            "name": "🌺 鸭梨｜影视",
+        {
+            "key": "厂长影视",
+            "name": "🌺 厂长｜影视",
             "type": 3,
-            "api": "csp_KmeiJu"
+            "playerType": "2",
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com/"
         },
         {
             "key": "农民影视",
