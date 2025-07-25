@@ -12,7 +12,13 @@
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
          },
-        
+        {
+            "name": "Guovin",
+            "type": 0,
+            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10
+        },
         {
             "name": "AI直播",
             "type": 0,
@@ -76,32 +82,16 @@
        "searchable": 1,
        "changeable": 1
      },            
-    {
-            "key": "玩偶",
+      {
+            "key": "玩偶哥哥",
             "name": "💦 玩偶｜4K弹幕",
             "type": 3,
-            "api": "csp_WoGGGuard",
-             "jar": "./jar/玩偶.jar",                        
+            "api": "csp_PanWebShare",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "TVBox/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.one/",
-                "danMu": "弹"
-            }
-    },       
-    {
-       "key": "木偶",
-       "name": "💦 木偶｜4K弹幕",
-       "type": 3,
-       "api": "csp_PanWebShare",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "./json/mogg.json"
-    },
+            "filterable": 1,
+            "ext": "./json/wogg.json"
+    },      
     {
        "key": "蜡笔",
        "name": "💦 蜡笔｜4K弹幕",
@@ -156,16 +146,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/sd.json"
-        },
-        {
-            "key": "团长",
-            "name": "💦 团长｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebTz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "雷鲸",
@@ -240,7 +220,7 @@
         },  
           {
             "key": "小斑快映",
-            "name": "💦 小斑快映｜4K弹幕",
+            "name": "💦 快映｜4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
             "searchable": 1,
@@ -249,61 +229,7 @@
             "changeable": 1,
             "ext": "./json/xbky.json"
         },              
-          {
-            "key": "米兔",
-            "name": "🌟 米兔｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://new.tkbot.fun",
-                "dataKey": "d032c12876bc6848",
-                "dataIv": "d032c12876bc6848",
-                "deviceId": "",
-                "version": "200"
-            }
-        },
-         {
-            "key": "行动",
-            "name": "🌟 行动｜APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://160.202.246.9:2356",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
-            }
-        },          
-         {
-            "key": "榴莲",
-            "name": "🌟 榴莲｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.ll4k.xyz",
-                "dataKey": "1yGA85sJ5STtE7uj",
-                "dataIv": "1yGA85sJ5STtE7uj",
-                "deviceId": "",
-                "version": "50000"
-            }
-        },                                                        
         {
-            "key": "萝卜",
-            "name": "🌟 萝卜｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://apiapplbys.lbys.app:5678",
-                "dataKey": "apiapplbyskey168",
-                "dataIv": "apiapplbyskey168",
-                "deviceId": "",
-                "version": "107"
-            }
-        },
-             {
             "key": "豆丁",
             "name": "🌟 豆丁｜APP",
             "type": 3,
@@ -456,30 +382,33 @@
             }
         },
         {
-            "key": "蓝鹰",
-            "name": "🌟 蓝鹰｜APP",
+            "key": "白蛇",
+            "name": "🌟 白蛇｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "http://172.247.192.138:18520",
-                "dataKey": "SuNlEkOLAoWJj1Oe",
-                "dataIv": "SuNlEkOLAoWJj1Oe",
+                "url": "",
+                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
+            }
+        },       
+              {
+            "key": "瓜萌",
+            "name": "🌟 瓜萌｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://www.guahd.com/1.txt",
+                "dataKey": "f2A7D4B9E8C16531",
+                "dataIv": "f2A7D4B9E8C16531",
                 "deviceId": "",
                 "version": ""
-            }
-        },         
-        {
-            "key": "火猫",
-            "name": "🌟 火猫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://154.12.22.168:14988",
-                "dataKey": "531f6082a43ac5d7",
-                "dataIv": "531f6082a43ac5d7",
-                "jxurl": "http://app.789dd.cn"
             }
         },
         {
@@ -510,6 +439,60 @@
                 "version": "300"
             }
         },
+         {
+            "key": "米兔",
+            "name": "🌟 米兔｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://new.tkbot.fun",
+                "dataKey": "d032c12876bc6848",
+                "dataIv": "d032c12876bc6848",
+                "deviceId": "",
+                "version": "200"
+            }
+        },
+         {
+            "key": "行动",
+            "name": "🌟 行动｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },          
+         {
+            "key": "榴莲",
+            "name": "🌟 榴莲｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.ll4k.xyz",
+                "dataKey": "1yGA85sJ5STtE7uj",
+                "dataIv": "1yGA85sJ5STtE7uj",
+                "deviceId": "",
+                "version": "50000"
+            }
+        },                                                        
+        {
+            "key": "萝卜",
+            "name": "🌟 萝卜｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://apiapplbys.lbys.app:5678",
+                "dataKey": "apiapplbyskey168",
+                "dataIv": "apiapplbyskey168",
+                "deviceId": "",
+                "version": "107"
+            }
+        },              
         {
             "key": "雨滴",
             "name": "🌟 雨滴｜APP",
@@ -552,18 +535,18 @@
                 "version": "166"
             }
         },
-        {
-            "key": "在看",
-            "name": "🌟 在看｜APP",
+          {
+            "key": "蓝光",
+            "name": "🌟 蓝光｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://149.88.64.161:9525",
-                "dataKey": "123456789ABCDEFG",
-                "dataIv": "123456789ABCDEFG",
+                "url": "http://122.228.193.2:9654",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
                 "deviceId": "",
-                "version": ""
+                "version": "119"
             }
         },
         {
@@ -593,7 +576,22 @@
                 "deviceId": "",
                 "version": ""
             }
-        },  
+        }, 
+           {
+            "key": "云速",
+            "name": "🌟 云速｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://59.153.167.137:7788/1.json",
+                "dataKey": "4d83b87c4c5ea111",
+                "dataIv": "4d83b87c4c5ea111",
+                "deviceId": "",
+                "version": "105"
+            }
+        },                      
          {
             "key": "樱桃",
             "name": "🌟 樱桃｜APP",
