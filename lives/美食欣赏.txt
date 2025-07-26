@@ -10,7 +10,6 @@
 烤牛头,https://vd3.bdstatic.com/mda-mfn8rxujpfike758/hd/cae_h264_nowatermark/1624432761274873194/mda-mfn8rxujpfike758.mp4?
 醋焖牛棒骨,https://vd4.bdstatic.com/mda-mfk8c204weuzvhxa/hd/cae_h264_delogo/1643147501963347947/mda-mfk8c204weuzvhxa.mp4?
 牛皮,https://vd3.bdstatic.com/mda-mg4916xjzdk0tr5s/hd/cae_h264_delogo/1643147151354144679/mda-mg4916xjzdk0tr5s.mp4?
-盐焗蜗牛,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?
 土窑焖牛肝,https://vd2.bdstatic.com/mda-mfv9tjrkir997dti/hd/cae_h264_delogo/1643341066464883120/mda-mfv9tjrkir997dti.mp4?
 麻辣牛蹄筋,https://vd2.bdstatic.com/mda-mft9aa1avhs9g0ph/hd/cae_h264_delogo/1643339235177987078/mda-mft9aa1avhs9g0ph.mp4?
 牛肚,https://vd3.bdstatic.com/mda-mgaahyx05kc17shj/hd/cae_h264_delogo/1643148219873544123/mda-mgaahyx05kc17shj.mp4?
@@ -207,3 +206,4 @@
 霸王别姬,https://vd3.bdstatic.com/mda-mgi998wmg5qes8g2/hd/cae_h264_delogo/1643130574446747111/mda-mgi998wmg5qes8g2.mp4?
 龙凤一锅焖,https://vd4.bdstatic.com/mda-mhc9q24e8aanyqfq/hd/cae_h264_nowatermark/1628843986055712987/mda-mhc9q24e8aanyqfq.mp4?
 蜂窝煤,https://vd2.bdstatic.com/mda-ncu8qjqrixkbq4dh/hd/cae_h264_delogo/1648539013955836156/mda-ncu8qjqrixkbq4dh.mp4?
+盐焗蜗牛,https://vd2.bdstatic.com/mda-mg261uczhazzbumj/hd/cae_h264_nowatermark/1625287386848136206/mda-mg261uczhazzbumj.mp4?
