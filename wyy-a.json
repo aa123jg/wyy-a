@@ -42,7 +42,7 @@
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
-        },                
+        },                                                                                  
         {
         "key":"应用商店",
         "name":"🏫｜应用商店",
@@ -74,23 +74,23 @@
             }
         },                 
        {
-       "key": "移动云盘",
-       "name": "💓 移动｜影视",
-       "type": 3,
-       "api": "csp_YDjisu",
-       "jar": "./jar/ouge.php",
-       "searchable": 1,
-       "changeable": 1
+         "key": "移动云盘",
+         "name": "💓 移动｜影视",
+         "type": 3,
+         "api": "csp_YDjisu",
+         "jar": "./jar/ouge.php",
+         "searchable": 1,
+         "changeable": 1
      },            
       {
-            "key": "玩偶哥哥",
-            "name": "💦 玩偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/wogg.json"
+        "key": "玩偶哥哥",
+        "name": "💦 玩偶｜4K弹幕",
+        "type": 3,
+        "api": "csp_PanWebShare",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./json/wogg.json"
     },      
     {
        "key": "蜡笔",
@@ -215,10 +215,10 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "url": "https://panku8.com,https://yipanso.com"
-            }
+            "url": "https://panku8.com,https://yipanso.com"
+         }
         },  
-          {
+        {
             "key": "小斑快映",
             "name": "💦 快映｜4K弹幕",
             "type": 3,
@@ -228,8 +228,49 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./json/xbky.json"
+        }, 
+       {
+          "key": "Lib",
+          "name": "💦 立播｜纯净",
+          "type": 3,
+          "api": "csp_Libvio",
+          "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.jar",
+          "searchable": 1,
+          "quickSearch": 1,
+          "changeable": 1,
+          "ext": {
+          "Cloud-drive": "TVBox/Cloud-drive.txt",
+          "from": "4k|auto"
+         }                
+       },                                                                   
+       {
+            "key": "南瓜",
+            "name": "🌟 南瓜｜APP",
+            "type": 3,
+            "api": "csp_NanGua",
+            "jar":"./jar/老虎.jar",                       
+            "playerType": 2,
+            "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+       },  
+       {
+            "key": "yunyun",
+            "name": "🌟 云云┃APP",
+            "type": 3,
+            "api": "csp_Qiji",
+            "jar":"./jar/老虎.jar",                       
+            "playerType": 2,
+            "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
+        },  
+       {
+            "key": "追剧",
+            "name": "🌟 追剧┃App",
+            "type": 3,
+            "api": "csp_TTian",
+             "jar":"./jar/老虎.jar",                        
+            "playerType": 2,
+            "ext": "7lj763gg0939791h1l2681i6g94li291li"
         },              
-        {
+       {
             "key": "豆丁",
             "name": "🌟 豆丁｜APP",
             "type": 3,
@@ -242,9 +283,9 @@
                 "dataIv": "xasdasdqwertyuio",
                 "deviceId": "",
                 "version": ""
-            }
-        },
-          {
+           }
+       },                                               
+       {
             "key": "小红",
             "name": "🌟 小红｜APP",
             "type": 3,
@@ -507,7 +548,7 @@
                 "version": "100"
             }
         },     
-         {
+       {
             "key": "优质",
             "name": "🌟 优质｜APP",
             "type": 3,
@@ -521,7 +562,7 @@
                 "version": "107"
             }
         },              
-        {
+       {
             "key": "人人",
             "name": "🌟 人人｜APP",
             "type": 3,
@@ -535,7 +576,7 @@
                 "version": "166"
             }
         },
-          {
+       {
             "key": "蓝光",
             "name": "🌟 蓝光｜APP",
             "type": 3,
@@ -547,21 +588,16 @@
                 "dataIv": "ca94b06ca3c7d80e",
                 "deviceId": "",
                 "version": "119"
-            }
-        },
-        {
+          }
+       },
+       {
             "key": "星河",
-            "name": "🌟 星河｜APP",
+            "name": "🌟 星河┃App",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://121.62.22.204:9876",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            }
+            "api": "csp_Xdai",
+            "jar":"./jar/老虎.jar",                         
+            "playerType": 2,
+            "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8805497807509g597kgk419l4l461675gl5g5ikkk329i28lg60h15541k9l3i3h1l266357j8j5625409hl8543522k5"
         },
         {
             "key": "若惜",
@@ -633,6 +669,20 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
+        {
+            "key":"浪酷弹幕版",
+            "name":"🌺 浪酷｜影视",
+            "jar":"./jar/ok.jar",
+            "type":3,
+            "api":"csp_TianTianGuard",
+            "searchable":1,
+            "changeable":1,
+            "ext":{
+            "danmu":true,
+            "site":2
+           },
+            "timeout":15
+          },             
          {
             "key": "金牌影视",
             "name": "🌺 金牌｜影视",
