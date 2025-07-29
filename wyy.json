@@ -557,13 +557,11 @@
             "filterable": 1
         },
         {
-            "key": "来看影视",
-            "name": "🌺 来看｜影视",
+            "key": "绝对影视",
+            "name": "🌺 绝对｜影视",
             "type": 3,
-            "api": "csp_Lkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "csp_FourK",
+            "ext": "https://www.4kvm.tv"
         },
         {
             "key": "瓜子影视",
