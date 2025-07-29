@@ -181,22 +181,21 @@
                 "version": "120"
             }
         },  
-           {
-            "key": "咖啡",
-            "name": "🌟 咖啡｜APP",
+      {
+            "key": "小野",
+            "name": "🌟 小野｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-                "dataKey": "qwertyuiopqwertt",
-                "dataIv": "qwertyuiopqwertt",
+                "url": "https://appcms.xy4k.com",
+                "site": "",
+                "dataKey": "7SDWjknU34zqFbVr",
+                "dataIv": "7SDWjknU34zqFbVr",
                 "deviceId": "",
-                "version": "109",
-                "ua": "okhttp/3.10.0"
+                "version": ""
             }
-        },      
+        },    
          {
             "key": "热播影视",
             "name": "🌟 热播｜APP",
@@ -260,8 +259,8 @@
                 "deviceId": "",
                 "version": "120"
             }
-        },
-        {
+       },        
+       {
             "key": "白蛇",
             "name": "🌟 白蛇｜APP",
             "type": 3,
@@ -270,13 +269,13 @@
             "ext": {
                 "url": "",
                 "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
+                "dataKey": "n3l2tx5jdkp9s2c8",
+                "dataIv": "n3l2tx5jdkp9s2c8",
                 "deviceId": "",
                 "version": "361"
             }
-        },       
-              {
+        },                                  
+       {
             "key": "瓜萌",
             "name": "🌟 瓜萌｜APP",
             "type": 3,
@@ -289,20 +288,6 @@
                 "dataIv": "f2A7D4B9E8C16531",
                 "deviceId": "",
                 "version": ""
-            }
-        },
-        {
-            "key": "再看",
-            "name": "🌟 再看｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://149.88.64.161:8627",
-                "dataKey": "123456789ABCDEFG",
-                "dataIv": "123456789ABCDEFG",
-                "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
-                "version": "110"
             }
         },
         {
@@ -373,20 +358,20 @@
                 "version": "107"
             }
         },              
-        {
-            "key": "雨滴",
-            "name": "🌟 雨滴｜APP",
+     {
+            "key": "蓝鹰",
+            "name": "🌟 蓝鹰｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
-                "dataKey": "k9o3p2c8b7m3z0o8",
-                "dataIv": "k9o3p2c8b7m3z0o8",
+                "url": "http://172.247.192.138:18520",
+                "dataKey": "SuNlEkOLAoWJj1Oe",
+                "dataIv": "SuNlEkOLAoWJj1Oe",
                 "deviceId": "",
-                "version": "100"
+                "version": ""
             }
-        },     
+        },    
        {
             "key": "优质",
             "name": "🌟 优质｜APP",
@@ -466,20 +451,7 @@
                 "deviceId": "",
                 "version": "105"
             }
-        },                      
-         {
-            "key": "樱桃",
-            "name": "🌟 樱桃｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://sp.dxgsp.cc",
-                "dataKey": "25f9e794323b4538",
-                "dataIv": "25f9e794323b4538",
-                "jxurl": "https://ap.dxgsp.cc"
-            }
-        },                                                        
+        },                                                                            
         {
             "key": "腾讯视频",
             "name": "💢 腾讯｜视频",
