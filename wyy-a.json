@@ -651,20 +651,13 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
-        {
-            "key":"浪酷弹幕版",
-            "name":"🌺 浪酷｜影视",
-            "jar":"./jar/ok.jar",
-            "type":3,
-            "api":"csp_TianTianGuard",
-            "searchable":1,
-            "changeable":1,
-            "ext":{
-            "danmu":true,
-            "site":2
-           },
-            "timeout":15
-          },             
+           {
+            "key": "麦田影视",
+            "name": "🌺 麦田｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./json/麦田影视.json"
+        },              
          {
             "key": "金牌影视",
             "name": "🌺 金牌｜影视",
