@@ -489,16 +489,19 @@
                 "version": "200"
             }
         },
-         {
-            "key": "行动",
-            "name": "🌟 行动｜APP",
+        {
+            "key": "若雪",
+            "name": "🌟 若雪丨APP",
             "type": 3,
-            "api": "csp_AppSy",
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "http://160.202.246.9:2356",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
+                "url": "https://appcms.rx4k.top",
+                "site": "",
+                "dataKey": "ZX10ysTYZWtIJCTU",
+                "dataIv": "ZX10ysTYZWtIJCTU",
+                "deviceId": "",
+                "version": "120"
             }
         },          
          {
@@ -529,20 +532,21 @@
                 "version": "107"
             }
         },              
-     {
+      {
             "key": "蓝鹰",
             "name": "🌟 蓝鹰｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
             "ext": {
-                "url": "http://172.247.192.138:18520",
-                "dataKey": "SuNlEkOLAoWJj1Oe",
-                "dataIv": "SuNlEkOLAoWJj1Oe",
+                "url": "",
+                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
                 "deviceId": "",
-                "version": ""
+                "version": "120"
             }
-        },     
+        },      
        {
             "key": "优质",
             "name": "🌟 优质｜APP",
@@ -585,16 +589,7 @@
                 "version": "119"
           }
        },
-       {
-            "key": "星河",
-            "name": "🌟 星河┃App",
-            "type": 3,
-            "api": "csp_Xdai",
-            "jar":"./jar/老虎.jar",                         
-            "playerType": 2,
-            "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8805497807509g597kgk419l4l461675gl5g5ikkk329i28lg60h15541k9l3i3h1l266357j8j5625409hl8543522k5"
-        },
-        {
+      {
             "key": "若惜",
             "name": "🌟 若惜｜APP",
             "type": 3,
@@ -606,9 +601,9 @@
                 "dataIv": "ebad3f1a58b13933",
                 "deviceId": "",
                 "version": ""
-            }
+        }
         }, 
-           {
+        {
             "key": "云速",
             "name": "🌟 云速｜APP",
             "type": 3,
