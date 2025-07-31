@@ -666,17 +666,13 @@
                 "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
             }
         },           
-        {
-            "key": "猎手影视",
-            "name": "🌺 猎手｜影视",
+         {
+            "key": "七点影视",
+            "name": "🌺 七点｜影视",
             "type": 3,
-            "api": "./py/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },              
+            "api": "csp_HBPQ",
+            "ext": "./json/七点影视.json"
+        },             
         {
             "key": "三六零",
             "name": "🌺 三六零｜视频",
