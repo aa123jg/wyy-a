@@ -489,19 +489,19 @@
                 "version": "200"
             }
         },
-        {
-            "key": "若雪",
-            "name": "🌟 若雪丨APP",
+         {
+            "key": "魔方",
+            "name": "🌟 魔方｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "https://appcms.rx4k.top",
-                "site": "",
-                "dataKey": "ZX10ysTYZWtIJCTU",
-                "dataIv": "ZX10ysTYZWtIJCTU",
+                "url": "",
+                "site": "https://www.snysw.xyz/mfys.txt",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
                 "deviceId": "",
-                "version": "120"
+                "version": ""
             }
         },          
          {
