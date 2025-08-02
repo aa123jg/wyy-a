@@ -943,10 +943,46 @@ CCTV16,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1
 新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://42.225.117.174:11199/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
 🌴 港澳台频道,#genre#
+
+凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+pluc综合,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+popc,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映频道,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+无线明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB翡剧,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+TVB J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+黄金翡翠,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+好莱坞电影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+民视,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+龙华日韩,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+八度空间,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+靖天国际台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+CNA新闻,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+AXN电影台,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+星光综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/zxcvbnm9852.flv
+TVB plus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+RTHK,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8?hls_ctx=r4i0j937
+重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -960,46 +996,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-
-鳳凰衛視中文台,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-美亞電影台(HK),https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-天映电影,https://s1.tvm4a1.cfd/astro/celestialmovies/AKTV.m3u8
-天映經典(1080),https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
-東森電影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-緯來體育台,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-民視,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-中天亚洲台,https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8
-KLT-靖天國際台,https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-龍華日韓台,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-TVBS,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-黃金翡翠台,https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
-TVB星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-翡翠台,https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-明珠台,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-TVB Plus,https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-無線新聞台,https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-CNA,https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-朝鲜恩情台,https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-明珠剧集台(北美),https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-翡翠剧集台(北美),https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-翡翠综合台(北美),https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-Japan News 24H LIVE,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
-Animax (HK),https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
-AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,
 
 
 
