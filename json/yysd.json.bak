@@ -6,16 +6,18 @@
 
 {"name":"最新apk软件","list":[
 
-{"name":"OK影视","url":"https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-3.0.0.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"OK影视3.0.0版推荐使用"},
+{"name":"OK影视","url":"https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86-arm64_v8a-4.0.5%E7%94%B5%E8%A7%86%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"OK影视4.0.5版推荐使用"},
+{"name":"OK影视手机版","url":"https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86-4.0.5%E6%89%8B%E6%9C%BA%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"OK影视手机版4.0.5版"},
 {"name":"可视TV版","url":"https://5141.kstore.space/apk/%E5%8F%AF%E8%A7%86TV%EF%B9%A2Max_2.0.8.apk","icon":"https://5141.kstore.space/apk/%E5%8F%AF%E8%A7%86TV.png","version":"可视TV-2.0.8版"},
-{"name":"宝盒TV版","url":"https://5141.kstore.space/apk/%E5%AE%9D%E7%9B%92TV-V3.2.7-64%E4%BD%8D-release.apk","icon":"https://5141.kstore.space/apk/%E5%AE%9D%E7%9B%92.png","version":"宝盒TV_3.2.7-64版"},
+{"name":"宝盒TV版","url":"https://5141.kstore.space/apk/%E5%A0%A1%E7%9B%92TV%E7%AB%AF_3.3.1.2-64%E4%BD%8D.apk","icon":"https://5141.kstore.space/apk/%E5%AE%9D%E7%9B%92.png","version":"宝盒TV_3.3.1.2-64版"},
+{"name":"宝盒手机版","url":"https://5141.kstore.space/apk/%E5%AE%9D%E7%9B%92%E6%89%8B%E6%9C%BA%E7%AB%AF_3.3.1.2-64%E4%BD%8D.apk","icon":"https://5141.kstore.space/apk/%E5%AE%9D%E7%9B%92%E6%89%8B%E6%9C%BA.png","version":"宝盒手机_3.3.1.2-64版"},
 {"name":"影视仓","url":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.36.1.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86%E4%BB%93.png","version":"5.0.36.1版"},
 {"name":"影视仓","url":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86%E4%BB%93-%E7%94%B5%E8%A7%86%E7%89%886.1.3-exo141.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86%E4%BB%93.png","version":"6.1.3版"},
-{"name":"海信专版_OK影视3.0.0版","url":"https://5141.kstore.space/apk/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-3.0.0.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"海信专版_OK影视3.0.0版"},
+{"name":"海信专版_OK影视4.0.5版","url":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%864.0.5-%E6%B5%B7%E4%BF%A1%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"海信专版_OK影视4.0.5版"},
 {"name":"EasyBox手机版","url":"https://5141.kstore.space/apk/EasyBox_1.6.0_%E7%AB%96%E5%B1%8F%E7%89%88.apk","icon":"https://5141.kstore.space/apk/EasyBox.png","version":"EasyBox_1.6.0版"},
-{"name":"OK影视手机版","url":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%88_4.0.4%EF%BC%88py%EF%BC%89-64%E4%BD%8D.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"OK影视手机版4.0.4版"},
-{"name":"海阔视界手机版","url":"https://5141.kstore.space/apk/%E6%B5%B7%E9%98%94%E8%A7%86%E7%95%8C_8.75.apk","icon":"https://5141.kstore.space/apk/%E6%B5%B7%E9%98%94.png","version":"海阔视界_8.75版"}
-
+{"name":"海阔视界手机版","url":"https://5141.kstore.space/apk/%E6%B5%B7%E9%98%94%E8%A7%86%E7%95%8C_8.75.apk","icon":"https://5141.kstore.space/apk/%E6%B5%B7%E9%98%94.png","version":"海阔视界_8.75版"},
+{"name":"影视(原版)","url":"https://5141.kstore.space/apk/leanback-armeabi_v7a.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"影视_4.0.5_32TV位版"},
+{"name":"影视(原版)","url":"https://5141.kstore.space/apk/leanback-arm64_v8a.apk","icon":"https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86.png","version":"影视_4.0.5_64TV位版"}
 ]},
 
 {"name":"电视直播软件","list":[
@@ -26,13 +28,14 @@
 {"name":"Star直播","url":"https://5141.kstore.space/apk/Star%E7%9B%B4-_1.0.4_%E7%A9%BA%E5%A3%B3%28%E6%B4%BE%E5%A4%A7%E6%98%9F103%29.apk","icon":"https://5141.kstore.space/apk/Star%E7%9B%B4-_1.0.4.png","version":"Star直播(空壳软件)"},
 {"name":"酷9电视","url":"https://5141.kstore.space/apk/%E9%85%B79%E8%93%9D%E8%89%B2_1.7.0.4.apk","icon":"https://5141.kstore.space/apk/%E9%85%B79.png","version":"酷9电视(空壳软件)"},
 {"name":"星火电视","url":"https://5141.kstore.space/apk/%E6%98%9F%E7%81%ABTV_1.0.48.apk","icon":"https://5141.kstore.space/apk/%E6%98%9F%E7%81%AB.png","version":"星火V_1.0.48版"},
-{"name":"小飞电视","url":"https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E%E7%94%B5%E8%A7%86v2.8.0+TV%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E.png","version":"小飞2.80版"}
+{"name":"小飞电视","url":"https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E%E7%94%B5%E8%A7%86v2.8.0+TV%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E.png","version":"小飞2.80版"},
+{"name":"全民K歌","url":"https://5141.kstore.space/apk/%E5%85%A8%E6%B0%91K%E6%AD%8CMV%E7%89%88_5.9.0.1.apk","icon":"https://5141.kstore.space/apk/%E5%85%A8%E6%B0%91K%E6%AD%8C.png","version":"全民K歌5.9.0.1版"}
 ]},
 
 {"name":"工具软件","list":[
 {"name":"当贝桌面","url":"https://5141.kstore.space/apk/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A24.1.6_%E5%AE%8C%E7%BE%8E%E5%87%80%E5%8C%96%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2.png","version":"4.1.6版"},
 {"name":"emotn UI桌面","url":"https://5141.kstore.space/apk/Emotn_UI_1.0.9.0.apk","icon":"https://5141.kstore.space/apk/Emotn_UI.png","version":"v1.0.9.0版"},
-{"name":"IDM+","url":"https://5141.kstore.space/apk/1DM_-v16_build_30234-Mod-arm64-v8a_Android_7.0__yxssp.com.apk","icon":"https://5141.kstore.space/apk/1DM%EF%B9%A2.png","version":"16.0版64位安卓7.0使用"},
+{"name":"IDM+","url":"https://5141.kstore.space/apk/1DM%EF%B9%A2_v17.2.apk","icon":"https://5141.kstore.space/apk/1DM%EF%B9%A2.png","version":"17.2版"},
 {"name":"ES管理器","url":"https://5141.kstore.space/apk/ES.apk","icon":"https://5141.kstore.space/apk/es.png","version":"4.4.2.10版"},
 {"name":"MT管理器","url":"https://5141.kstore.space/apk/MT%E7%AE%A1%E7%90%86%E5%99%A8_2.18.4.apk","icon":"https://5141.kstore.space/apk/mt.png","version":"2.18.4版"},
 {"name":"NP管理器","url":"https://5141.kstore.space/apk/NP%E7%AE%A1%E7%90%86%E5%99%A8_3.1.24.apk","icon":"https://5141.kstore.space/apk/mt.png","version":"3.1.24版"},
@@ -48,9 +51,13 @@
 
 
 {"name":"内置接口软件","list":[
-{"name":"天微影视","url":"https://5141.kstore.space/apk/%E5%A4%A9%E5%BE%AE_%E5%BD%B1%E8%A7%86_2.4.3%E7%94%B5%E8%A7%86%E9%80%9A%E7%94%A8.apk","icon":"https://5141.kstore.space/apk/%E5%A4%A9%E5%BE%AE.png","version":"天微影视内置版"},
-{"name":"爱家影视","url":"https://5141.kstore.space/apk/%E7%88%B1%E5%AE%B6%E5%BD%B1%E9%99%A2TV_2.apk","icon":"https://5141.kstore.space/apk/aijia.png","version":"爱家影视内置版"},
-{"name":"恒星影视","url":"https://5141.kstore.space/apk/%E6%81%92%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%935.0.34-3.apk","icon":"https://5141.kstore.space/apk/%E6%81%92%E6%98%9F.png","version":"恒星影视内置版"}
+
+{"name":"coffee影视","url":"https://5141.kstore.space/apk/coffee.apk","icon":"https://5141.kstore.space/apk/coffee.png","version":"coffee内置版"},
+{"name":"秋水影视","url":"https://5141.kstore.space/apk/%E7%A7%8B%E6%B0%B4TV_1.6%E7%94%B5%E8%A7%86%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E7%A7%8B%E6%B0%B4TV.png","version":"秋水影视内置版"},
+{"name":"东岳影视","url":"https://5141.kstore.space/apk/%E4%B8%9C%E5%B2%B34K%E5%BD%B1%E8%A7%86TV%E5%86%85%E7%BD%AE%E7%89%88_v1.0.0%E5%86%85%E7%BD%AE%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E4%B8%9C%E5%B2%B34K.png","version":"东岳影视内置版"},
+{"name":"芒果影视","url":"https://5141.kstore.space/apk/%E8%8A%92%E6%9E%9C4k%E5%86%85%E7%BD%AE%E7%89%88.apk","icon":"https://5141.kstore.space/apk/%E8%8A%92%E6%9E%9CTV.png","version":"芒果影视内置版"},
+{"name":"欧歌影视","url":"https://5141.kstore.space/apk/%E6%AC%A7%E6%AD%8C%E5%BD%B1%E8%A7%86_6.0.8.apk","icon":"https://5141.kstore.space/apk/nxog.png","version":"欧歌影视内置版"
+
 ]},
 
 
