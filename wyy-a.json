@@ -654,19 +654,13 @@
             "api": "csp_HBPQ",
             "ext": "./json/麦田影视.json"
         },              
-         {
-            "key": "金牌影视",
-            "name": "🌺 金牌｜影视",
+       {
+            "key": "饺子影视",
+            "name": "🌺 饺子｜影视",
             "type": 3,
-            "api": "./py/金牌影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-            }
-        },           
+            "api": "csp_Jiaozi",
+            "playerType": 2
+        },            
          {
             "key": "七点影视",
             "name": "🌺 七点｜影视",
