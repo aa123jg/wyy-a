@@ -809,22 +809,14 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        {
-            "key": "无上资源",
-            "name": "🍄 无上｜采集",
+       {
+            "key": "如意采集资源",
+            "name": "🍄 如意｜采集",
             "type": 1,
-            "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+            "playerType": 1,
             "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫",
-                "纪录片",
-                "少儿",
-                "短剧"
-            ]
+            "changeable": 1
         },
         {
       "key": "豪华资源",
@@ -987,22 +979,21 @@
             "name": "💯 星芽｜短剧",
             "type": 3,
             "api": "csp_AppXY",
+            "jar":"./jar/spider.jar",                         
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
         },     
-        {
-            "key": "河马短剧",
-            "name": "💯 河马｜短剧",
+          {
+            "key": "短剧屋",
+            "name": "💯 短剧屋｜短剧",
             "type": 3,
-            "api": "./py/河马短剧.py",                    
-            "jar":"./jar/河马.jar",
+            "api": "csp_XYQHiker",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2
-        },                                                                                             
+            "ext": "./json/短剧屋.json"
+        },                                                                                            
         {
             "key": "哆啦新番社",
             "name": "🎀 哆啦｜新番社",
