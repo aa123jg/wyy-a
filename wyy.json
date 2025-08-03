@@ -2,7 +2,7 @@
 //单线路本地包下载地址："https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",用于更新本地包及jar。
 
 {
-    "spider": "./jar/spider.jar",
+    "spider": "./jar/spider_og.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
@@ -1134,7 +1134,39 @@
             ]                       
             }                         
          }, 
-                {
+                 {
+            "name": "🐬zhangbo",
+            "type": "1",
+            "url": "http://120.46.190.255/小白白.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "leshi",
+                    "imgo",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "m1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+               }                        
+         },                 
+         {
             "name": "🦐虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",

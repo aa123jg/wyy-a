@@ -2,7 +2,8 @@
 //单线路本地包下载地址："https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",用于更新本地包及jar。
 
 {
-    "spider": "./jar/spider.jar",
+       
+   "spider": "./jar/spider_og.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
