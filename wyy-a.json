@@ -42,6 +42,7 @@
             "name": "🎉 新片｜预告",
             "type": 3,
             "api": "csp_YGP",
+             "jar":"./jar/spider.jar",                        
             "searchable": 0
         },                                                                                  
         {
@@ -296,20 +297,21 @@
                 "version": ""
            }
        },                                               
-       {
-            "key": "小红",
-            "name": "🌟 小红｜APP",
+      {
+            "key": "哔滴",
+            "name": "🌟 哔滴丨APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://www.xiaohys.com",
-                "dataKey": "ENonBHeVBoYZhVUV",
-                "dataIv": "ENonBHeVBoYZhVUV",
-                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "166"
+                "url": "",
+                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
+                "dataKey": "5ae8ee4bb95ea0ce",
+                "dataIv": "5ae8ee4bb95ea0ce",
+                "deviceId": "",
+                "version": "120"
             }
-        },                 
+        },               
        {
             "key": "鲸鱼",
             "name": "🌟 鲸鱼｜APP",
@@ -562,20 +564,6 @@
                 "version": "107"
             }
         },              
-       {
-            "key": "人人",
-            "name": "🌟 人人｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.xiaohys.com",
-                "dataKey": "ENonBHeVBoYZhVUV",
-                "dataIv": "ENonBHeVBoYZhVUV",
-                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "166"
-            }
-        },
        {
             "key": "蓝光",
             "name": "🌟 蓝光｜APP",
@@ -1100,12 +1088,13 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "./json/企鹅体育.json"
-        },
-            {
+        },           
+         {
             "key": "哔哩视频",
             "name": "🅱️ 哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
+            "jar":"./jar/spider.jar",           
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -1118,25 +1107,7 @@
                 "json": "./json/哔哩视频.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
-        },       
-        {
-            "key": "哔哩合集",
-            "name": "🅱️ 哔哩｜合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "./json/哔哩合集.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            }
-        },
+        }, 
         {
             "key": "哔哩哔哩演唱会",
             "name": "🅱️ 哔哩｜音乐",
@@ -1247,7 +1218,7 @@
                 "ratio": 1.597
             }
         },
-        {
+      {
             "key": "版本信息",
             "name": "🌊 版本｜信息",
             "type": 3,
@@ -1255,8 +1226,8 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/single.json"
-        },
+            "ext": "https://pizazz.s3.bitiful.net/single.json"
+        },  
           {
             "key": "本地",
             "name": "📽 本地视频",

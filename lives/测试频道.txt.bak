@@ -85,14 +85,7 @@
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 香港卫视,ttp://zhibo.hkstv.tv/livestream/mutfysrq.flv
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-TVB翡剧,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-黄金翡翠,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 星光综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/zxcvbnm9852.flv
-无线明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-无线明剧,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-TVB J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 TVB plus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 RTHK,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
@@ -103,6 +96,13 @@ popc,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 天映频道,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+无线明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB翡剧,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+TVB J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+黄金翡翠,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
@@ -119,32 +119,3 @@ AXN电影台,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8?hls_ctx=r4i0j937
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 凤凰电影,ttp://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8?hls_ctx=518z757k
-
-🆗电信频道,#genre#
-
-CCTV1,http://123.163.114.208:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://123.163.114.208:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://123.163.114.208:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://123.163.114.208:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://123.163.114.208:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://123.163.114.208:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://123.163.114.208:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://123.163.114.208:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://123.163.114.208:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://123.163.114.208:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://123.163.114.208:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://123.163.114.208:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://123.163.114.208:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://123.163.114.208:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://123.163.114.208:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://123.163.114.208:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://123.163.114.208:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://123.163.114.208:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://123.163.114.208:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://123.163.114.208:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://123.163.114.208:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://123.163.114.208:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://123.163.114.208:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://123.163.114.208:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://123.163.114.208:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://123.163.114.208:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -902,7 +902,8 @@ CCTV-17,http://222.85.69.6/PLTV/88888888/224/3221226551/100001000000000600000000
 调解剧场,http://222.85.69.6/PLTV/88888888/224/3221226638/10000100000000060000000000430976_0.smil/index.m3u8?
 
  🔴  联通频道,#genre#
- CCTV1-综合,http://42.225.117.174:11199/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+ 
+CCTV1-综合,http://42.225.117.174:11199/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://42.225.117.174:11199/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://42.225.117.174:11199/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://42.225.117.174:11199/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -919,8 +920,8 @@ CCTV14-少儿,http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&pla
 CCTV15-音乐,http://42.225.117.174:11199/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://42.225.117.174:11199/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-都市频道,http://42.225.117.174:11199/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-梨园频道,http://42.225.117.174:11199/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+民生频道,http://42.225.117.174:11199/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+戏曲频道,http://42.225.117.174:11199/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://42.225.117.174:11199/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://42.225.117.174:11199/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://42.225.117.174:11199/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
