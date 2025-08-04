@@ -196,7 +196,6 @@ CCTV17,http://110.177.144.22:9003/hls/18/index.m3u8
 🐘 河南频道,#genre#
 
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8?icpid=88888888&servicetype=3&playseek=
-河南国际,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226588/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南民生,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226685/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南都市,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226649/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南法治,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226724/index.m3u8?icpid=88888888&servicetype=3&playseek=
