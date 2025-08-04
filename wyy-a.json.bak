@@ -75,15 +75,14 @@
                 "ratio": 1.597
             }
         },                 
-       {
-         "key": "移动云盘",
-         "name": "💓 移动｜影视",
-         "type": 3,
-         "api": "csp_YDjisu",
-         "jar": "./jar/ouge.php",
-         "searchable": 1,
-         "changeable": 1
-     },            
+        {
+            "key": "移动",
+            "name": "💓 移动｜影视",
+            "type": 3,
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "quickSearch": 1
+        },            
       {
         "key": "玩偶哥哥",
         "name": "💦 玩偶｜4K弹幕",
@@ -297,20 +296,21 @@
                 "version": ""
            }
        },                                               
-       {
-            "key": "小红",
-            "name": "🌟 小红｜APP",
+      {
+            "key": "哔滴",
+            "name": "🌟 哔滴丨APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://www.xiaohys.com",
-                "dataKey": "ENonBHeVBoYZhVUV",
-                "dataIv": "ENonBHeVBoYZhVUV",
-                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "166"
+                "url": "",
+                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
+                "dataKey": "5ae8ee4bb95ea0ce",
+                "dataIv": "5ae8ee4bb95ea0ce",
+                "deviceId": "",
+                "version": "120"
             }
-        },                 
+        },               
        {
             "key": "鲸鱼",
             "name": "🌟 鲸鱼｜APP",
@@ -506,18 +506,18 @@
                 "version": ""
             }
         },          
-         {
-            "key": "榴莲",
-            "name": "🌟 榴莲｜APP",
+      {
+            "key": "光影",
+            "name": "🌟 光影｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "https://qjappcms.ll4k.xyz",
-                "dataKey": "1yGA85sJ5STtE7uj",
-                "dataIv": "1yGA85sJ5STtE7uj",
+                "url": "https://www.guangyingmi.com",
+                "dataKey": "230fnsodfsdhfon2",
+                "dataIv": "230fnsodfsdhfon2",
                 "deviceId": "",
-                "version": "50000"
+                "version": ""
             }
         },                                                        
         {
