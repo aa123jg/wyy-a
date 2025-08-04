@@ -75,15 +75,14 @@
                 "ratio": 1.597
             }
         },                 
-       {
-         "key": "移动云盘",
-         "name": "💓 移动｜影视",
-         "type": 3,
-         "api": "csp_YDjisu",
-         "jar": "./jar/ouge.php",
-         "searchable": 1,
-         "changeable": 1
-     },            
+        {
+            "key": "移动",
+            "name": "💓 移动｜影视",
+            "type": 3,
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "quickSearch": 1
+        },            
       {
         "key": "玩偶哥哥",
         "name": "💦 玩偶｜4K弹幕",
