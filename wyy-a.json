@@ -296,22 +296,22 @@
                 "version": ""
            }
        },                                               
-      {
-            "key": "哔滴",
-            "name": "🌟 哔滴丨APP",
+    {
+            "key": "乐达",
+            "name": "🌟 乐达｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
-                "dataKey": "5ae8ee4bb95ea0ce",
-                "dataIv": "5ae8ee4bb95ea0ce",
+                "url": "https://ledayy.com",
+                "site": "",
+                "dataKey": "hjjp68c2okw12345",
+                "dataIv": "hjjp68c2okw12345",
                 "deviceId": "",
-                "version": "120"
+                "version": ""
             }
         },               
-        {
+         {
             "key": "仓鼠",
             "name": "🌟 仓鼠｜APP",
             "type": 3,
@@ -325,7 +325,7 @@
                 "deviceId": "",
                 "version": "120"
             }
-        },            
+        },           
         {
             "key": "晴天",
             "name": "🌟 晴天｜APP",
@@ -339,7 +339,7 @@
                 "deviceId": "",
                 "version": "119"
             }
-        },                                                                                                           
+        },                                                                                                         
          {
             "key": "热播影视",
             "name": "🌟 热播｜APP",
