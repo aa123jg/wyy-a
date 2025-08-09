@@ -289,22 +289,7 @@
                 "deviceId": "",
                 "version": "200"
             }
-        },
-          {
-            "key": "魔方",
-            "name": "🌟 魔方｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://www.snysw.xyz/mfys.txt",
-                "dataKey": "1234567887654321",
-                "dataIv": "1234567887654321",
-                "deviceId": "",
-                "version": ""
-            }
-        },          
+        },         
         {
             "key": "光影",
             "name": "🌟 光影｜APP",
