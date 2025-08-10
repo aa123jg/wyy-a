@@ -120,7 +120,7 @@ AXN电影台,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 凤凰电影,ttp://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8?hls_ctx=518z757k
 
-🆗电信频道,#genre#
+🆗河南电信频道,#genre#
 
 CCTV1,http://123.163.114.208:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://123.163.114.208:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -148,3 +148,220 @@ CCTV15,http://123.163.114.208:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 辽宁卫视,http://123.163.114.208:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://123.163.114.208:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://123.163.114.208:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+🆗河南联通频道1,#genre#
+
+CCTV1-综合,http://112.193.40.6:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://112.193.40.6:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://112.193.40.6:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://112.193.40.6:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://112.193.40.6:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://112.193.40.6:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://112.193.40.6:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://112.193.40.6:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://112.193.40.6:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://112.193.40.6:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://112.193.40.6:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://112.193.40.6:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://112.193.40.6:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://112.193.40.6:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://112.193.40.6:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://112.193.40.6:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+卫视频道,#genre#
+安徽卫视,http://112.193.40.6:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://112.193.40.6:9901/tsfile/live/faacts/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://112.193.40.6:9901/tsfile/live/faacts/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://112.193.40.6:9901/tsfile/live/faacts/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://112.193.40.6:9901/tsfile/live/faacts/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+ 山东卫视,http://112.193.40.6:9901/tsfile/live/faacts/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+ 云南卫视,http://112.193.40.6:9901/tsfile/live/faacts/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+ 湖南卫视,http://112.193.40.6:9901/tsfile/live/faacts/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+ 北京卫视,http://112.193.40.6:9901/tsfile/live/faacts/0122_2.m3u8?key=txiptv&playlive=0&authid=0
+ 上海卫视,http://112.193.40.6:9901/tsfile/live/faacts/0107_2.m3u8?key=txiptv&playlive=0&authid=0
+ 江西卫视,http://112.193.40.6:9901/tsfile/live/faacts/0138_2.m3u8?key=txiptv&playlive=0&authid=0
+ 贵州卫视,http://112.193.40.6:9901/tsfile/live/faacts/0120_2.m3u8?key=txiptv&playlive=0&authid=0
+ 湖北卫视,http://112.193.40.6:9901/tsfile/live/faacts/0132_2.m3u8?key=txiptv&playlive=0&authid=0
+ 重庆卫视,http://112.193.40.6:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+ 东南卫视,http://112.193.40.6:9901/tsfile/live/faacts/0137_2.m3u8?key=txiptv&playlive=0&authid=0
+ 河北卫视,http://112.193.40.6:9901/tsfile/live/faacts/0117_2.m3u8?key=txiptv&playlive=0&authid=0
+ 江苏卫视,http://112.193.40.6:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+ 深圳卫视,http://112.193.40.6:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+ 广西卫视,http://112.193.40.6:9901/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+ 吉林卫视,http://112.193.40.6:9901/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+ 山西卫视,http://112.193.40.6:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+ 内蒙古卫视,http://112.193.40.6:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+ 青海卫视,http://112.193.40.6:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+ 宁夏卫视,http://112.193.40.6:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+ 黑龙江卫视,http://112.193.40.6:9901/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+ 广东卫视,http://112.193.40.6:9901/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+ 西藏卫视,http://112.193.40.6:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+ 新疆卫视,http://112.193.40.6:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+ 甘肃卫视,http://112.193.40.6:9901/tsfile/live/faacts/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+ 旅游卫视,http://112.193.40.6:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
+ 四川卫视,http://112.193.40.6:9901/tsfile/live/faacts/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+ 金鹰卡通,http://112.193.40.6:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+ 陕西卫视,http://112.193.40.6:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+ 
+ 河南频道,#genre#
+ 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
+ 河南新闻,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxw
+ 河南都市,http://nctv.top/IDOEPpiryt/hntv.php?id=hnds
+ 河南民生,http://nctv.top/IDOEPpiryt/hntv.php?id=hnms
+ 河南法治,http://nctv.top/IDOEPpiryt/hntv.php?id=hnfz
+ 河南电视剧,http://nctv.top/IDOEPpiryt/hntv.php?id=hndsj
+ 河南公共,http://nctv.top/IDOEPpiryt/hntv.php?id=hngg
+ 河南乡村,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxc
+ 河南国际,http://nctv.top/IDOEPpiryt/hntv.php?id=hngj
+ 河南梨园,http://nctv.top/IDOEPpiryt/hntv.php?id=hnly
+ 文物宝库,http://nctv.top/IDOEPpiryt/hntv.php?id=wwbk
+ 武术世界,http://nctv.top/IDOEPpiryt/hntv.php?id=wspd
+ 睛彩中原,http://nctv.top/IDOEPpiryt/hntv.php?id=jczy
+ 象视界,http://nctv.top/IDOEPpiryt/hntv.php?id=xsj
+ 国学频道,http://nctv.top/IDOEPpiryt/hntv.php?id=gxpd
+
+
+
+🆗河南联通频道2,#genre#
+CCTV-1高清,http://115.60.241.249:2000/rtp/225.1.4.73:1102
+CCTV-2高清,http://115.60.241.249:2000/rtp/225.1.4.74:1103
+CCTV-3高清,http://115.60.241.249:2000/rtp/225.1.4.158:1194
+CCTV-4高清,http://115.60.241.249:2000/rtp/225.1.5.30:1333
+CCTV-5高清,http://115.60.241.249:2000/rtp/225.1.4.159:1195
+CCTV-6高清,http://115.60.241.249:2000/rtp/225.1.4.160:1196
+CCTV-7高清,http://115.60.241.249:2000/rtp/225.1.4.76:1105
+CCTV-8高清,http://115.60.241.249:2000/rtp/225.1.4.161:1197
+CCTV-9高清,http://115.60.241.249:2000/rtp/225.1.4.77:1106
+CCTV-10高清,http://115.60.241.249:2000/rtp/225.1.4.78:1107
+CCTV-11高清,http://115.60.241.249:2000/rtp/225.1.4.215:1268
+CCTV-12高清,http://115.60.241.249:2000/rtp/225.1.4.79:1108
+CCTV-13高清,http://115.60.241.249:2000/rtp/225.1.4.113:1293
+CCTV-14高清,http://115.60.241.249:2000/rtp/225.1.4.80:1109
+CCTV-15高清,http://115.60.241.249:2000/rtp/225.1.4.216:1269
+CCTV-16高清,http://115.60.241.249:2000/rtp/225.1.5.46:1356
+CCTV-17高清,http://115.60.241.249:2000/rtp/225.1.4.226:2506
+CCTV-5＋高清,http://115.60.241.249:2000/rtp/225.1.4.75:1104
+
+
+高清卫视频道,#genre#
+湖南卫视高清,http://115.60.241.249:2000/rtp/225.1.4.82:1111
+江苏卫视高清,http://115.60.241.249:2000/rtp/225.1.4.83:1112
+浙江卫视高清,http://115.60.241.249:2000/rtp/225.1.4.84:1113
+北京卫视高清,http://115.60.241.249:2000/rtp/225.1.4.81:1110
+东方卫视高清,http://115.60.241.249:2000/rtp/225.1.4.85:1114
+天津卫视高清,http://115.60.241.249:2000/rtp/225.1.4.86:1115
+山东卫视高清,http://115.60.241.249:2000/rtp/225.1.4.88:1117
+安徽卫视高清,http://115.60.241.249:2000/rtp/225.1.4.87:1116
+深圳卫视高清,http://115.60.241.249:2000/rtp/225.1.4.90:1119
+江西卫视高清,http://115.60.241.249:2000/rtp/225.1.4.139:1305
+湖北卫视高清,http://115.60.241.249:2000/rtp/225.1.4.89:1118
+四川卫视高清,http://115.60.241.249:2000/rtp/225.1.4.151:1306
+黑龙江卫视高清,http://115.60.241.249:2000/rtp/225.1.4.91:1120
+云南卫视高清,http://115.60.241.249:2000/rtp/225.1.4.152:1307
+贵州卫视高清,http://115.60.241.249:2000/rtp/225.1.4.122:1302
+辽宁卫视高清,http://115.60.241.249:2000/rtp/225.1.4.167:1208
+东南卫视高清,http://115.60.241.249:2000/rtp/225.1.4.228:1274
+重庆卫视高清,http://115.60.241.249:2000/rtp/225.1.4.157:1308
+ 广东卫视高清,http://115.60.241.249:2000/rtp/225.1.4.166:1207
+ 广西卫视,http://115.60.241.249:2000/rtp/225.1.4.31:1060
+ 河北卫视高清,http://115.60.241.249:2000/rtp/225.1.4.123:1304
+ 海南卫视,http://115.60.241.249:2000/rtp/225.1.4.25:1054
+ 吉林卫视高清,http://115.60.241.249:2000/rtp/225.1.4.174:1309
+ 山西卫视,http://115.60.241.249:2000/rtp/225.1.4.38:1067
+ 陕西卫视http://115.60.241.249:2000/rtp/225.1.4.39:1068
+ 甘肃卫视,http://115.60.241.249:2000/rtp/225.1.4.42:1071
+ 宁夏卫视,http://115.60.241.249:2000/rtp/225.1.4.43:1072
+ 
+ 河南频道,#genre#
+ 河南卫视高清,http://115.60.241.249:2000/rtp/225.1.4.98:1127
+ 河南都市频道高清,http://115.60.241.249:2000/rtp/225.1.4.52:1081
+ 河南民生频道,http://115.60.241.249:2000/rtp/225.1.4.53:1082
+ 河南法治频道,http://115.60.241.249:2000/rtp/225.1.4.54:1083
+ 河南电视剧频道高清,http://115.60.241.249:2000/rtp/225.1.4.55:1084
+ 河南新闻高清,http://115.60.241.249:2000/rtp/225.1.4.56:1085
+ 河南欢腾购物,http://115.60.241.249:2000/rtp/225.1.4.57:1086
+ 河南公共频道高清,http://115.60.241.249:2000/rtp/225.1.4.58:1087
+ 河南乡村频道,http://115.60.241.249:2000/rtp/225.1.4.120:1149
+ 河南国际频道,http://115.60.241.249:2000/rtp/225.1.4.102:1131
+ 睛彩中原,http://115.60.241.249:2000/rtp/225.1.4.163:1203
+ 移动戏曲,http://115.60.241.249:2000/rtp/225.1.4.206:1254
+ 河南文物宝库,http://115.60.241.249:2000/rtp/225.1.4.100:1129
+ 河南梨园频道,http://115.60.241.249:2000/rtp/225.1.4.99:1128
+ 河南武术世界,http://115.60.241.249:2000/rtp/225.1.4.101:1130
+ 
+ 
+🆗河南联通频道3,#genre#
+
+ CCTV1,http://221.205.180.88:8003/rtp/226.0.2.153:9136
+ CCTV2,http://221.205.180.88:8003/rtp/226.0.2.154:9144
+ CCTV3,http://221.205.180.88:8003/rtp/226.0.2.208:9576
+ CCTV4,http://221.205.180.88:8003/rtp/226.0.2.156:9160
+ CCTV5,http://221.205.180.88:8003/rtp/226.0.2.209:9584
+ CCTV6,http://221.205.180.88:8003/rtp/226.0.2.210:9592
+ CCTV7,http://221.205.180.88:8003/rtp/226.0.2.159:9184
+ CCTV8,http://221.205.180.88:8003/rtp/226.0.2.211:9600
+ CCTV9,http://221.205.180.88:8003/rtp/226.0.2.161:9200
+ CCTV10,http://221.205.180.88:8003/rtp/226.0.2.162:9208
+ CCTV11,http://221.205.180.88:8003/rtp/226.0.2.28:8136
+ CCTV12,http://221.205.180.88:8003/rtp/226.0.2.164:9224
+ CCTV13,http://221.205.180.88:8003/rtp/226.0.2.165:9232
+ CCTV14,http://221.205.180.88:8003/rtp/226.0.2.166:9240
+ CCTV15,http://221.205.180.88:8003/rtp/226.0.2.32:8168
+ CCTV16,http://221.205.180.88:8003/rtp/226.0.2.169:9264
+ CCTV5+体育赛事,http://221.205.180.88:8003/rtp/226.0.2.168:9256
+ CCTV17,http://221.205.180.88:8003/rtp/226.0.2.170:9272
+ 卫视频道,#genre#
+ 北京卫视,http://221.205.180.88:8003/rtp/226.0.2.177:9328
+ 天津卫视,http://221.205.180.88:8003/rtp/226.0.2.148:9096
+ 东方卫视,http://221.205.180.88:8003/rtp/226.0.2.175:9312
+ 重庆卫视,http://221.205.180.88:8003/rtp/226.0.2.174:9304
+ 湖南卫视,http://221.205.180.88:8003/rtp/226.0.2.143:9056
+ 浙江卫视,http://221.205.180.88:8003/rtp/226.0.2.144:9064
+ 江苏卫视,http://221.205.180.88:8003/rtp/226.0.2.176:9320
+ 山东卫视,http://221.205.180.88:8003/rtp/226.0.2.149:9104
+ 广东卫视,http://221.205.180.88:8003/rtp/226.0.2.146:9080
+ 深圳卫视,http://221.205.180.88:8003/rtp/226.0.2.147:9088
+ 安徽卫视,http://221.205.180.88:8003/rtp/226.0.2.145:9072
+ 四川卫视,http://221.205.180.88:8003/rtp/226.0.2.179:9344
+ 陕西卫视,http://221.205.180.88:8003/rtp/226.0.2.53:8336
+ 山西卫视,http://221.205.180.88:8003/rtp/226.0.2.152:9128
+ 湖北卫视,http://221.205.180.88:8003/rtp/226.0.2.150:9112
+ 河北卫视,http://221.205.180.88:8003/rtp/226.0.2.178:9336
+ 福建卫视,http://221.205.180.88:8003/rtp/226.0.2.188:9416
+ 河南卫视,http://221.205.180.88:8003/rtp/226.0.2.52:8328
+江西卫视,http://221.205.180.88:8003/rtp/226.0.2.54:8344
+ 广西卫视,http://221.205.180.88:8003/rtp/226.0.2.231:9760
+ 内蒙古卫视,http://221.205.180.88:8003/rtp/226.0.2.63:8416
+ 海南卫视,http://221.205.180.88:8003/rtp/226.0.2.212:9608
+ 云南卫视,http://221.205.180.88:8003/rtp/226.0.2.60:8392
+ 贵州卫视,http://221.205.180.88:8003/rtp/226.0.2.180:9352
+ 青海卫视,http://221.205.180.88:8003/rtp/226.0.2.59:8384
+ 宁夏卫视,http://221.205.180.88:8003/rtp/226.0.2.64:8424
+ 甘肃卫视,http://221.205.180.88:8003/rtp/226.0.2.55:8352
+ 黑龙江卫视,http://221.205.180.88:8003/rtp/226.0.2.151:9120
+ 吉林卫视,http://221.205.180.88:8003/rtp/226.0.2.58:8376
+ 辽宁卫视,http://221.205.180.88:8003/rtp/226.0.2.173:9296
+ 西藏卫视,http://221.205.180.88:8003/rtp/226.0.2.66:8440
+ 新疆卫视,http://221.205.180.88:8003/rtp/226.0.2.67:8448
+ 兵团卫视,http://221.205.180.88:8003/rtp/226.0.2.62:8408
+ 
+ 河南频道,#genre#	
+ 
+ 河南卫视,http://live.nctv.top/IQRy0ie/hntv.php?id=hnws
+ 河南新闻,http://live.nctv.top/IQRy0ie/hntv.php?id=hnxw
+ 河南都市,http://live.nctv.top/IQRy0ie/hntv.php?id=hnds
+ 河南民生,http://live.nctv.top/IQRy0ie/hntv.php?id=hnms
+ 河南法治,http://live.nctv.top/IQRy0ie/hntv.php?id=hnfz
+ 河南电视剧,http://live.nctv.top/IQRy0ie/hntv.php?id=hndsj
+ 河南公共,http://live.nctv.top/IQRy0ie/hntv.php?id=hngg
+ 河南乡村,http://live.nctv.top/IQRy0ie/hntv.php?id=hnxc
+ 河南国际,http://live.nctv.top/IQRy0ie/hntv.php?id=hngj
+ 河南梨园,http://live.nctv.top/IQRy0ie/hntv.php?id=hnly
+ 文物宝库,http://live.nctv.top/IQRy0ie/hntv.php?id=wwbk
+ 武术世界,http://live.nctv.top/IQRy0ie/hntv.php?id=wspd
+ 睛彩中原,http://live.nctv.top/IQRy0ie/hntv.php?id=jczy
+ 象视界,http://live.nctv.top/IQRy0ie/hntv.php?id=xsj
+ 国学频道,http://live.nctv.top/IQRy0ie/hntv.php?id=gxpd

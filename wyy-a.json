@@ -254,16 +254,34 @@
           "from": "4k|auto"
          }                
        },                                                                   
-       {
-            "key": "南瓜",
-            "name": "🌟 南瓜｜APP",
+      {
+      "key": "校长弹幕版",
+      "name": "💦小章┃4K弹幕",
+      "type": 3,
+      "api": "csp_XiaoZhangGuard",
+      "jar": "./jar/韩圈.png",         
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+            {
+            "key": "肥猫",
+            "name": "🌟 肥猫｜APP",
             "type": 3,
-            "api": "csp_NanGua",
-            "jar":"./jar/老虎.jar",                       
-            "playerType": 2,
-            "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-       },  
-       {
+            "api": "csp_AppGet",
+            "jar":"./jar/肥猫.jar",                        
+            "ext": {
+                "url": "https://mac.555618.xyz",
+                "dataKey": "#getapp@TMD@2025",
+                "siteApi": "get",
+                "version": "201"
+            }
+    },          
+    {
             "key": "yunyun",
             "name": "🌟 云云┃APP",
             "type": 3,
@@ -547,21 +565,7 @@
                 "version": ""
         }
         }, 
-        {
-            "key": "云速",
-            "name": "🌟 云速｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://59.153.167.137:7788/1.json",
-                "dataKey": "4d83b87c4c5ea111",
-                "dataIv": "4d83b87c4c5ea111",
-                "deviceId": "",
-                "version": "105"
-            }
-        },                                                                              
+                                                                               
         {
             "key": "腾讯视频",
             "name": "💢 腾讯｜视频",
@@ -590,7 +594,22 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
-           {
+        {
+           "key": "韩圈",
+           "name": "🦄韩圈┃弹幕",
+           "type": 3,
+           "api": "csp_HanXiaoQuanGuard",
+           "jar": "./jar/韩圈.png",          
+           "playerType": 2,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": {
+           "danmu": true
+         },
+           "timeout": 10
+       },                                      
+       {
             "key": "麦田影视",
             "name": "🌺 麦田｜影视",
             "type": 3,
