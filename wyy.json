@@ -128,21 +128,20 @@
                 "version": ""
            }
        },                                               
-     {
-            "key": "乐达",
-            "name": "🌟 乐达｜APP",
+      {
+            "key": "米诺",
+            "name": "🌟 米诺｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://ledayy.com",
-                "site": "",
-                "dataKey": "hjjp68c2okw12345",
-                "dataIv": "hjjp68c2okw12345",
+                "url": "http://www.milkidc.cn",
+                "dataKey": "20c79c979da8db0f",
+                "dataIv": "20c79c979da8db0f",
                 "deviceId": "",
                 "version": ""
             }
-        },          
+        },             
           {
             "key": "仓鼠",
             "name": "🌟 仓鼠｜APP",
