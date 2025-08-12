@@ -943,7 +943,29 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧屋.json"
-        },                                                                                            
+        },    
+         {
+            "key": "河马短剧",
+            "name": "💯 河马｜短剧",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },   
+          {
+            "key": "锦鲤短剧",
+            "name": "💯 锦鲤｜短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                                                                                              
         {
             "key": "哆啦新番社",
             "name": "🎀 哆啦｜新番社",
@@ -1056,7 +1078,18 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "./json/企鹅体育.json"
-        },           
+        },  
+        {
+             "key":"csp_Bili_yanchh",
+             "name":"🎤┃歌手合集",
+             "type":3,
+             "api":"csp_Bili",
+             "searchable":0,
+             "quickSearch":0,
+             "filterable":1,
+             "jar":"./jar/duo.jar",
+             "ext":"./json/geshou.json"
+         },         
          {
             "key": "哔哩视频",
             "name": "🅱️ 哔哩｜视频",
@@ -1187,6 +1220,12 @@
             }
         },
       {
+            "key": "本地",
+            "name": "📽 本地视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },             
+         {
             "key": "版本信息",
             "name": "🌊 版本｜信息",
             "type": 3,
@@ -1195,13 +1234,8 @@
             "changeable": 0,
             "indexs": 0,
             "ext": "https://pizazz.s3.bitiful.net/single.json"
-        },  
-          {
-            "key": "本地",
-            "name": "📽 本地视频",
-            "type": 3,
-            "api": "csp_LocalFile"
         }
+         
     ],
     "parses": [
         {

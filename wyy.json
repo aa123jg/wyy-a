@@ -112,22 +112,7 @@
              "jar":"./jar/老虎.jar",                        
             "playerType": 2,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },              
-       {
-            "key": "豆丁",
-            "name": "🌟 豆丁｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": ""
-           }
-       },                                               
+        },                                                           
       {
             "key": "米诺",
             "name": "🌟 米诺｜APP",
@@ -194,21 +179,7 @@
             "ext": {
                 "url": "http://tt.ysdqjs.cn"
             }
-        },
-            {   
-            "key": "外剧",
-            "name": "🌟 外剧｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {                     
-                "url": "https://guowaiju.com",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": ""
-            }
-        },                
+        },               
         {
             "key": "浪酷影视",
             "name": "🌟 浪酷｜APP",
@@ -762,7 +733,29 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧屋.json"
-        },                                                                                           
+        },   
+        {
+            "key": "河马短剧",
+            "name": "💯 河马｜短剧",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },   
+          {
+            "key": "锦鲤短剧",
+            "name": "💯 锦鲤｜短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                                                                                     
         {
             "key": "哆啦新番社",
             "name": "🎀 哆啦｜新番社",
@@ -877,6 +870,17 @@
             "ext": "./json/企鹅体育.json"
         },
          {
+             "key":"csp_Bili_yanchh",
+             "name":"🎤┃歌手合集",
+             "type":3,
+             "api":"csp_Bili",
+             "searchable":0,
+             "quickSearch":0,
+             "filterable":1,
+             "jar":"./jar/duo.jar",
+             "ext":"./json/geshou.json"
+         }, 
+         {
             "key": "哔哩视频",
             "name": "🅱️ 哔哩｜视频",
             "type": 3,
@@ -894,7 +898,7 @@
                 "json": "./json/哔哩视频.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
-        },         
+        }, 
         {
             "key": "哔哩哔哩演唱会",
             "name": "🅱️ 哔哩｜音乐",
@@ -1005,7 +1009,13 @@
                 "ratio": 1.597
             }
         },
-         {
+       {
+            "key": "本地",
+            "name": "📽 本地视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+       },               
+       {
             "key": "版本信息",
             "name": "🌊 版本｜信息",
             "type": 3,
@@ -1014,13 +1024,8 @@
             "changeable": 0,
             "indexs": 0,
             "ext": "https://pizazz.s3.bitiful.net/single.json"
-        },        
-        {
-            "key": "本地",
-            "name": "📽 本地视频",
-            "type": 3,
-            "api": "csp_LocalFile"
-        }
+        }     
+        
     ],
     "parses": [
          {
