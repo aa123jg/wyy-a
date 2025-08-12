@@ -590,7 +590,7 @@
         },
         {
            "key": "韩圈",
-           "name": "🦄韩圈┃弹幕",
+           "name": "🌺 韩圈┃弹幕",
            "type": 3,
            "api": "csp_HanXiaoQuanGuard",
            "jar": "./jar/韩圈.png",          
@@ -616,14 +616,7 @@
             "type": 3,
             "api": "csp_Jiaozi",
             "playerType": 2
-        },            
-         {
-            "key": "七点影视",
-            "name": "🌺 七点｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/七点影视.json"
-        },             
+        },                       
         {
             "key": "三六零",
             "name": "🌺 三六零｜视频",
@@ -669,13 +662,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "绝对影视",
-            "name": "🌺 绝对｜影视",
-            "type": 3,
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
         {
             "key": "瓜子影视",
             "name": "🌺 瓜子｜影视",
@@ -685,17 +671,6 @@
             "quickSearch": 1,
             "filterable": 1
        },
-       {
-            "key": "FourKTV",
-            "name": "🌺 复刻｜影视",
-            "type": 3,
-            "api": "csp_FourKTV",
-            "jar": "https://lz.qaiu.top/d/lz/iZZiO2rkmy5g",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },  
         {
             "key": "爱看机器人",
             "name": "🌺 爱看｜影视",
@@ -712,13 +687,6 @@
             "api": "csp_HBPQ",
             "ext": "./json/面包影视.json"
         },     
-        {
-            "key": "三九影视",
-            "name": "🌺 三九｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/三九影视.json"
-        },
         {
             "key": "厂长影视",
             "name": "🌺 厂长｜影视",
