@@ -293,37 +293,8 @@
              "jar":"./jar/老虎.jar",                        
             "playerType": 2,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },              
-       {
-            "key": "豆丁",
-            "name": "🌟 豆丁｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": ""
-           }
-       },                                               
- {
-            "key": "米诺",
-            "name": "🌟 米诺｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.milkidc.cn",
-                "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f",
-                "deviceId": "",
-                "version": ""
-            }
-        },             
-         {
+   },                                                                      
+    {
             "key": "仓鼠",
             "name": "🌟 仓鼠｜APP",
             "type": 3,
@@ -376,20 +347,6 @@
                 "url": "http://tt.ysdqjs.cn"
             }
         },
-            {   
-            "key": "外剧",
-            "name": "🌟 外剧｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {                     
-                "url": "https://guowaiju.com",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": ""
-            }
-        },                
         {
             "key": "浪酷影视",
             "name": "🌟 浪酷｜APP",
@@ -559,7 +516,20 @@
                 "version": ""
         }
         }, 
-                                                                               
+    {
+            "key": "星河",
+            "name": "🌟 星河｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppSy",
+            "jar": "./jar/spider.jar",          
+            "ext": {
+                "url": "http://192.140.161.171:2563",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },
         {
             "key": "腾讯视频",
             "name": "💢 腾讯｜视频",
