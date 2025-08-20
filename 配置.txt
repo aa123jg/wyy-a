@@ -1,0 +1,2 @@
+1、clan://localhost/wyy-a/wyy.json
+2、clan://localhost/wyy-a/wyy-a.json

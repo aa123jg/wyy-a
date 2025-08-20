@@ -13,21 +13,16 @@
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
          },
-        {
-            "name": "Guovin",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 1,
-            "timeout": 10
-        }
+        {"name":"IPV4聚合",
+               "type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+               "logo":"https://epg.112114.xyz/logo/{name}.png"
+         },
+       {"name":"IPV6聚合",
+               "type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
+               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+               "logo":"https://epg.112114.xyz/logo/{name}.png"
+         }
     ],       
     "sites": [
         {
@@ -300,35 +295,19 @@
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
         },              
        {
-            "key": "豆丁",
-            "name": "🌟 豆丁｜APP",
+            "key": "米诺",
+            "name": "🌟 米诺｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": ""
-           }
-       },                                               
-    {
-            "key": "乐达",
-            "name": "🌟 乐达｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://ledayy.com",
-                "site": "",
-                "dataKey": "hjjp68c2okw12345",
-                "dataIv": "hjjp68c2okw12345",
+                "url": "http://www.milkidc.cn",
+                "dataKey": "20c79c979da8db0f",
+                "dataIv": "20c79c979da8db0f",
                 "deviceId": "",
                 "version": ""
             }
-        },               
+        },             
          {
             "key": "仓鼠",
             "name": "🌟 仓鼠｜APP",
@@ -565,7 +544,7 @@
                 "version": ""
         }
         }, 
-                                                                               
+                                                                  
         {
             "key": "腾讯视频",
             "name": "💢 腾讯｜视频",
@@ -594,21 +573,15 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
-        {
-           "key": "韩圈",
-           "name": "🦄韩圈┃弹幕",
-           "type": 3,
-           "api": "csp_HanXiaoQuanGuard",
-           "jar": "./jar/韩圈.png",          
-           "playerType": 2,
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": {
-           "danmu": true
-         },
-           "timeout": 10
-       },                                      
+     {
+      "key": "Wexhanxiaoquan",
+      "name": "🌺 韩剧｜弹幕",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "jar":"./jar/wex.png;md5;2fae453e2661200bdb1f6305972fc663",
+      "searchable": 1,
+      "changeable": 1
+    },                                   
        {
             "key": "麦田影视",
             "name": "🌺 麦田｜影视",
@@ -622,14 +595,7 @@
             "type": 3,
             "api": "csp_Jiaozi",
             "playerType": 2
-        },            
-         {
-            "key": "七点影视",
-            "name": "🌺 七点｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/七点影视.json"
-        },             
+        },                       
         {
             "key": "三六零",
             "name": "🌺 三六零｜视频",
@@ -675,13 +641,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "绝对影视",
-            "name": "🌺 绝对｜影视",
-            "type": 3,
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
         {
             "key": "瓜子影视",
             "name": "🌺 瓜子｜影视",
@@ -691,17 +650,6 @@
             "quickSearch": 1,
             "filterable": 1
        },
-       {
-            "key": "FourKTV",
-            "name": "🌺 复刻｜影视",
-            "type": 3,
-            "api": "csp_FourKTV",
-            "jar": "https://lz.qaiu.top/d/lz/iZZiO2rkmy5g",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },  
         {
             "key": "爱看机器人",
             "name": "🌺 爱看｜影视",
@@ -718,13 +666,6 @@
             "api": "csp_HBPQ",
             "ext": "./json/面包影视.json"
         },     
-        {
-            "key": "三九影视",
-            "name": "🌺 三九｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/三九影视.json"
-        },
         {
             "key": "厂长影视",
             "name": "🌺 厂长｜影视",
@@ -949,7 +890,29 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧屋.json"
-        },                                                                                            
+        },    
+         {
+            "key": "河马短剧",
+            "name": "💯 河马｜短剧",
+            "type": 3,
+            "api": "./py/河马短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },   
+          {
+            "key": "锦鲤短剧",
+            "name": "💯 锦鲤｜短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                                                                                              
         {
             "key": "哆啦新番社",
             "name": "🎀 哆啦｜新番社",
@@ -1062,7 +1025,18 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "./json/企鹅体育.json"
-        },           
+        },  
+        {
+             "key":"csp_Bili_yanchh",
+             "name":"🎤┃歌手合集",
+             "type":3,
+             "api":"csp_Bili",
+             "searchable":0,
+             "quickSearch":0,
+             "filterable":1,
+             "jar":"./jar/duo.jar",
+             "ext":"./json/geshou.json"
+         },         
          {
             "key": "哔哩视频",
             "name": "🅱️ 哔哩｜视频",
@@ -1193,6 +1167,12 @@
             }
         },
       {
+            "key": "本地",
+            "name": "📽 本地视频",
+            "type": 3,
+            "api": "csp_LocalFile"
+        },             
+         {
             "key": "版本信息",
             "name": "🌊 版本｜信息",
             "type": 3,
@@ -1201,13 +1181,8 @@
             "changeable": 0,
             "indexs": 0,
             "ext": "https://pizazz.s3.bitiful.net/single.json"
-        },  
-          {
-            "key": "本地",
-            "name": "📽 本地视频",
-            "type": 3,
-            "api": "csp_LocalFile"
         }
+         
     ],
     "parses": [
         {
