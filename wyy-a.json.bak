@@ -293,37 +293,8 @@
              "jar":"./jar/老虎.jar",                        
             "playerType": 2,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },              
-       {
-            "key": "豆丁",
-            "name": "🌟 豆丁｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-                "dataKey": "xasdasdqwertyuio",
-                "dataIv": "xasdasdqwertyuio",
-                "deviceId": "",
-                "version": ""
-           }
-       },                                               
- {
-            "key": "米诺",
-            "name": "🌟 米诺｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.milkidc.cn",
-                "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f",
-                "deviceId": "",
-                "version": ""
-            }
-        },             
-         {
+   },                                                                      
+    {
             "key": "仓鼠",
             "name": "🌟 仓鼠｜APP",
             "type": 3,
@@ -559,7 +530,7 @@
                 "version": ""
         }
         }, 
-                                                                  
+                                                                               
         {
             "key": "腾讯视频",
             "name": "💢 腾讯｜视频",
@@ -588,15 +559,21 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
-     {
-      "key": "Wexhanxiaoquan",
-      "name": "🌺 韩剧｜弹幕",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "jar":"./jar/wex.png;md5;2fae453e2661200bdb1f6305972fc663",
-      "searchable": 1,
-      "changeable": 1
-    },                                   
+        {
+           "key": "韩圈",
+           "name": "🌺 韩圈┃弹幕",
+           "type": 3,
+           "api": "csp_HanXiaoQuanGuard",
+           "jar": "./jar/韩圈.png",          
+           "playerType": 2,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": {
+           "danmu": true
+         },
+           "timeout": 10
+       },                                      
        {
             "key": "麦田影视",
             "name": "🌺 麦田｜影视",
