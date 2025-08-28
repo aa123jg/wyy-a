@@ -310,20 +310,23 @@
                 "version": "120"
             }
         },           
-        {
-            "key": "晴天",
-            "name": "🌟 晴天｜APP",
+     {
+            "key": "咖啡",
+            "name": "🌟 咖啡丨APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppQi",
+            "jar":"./jar/spider.jar",
             "ext": {
-                "url": "https://qjappcms.sun4k.top",
-                "dataKey": "sBxqXVF5pAHbGzrH",
-                "dataIv": "sBxqXVF5pAHbGzrH",
+                "url": "",
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
                 "deviceId": "",
-                "version": "119"
+                "version": "101",
+                "ua": ""
             }
-        },                                                                                                         
+        },
          {
             "key": "热播影视",
             "name": "🌟 热播｜APP",
@@ -489,20 +492,20 @@
                 "version": "107"
             }
         },              
-       {
-            "key": "蓝光",
-            "name": "🌟 蓝光｜APP",
+    {
+            "key": "狂人",
+            "name": "🌟 狂人 I APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://122.228.193.2:9654",
-                "dataKey": "ca94b06ca3c7d80e",
-                "dataIv": "ca94b06ca3c7d80e",
+                "url": "https://www.zjkrmv.vip",
+                "dataKey": "vXeyuJFqTKqWUtWU",
+                "dataIv": "vXeyuJFqTKqWUtWU",
                 "deviceId": "",
-                "version": "119"
-          }
-       },
+                "version": ""
+            }
+        },
       {
             "key": "若惜",
             "name": "🌟 若惜｜APP",
@@ -611,12 +614,12 @@
             "ext": "https://www.91qkw.com"
         },
 
-        {
-            "key": "白白影视",
-            "name": "🌺 白白｜影视",
+      {
+            "key": "三九影视",
+            "name": "🌺 三九｜影视",
             "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "https://www.subaibai.com"
+            "api": "csp_HBPQ",
+            "ext": "./json/三九影视.json"
         },
         {
             "key": "低端影视",
@@ -705,7 +708,8 @@
       "key": "豪华资源",
       "name": "🍄 豪华｜采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://www.haohuazy.com/api.php/provide/vod/at/json",
+      "playUrl": "https://vip.vipuuvip.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": ["内地剧","香港剧","欧美剧","韩剧","日剧","马泰剧","台湾剧", "动画片","中国动漫","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片", "喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺" ] 
@@ -775,8 +779,8 @@
             ]
         },
          {
-            "key": "红牛影视",
-            "name": "🍄红牛｜采集",
+            "key": "工厂影视",
+            "name": "🍄 工厂｜采集",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 0,
