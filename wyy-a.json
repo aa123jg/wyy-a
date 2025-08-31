@@ -402,21 +402,20 @@
                 "version": "361"
             }
         },       
-              {
-            "key": "瓜萌",
-            "name": "🌟 瓜萌｜APP",
+        {   
+            "key": "外剧",
+            "name": "🌟 外剧｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://www.guahd.com/1.txt",
-                "dataKey": "f2A7D4B9E8C16531",
-                "dataIv": "f2A7D4B9E8C16531",
+            "ext": {                     
+                "url": "https://guowaiju.com",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
                 "deviceId": "",
                 "version": ""
             }
-        },
+        },                
         {
             "key": "橘子",
             "name": "🌟 橘子｜APP",

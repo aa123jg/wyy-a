@@ -17,7 +17,6 @@ CCTV-13,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226543/index.m3
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-16,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-16,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=3&playseek=
 北京卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226519/index.m3u8?icpid=88888888&servicetype=3&playseek=
 天津卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -969,56 +968,56 @@ CCTV16,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1
 
 🌴 港澳台频道,#genre#
 
-凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-无线新闻台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-pluc综合,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-popc,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-天映频道,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-无线明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVB翡剧,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-无线明剧,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-TVB J1,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-黄金翡翠,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-好莱坞电影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-民视,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-民视第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-龙华日韩,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-八度空间,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-靖天国际台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-CNA新闻,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-AXN电影台,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-星光综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/zxcvbnm9852.flv
-TVB plus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-RTHK,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8?hls_ctx=r4i0j937
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
-
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+凤凰资讯,http://live.xmqkx.com/live/7KUcGQoK76UZDdK0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
+凤凰中文,http://play-aliyun.zego.im/live/f68da72875416c57c8b9e070637516c6.flv
+凤凰香港,http://play-aliyun.zego.im/live/8decb5d4d1f570cf97e43407e00f4394.flv
+无线新闻台,http://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo6UZDdgNC09xXfFvAn4GP.flv
+TVB明珠,http://live.xmqkx.com/live/U5Lu0QKcXlS8JlsFq99Y9fgbg6UZDdqtabagzClzSngLlR1hL2.flv
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8?hls_ctx=558u0f80
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB,http://cdn.163189.xyz/api/tvbp/194025
+NOW新闻,http://cdn.163189.xyz/api/now/79235
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+HOY77,http://api.mytv666.top/api/hkhk.php?id=3363613361353930343765376664626230343135323066643833303864633037267469643d77696e74763132332669643d3337&auth=123
+HOY78,http://api.mytv666.top/api/hkhk.php?id=6361643536323038326566646537653763653734396561333762376462636366267469643d77696e74763132332669643d36&auth=123
+mytv,http://api.mytv666.top/api/hkhk.php?id=3262653732393564383135306138663636396562333131366461316635356432267469643d77696e74763132332669643d3230&auth=123
+NOW财经台,http://api.mytv666.top/api/hkhk.php?id=3661316466353339303037343231613961326631373132343166326638666563267469643d77696e74763132332669643d3332&auth=123
+NOW新闻台,http://api.mytv666.top/api/hkhk.php?id=3031623934646639653139313537643561326432643463343838643631316161267469643d77696e74763132332669643d3331&auth=123
+华视新闻台,http://api.mytv666.top/api/hkhk.php?id=6261363335363330383638353961326461623131616231386263356433316265267469643d77696e74763132332669643d3531&auth=123
+中视新闻台,http://api.mytv666.top/api/hkhk.php?id=6138663230386338366361363064623465353961333963373563343466316639267469643d77696e74763132332669643d3530&auth=123
+台视新闻台,http://api.mytv666.top/api/hkhk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439&auth=123
+寰宇新闻台湾台,http://api.mytv666.top/api/hkhk.php?id=3264386336616633313438633165356234343633333835343932323730646666267469643d77696e74763132332669643d3438&auth=123
+寰宇新闻台,http://api.mytv666.top/api/hkhk.php?id=3564653032633337613964616638353465646263396438356462316234373238267469643d77696e74763132332669643d3437&auth=123
+东森新闻台,http://api.mytv666.top/api/hkhk.php?id=6666323035643663343766316231356134636232653135646535333232336166267469643d77696e74763132332669643d3434&auth=123
+中天新闻台,http://api.mytv666.top/api/hkhk.php?id=3862366539313935356333316130363734623834353962623032616433353263267469643d77696e74763132332669643d3433&auth=123
+民视旅游台,http://api.mytv666.top/api/hkhk.php?id=3663636134303964303063353333326433303230353763393836326330643437267469643d77696e74763132332669643d3632&auth=123
+民视影剧台,http://api.mytv666.top/api/hkhk.php?id=3932633963646136396465373830346233643461306137346538363539353136267469643d77696e74763132332669643d3631&auth=123
+民视台湾台,http://api.mytv666.top/api/hkhk.php?id=3936623864373237393832636234343734303638633864343932633266353565267469643d77696e74763132332669643d3630&auth=123
+民视第一台,http://api.mytv666.top/api/hkhk.php?id=3439383336376563333165643336383130326662303638653865313765396563267469643d77696e74763132332669643d3539&auth=123
+民视新闻台,http://api.mytv666.top/api/hkhk.php?id=3866616331333533363464353463346432653139633236633036643261633831267469643d77696e74763132332669643d3538&auth=123
+非凡新闻台,http://api.mytv666.top/api/hkhk.php?id=6535653061616461623036323237633861356363353266366634613166303734267469643d77696e74763132332669643d3536&auth=123
+镜电视新闻台,http://api.mytv666.top/api/hkhk.php?id=6463663666393262636638326639623730393065356532633436656361353232267469643d77696e74763132332669643d3535&auth=123
+TVBS新闻台,http://api.mytv666.top/api/hkhk.php?id=6366366232313066623564653734326233383533656239343137313864626639267469643d77696e74763132332669643d3532&auth=123
+TVBS精彩台,http://api.mytv666.top/api/hkhk.php?id=3965316530663461373932623537373037303234333262373931613232343761267469643d77696e74763132332669643d3732&auth=123
+TVBS欢乐台,http://api.mytv666.top/api/hkhk.php?id=6236616334353366303862316264353063653232626338383639306330623231267469643d77696e74763132332669643d3731&auth=123
+TVBS HD,http://api.mytv666.top/api/hkhk.php?id=3530393233353135316139356235363965653137653863353561653864336263267469643d77696e74763132332669643d3730&auth=123
+华视,http://api.mytv666.top/api/hkhk.php?id=3537333165663764383566623263326364383330316264303565343834386337267469643d77696e74763132332669643d3638&auth=123
+中视,http://api.mytv666.top/api/hkhk.php?id=3366353036636664306332393565306231326664383865666337396366353366267469643d77696e74763132332669643d3637&auth=123
+台视,http://api.mytv666.top/api/hkhk.php?id=3635653132623764396265363436643739323138323765393036626237366463267469643d77696e74763132332669643d3636&auth=123
+民视,http://api.mytv666.top/api/hkhk.php?id=3535663430343962396335386334633135326162666337313938633136663933267469643d77696e74763132332669643d3635&auth=123
+民视综艺台,http://api.mytv666.top/api/hkhk.php?id=3466353364643062353139316130616161376438323237333565653365343633267469643d77696e74763132332669643d3633&auth=123
+DAZN1,http://api.mytv666.top/api/hkhk.php?id=3366366163306530383161323938613236396265353732323439646338386463267469643d77696e74763132332669643d3832&auth=123
+DAZN2,http://api.mytv666.top/api/hkhk.php?id=3133333365353137306366656266346234663337626537306438613139366234267469643d77696e74763132332669643d3833&auth=123
+纬来育乐,http://api.mytv666.top/api/hkhk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831&auth=123
+纬来日本,http://api.mytv666.top/api/hkhk.php?id=6162396334313766366139633661346139336139613735646138303363373534267469643d77696e74763132332669643d3830&auth=123
+纬来体育,http://api.mytv666.top/api/hkhk.php?id=3131306433316436386566396535356262303237306166353463653738636565267469643d77696e74763132332669643d3739&auth=123
+中天亚洲台,http://api.mytv666.top/api/hkhk.php?id=6230353962323532613838363830373564306164326137336138366430623435267469643d77696e74763132332669643d3738&auth=123
+靖天欢乐台,http://api.mytv666.top/api/hkhk.php?id=3134396232666635333534363864333434386131613963356638653738366665267469643d6c6974762669643d3633&auth=123
+靖天戏剧台,http://api.mytv666.top/api/hkhk.php?id=3331323563616233346231323734653436373937363665383764383161376438267469643d6c6974762669643d3338&auth=123
+靖天映画,http://api.mytv666.top/api/hkhk.php?id=3866323634653230653963633263353738626262303238666138363638386266267469643d6c6974762669643d3730&auth=123
+靖天资讯台,http://api.mytv666.top/api/hkhk.php?id=3866323634653230653963633263353738626262303238666138363638386266267469643d6c6974762669643d3730&auth=123
+靖天综合台,http://api.mytv666.top/api/hkhk.php?id=3561353766363161633733306331323863643833666634383932313362633265267469643d6c6974762669643d3634&auth=123
 
 
 
