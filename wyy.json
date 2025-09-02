@@ -83,6 +83,16 @@
             "quickSearch": 1
         },   
          {
+         "key":"csp_XBPQ_电视剧网",
+         "name":"🌇 电视剧网",
+         "type":3,"api":"csp_XBPQ",    
+         "jar": "./jar/xyqxbpq.jar",     
+         "searchable": 1,
+         "quickSearch": 0,
+         "filterable": 1,
+         "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"<span class=\"sketch content\">&&</span>","搜索url":"https://www.dianshijuv.com/s/-------------.html?wd={wd}&submit=","主页url":"https://www.dianshijuv.com/","分类url":"https://www.dianshijuv.com/p/{cateId}-{catePg}.html","分类":"短剧$duanju#国产剧$guochanju#欧美剧$oumeiju#韩国剧$hanguoju#香港剧$xianggangju#台湾剧$taiwanju#泰国剧$taiguoju"}
+         },
+         {
             "key": "肥猫",
             "name": "🌟 肥猫｜APP",
             "type": 3,
