@@ -360,18 +360,6 @@
             }
         },
         {
-            "key": "天天影视",
-            "name": "🌟 天天｜APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://tt.ysdqjs.cn"
-            }
-        },
-        {
             "key": "浪酷影视",
             "name": "🌟 浪酷｜APP",
             "type": 3,
@@ -525,32 +513,50 @@
                 "version": ""
             }
         },
-      {
-            "key": "若惜",
-            "name": "🌟 若惜｜APP",
+        {
+            "key": "鲸鱼",
+            "name": "🌟 鲸鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "",
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "豆丁",
+            "name": "🌟 豆丁丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://110.40.59.188:9527",
-                "dataKey": "ebad3f1a58b13933",
-                "dataIv": "ebad3f1a58b13933",
+                "url": "",
+                "site": "http://45.66.157.77:9427/dd.txt",
+                "dataKey": "Xasdasd!123123dd",
+                "dataIv": "Xasdasd!123123dd",
                 "deviceId": "",
-                "version": ""
-        }
-        }, 
-    {
-            "key": "星河",
-            "name": "🌟 星河｜APP",
+                "version": "",
+                "ua": ""
+            }
+        },
+   {
+            "key": "旗星",
+            "name": "🌟 旗星｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppSy",
-            "jar": "./jar/spider.jar",          
+            "api": "csp_AppGet",
             "ext": {
-                "url": "http://192.140.161.171:2563",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
+                "url": "http://ys.qist.top",
+                "site": "",
+                "dataKey": "2SWSPFxugBLPPOKo",
+                "dataIv": "2SWSPFxugBLPPOKo",
+                "deviceId": "",
+                "version": "120"
             }
         },
         {
