@@ -321,19 +321,20 @@
                 "version": ""
             }
         },
-      {
-            "key": "鲸鱼",
-            "name": "🌟 鲸鱼｜APP",
+           {
+            "key": "蔬菜",
+            "name": "🌟 蔬菜丨APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-                "dataKey": "AAdgrdghjfgswerA",
-                "dataIv": "AAdgrdghjfgswerA",
+                "url": "http://huohu.yihn.cc",
+                "site": "",
+                "dataKey": "huohushipingetap",
+                "dataIv": "huohushipingetap",
                 "deviceId": "",
-                "version": ""
+                "version": "140",
+                "ua": ""
             }
         },
         {
