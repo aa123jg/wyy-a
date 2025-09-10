@@ -996,10 +996,18 @@
         
     ],
     "parses": [
-
-  
-         {         
-            "name": "夏夜4K",                        
+      {
+      "name": "-4K-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {         
+            "name": "-夏夜4K-",                        
             "type": "1",                        
             "url": "http://8.155.50.80/xiayexk.php?url=",                        
             "ext": {                         
@@ -1024,69 +1032,9 @@
             ]                       
             }                         
          }, 
-                {
-			"name": "一天2000次",
-			"type": "1",
-			"url": "http://moyun.shanhaiguanwu.com/aikan4K.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-                 {
-            "name": "🐬zhangbo",
-            "type": "1",
-            "url": "http://120.46.190.255/小白白.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "leshi",
-                    "imgo",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905",
-                    "m1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-               }                        
-         },                 
+
          {
-            "name": "🦐虾米",
+            "name": "-虾米-",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1116,26 +1064,6 @@
                 }
             }
         },               
-        {
-            "name": "-巧计-",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
-            "ext": {
-                "flag": [
-                    "QD4K",
-                    "iyf",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
        {
          "name":"-爱看-",
          "url":"https://yparse.ik9.cc/index.php?url=",
@@ -1143,35 +1071,7 @@
          "ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"
        }
        },
-      {
-            "name": "无上",
-            "type": "1",
-            "url": "https://mfjx.iwsyy.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },       
+
       {
         "name":"-蜜蜂-",
         "url": "https://jx.xmflv.cc/?url=",
