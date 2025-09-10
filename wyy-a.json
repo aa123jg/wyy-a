@@ -311,7 +311,7 @@
             "name": "🌟 追剧┃App",
             "type": 3,
             "api": "csp_TTian",
-             "jar":"./jar/老虎.jar",                        
+            "jar":"./jar/老虎.jar",                        
             "playerType": 2,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
    },                                                                      
@@ -400,48 +400,20 @@
                 "version": "361"
             }
         },       
-        {   
-            "key": "外剧",
-            "name": "🌟 外剧｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {                     
-                "url": "https://guowaiju.com",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": ""
-            }
-        },                
         {
-            "key": "橘子",
-            "name": "🌟 橘子｜APP",
+            "key": "和友",
+            "name": "🌟 和友｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppSy",
+            "jar":"./jar/spider.jar",
             "ext": {
-                "url": "https://api1.bffree.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015",
-                "deviceId": "",
-                "version": "300"
+                "url": "",
+                "site": "http://qcb.sxtzg.com/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "gHSLmx3JQRasgztO",
+                "parsesKey": "gHSLmx3JQRasgztO"
             }
         },
-       {
-            "key": "米兔",
-            "name": "🌟 米兔｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://new.tkbot.fun",
-                "dataKey": "d032c12876bc6848",
-                "dataIv": "d032c12876bc6848",
-                "deviceId": "",
-                "version": "200"
-            }
-       },        
       {
             "key": "光影",
             "name": "🌟 光影｜APP",
@@ -529,22 +501,6 @@
                 "ua": ""
             }
         },
-        {
-            "key": "豆丁",
-            "name": "🌟 豆丁丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://45.66.157.77:9427/dd.txt",
-                "dataKey": "Xasdasd!123123dd",
-                "dataIv": "Xasdasd!123123dd",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
    {
             "key": "旗星",
             "name": "🌟 旗星｜APP",
@@ -558,6 +514,39 @@
                 "dataIv": "2SWSPFxugBLPPOKo",
                 "deviceId": "",
                 "version": "120"
+            }
+        },
+        {
+            "key": "鲸鱼",
+            "name": "🌟 鲸鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"./jar/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+                {
+            "key": "追番",
+            "name": "🌟 追番丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"./jar/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt",
+                "dataKey": "A1akVPQmnnE4Fz9Z",
+                "dataIv": "A1akVPQmnnE4Fz9Z",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
             }
         },
         {
