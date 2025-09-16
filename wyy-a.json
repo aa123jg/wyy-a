@@ -284,6 +284,22 @@
          "filterable": 1,
          "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"<span class=\"sketch content\">&&</span>","搜索url":"https://www.dianshijuv.com/s/-------------.html?wd={wd}&submit=","主页url":"https://www.dianshijuv.com/","分类url":"https://www.dianshijuv.com/p/{cateId}-{catePg}.html","分类":"短剧$duanju#国产剧$guochanju#欧美剧$oumeiju#韩国剧$hanguoju#香港剧$xianggangju#台湾剧$taiwanju#泰国剧$taiguoju"}
          },
+         {
+            "key": "韩剧看看",
+            "name": "🇰🇷 韩剧┃看看",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/韩剧看看.json",
+            "jar": "./jar/xbpq.jar"
+        },
+        {
+            "key": "韩剧TV",
+            "name": "🇰🇷 韩剧┃TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/韩剧TV.json",
+            "jar": "./jar/xbpq.jar"
+        },    
             {
             "key": "肥猫",
             "name": "🌟 肥猫｜APP",
@@ -579,15 +595,6 @@
             "type": 3,
             "api": "csp_SP360"
         },                           
-         {
-      "key": "Wexhanxiaoquan",
-      "name": "🌺 韩剧｜弹幕",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "jar":"./jar/wex.png;md5;2fae453e2661200bdb1f6305972fc663",
-      "searchable": 1,
-      "changeable": 1
-    }, 
        {
             "key": "麦田影视",
             "name": "🌺 麦田｜影视",
