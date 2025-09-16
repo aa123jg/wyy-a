@@ -402,6 +402,14 @@
             "api": "csp_XBPQ",
             "ext": "./json/韩剧TV.json",
             "jar": "./jar/xbpq.jar"
+        },   
+        {
+            "key": "秀儿影视",
+            "name": "🌺 秀儿┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/秀儿影视.json",
+            "jar": "./jar/xbpq.jar"
         },                                           
        {
             "key": "麦田影视",
