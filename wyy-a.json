@@ -259,6 +259,22 @@
          "filterable": 1,
          "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"<span class=\"sketch content\">&&</span>","搜索url":"https://www.dianshijuv.com/s/-------------.html?wd={wd}&submit=","主页url":"https://www.dianshijuv.com/","分类url":"https://www.dianshijuv.com/p/{cateId}-{catePg}.html","分类":"短剧$duanju#国产剧$guochanju#欧美剧$oumeiju#韩国剧$hanguoju#香港剧$xianggangju#台湾剧$taiwanju#泰国剧$taiguoju"}
          },
+             {
+           "key": "巧技",
+           "name": "💓 巧技┃4K免扫",
+           "type": 3,
+           "api": "csp_qiao2",
+           "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
+           "jar": "https://gitee.com/iy-cpu/iy/raw/master/jars/qj071.jar"
+    },
+    {
+         "key": "魔尊",
+         "name": "💓 魔尊┃4K免扫",
+         "type": 3,
+         "jar": "https://gitee.com/iy-cpu/iy/raw/master/jars/custom_spider.jar",
+         "api": "csp_HBcms10",
+         "ext": "http://154.219.113.13:12121/json/cms.txt"
+       },
          {
             "key": "韩剧看看",
             "name": "🇰🇷 韩剧┃看看",
@@ -631,6 +647,22 @@
                 "site": "",
                 "dataKey": "JEWibY1AgWF0V1xx",
                 "dataIv": "JEWibY1AgWF0V1xx",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "热剧",
+            "name": "🌟 热剧┃APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "https://www.rebovod.com",
+                "site": "",
+                "dataKey": "8191A7F47B37882F",
+                "dataIv": "8191A7F47B37882F",
                 "deviceId": "",
                 "version": "",
                 "ua": ""
