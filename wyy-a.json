@@ -320,36 +320,6 @@
                 "ua": ""
             }
         },                                                                                                 
-        {
-            "key": "云速",
-            "name": "🌟 云速｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://59.153.167.137:7788/1.json",
-                "dataKey": "4d83b87c4c5ea111",
-                "dataIv": "4d83b87c4c5ea111",
-                "deviceId": "",
-                "version": "105"
-            }
-        },
-    {
-            "key": "仓鼠",
-            "name": "🌟 仓鼠｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "",
-                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
-                "dataKey": "Z98KXaLtO2wC1Pte",
-                "dataIv": "Z98KXaLtO2wC1Pte",
-                "deviceId": "",
-                "version": "120"
-            }
-        },           
      {
             "key": "咖啡",
             "name": "🌟 咖啡丨APP",
@@ -381,21 +351,6 @@
                 "version": "120"
             }
         },
-        {
-            "key": "白蛇",
-            "name": "🌟 白蛇｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-                "dataKey": "n3l2tx5jdkp9s2c8",
-                "dataIv": "n3l2tx5jdkp9s2c8",
-                "deviceId": "",
-                "version": "361"
-            }
-        },       
         {
             "key": "萝卜",
             "name": "🌟 萝卜｜APP",
@@ -547,6 +502,135 @@
                 "site": "",
                 "dataKey": "HM6Ly9yeS4ya3dvL",
                 "dataIv": "HM6Ly9yeS4ya3dvL",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "影视",
+            "name": "🌟 影视丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"./jar/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
+                "dataKey": "sada21321sdq231d",
+                "dataIv": "sada21321sdq231d",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "八天",
+            "name": "🌟 八天丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.8ttv.cn",
+                "site": "",
+                "dataKey": "1111111111111111",
+                "dataIv": "1111111111111111",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+       {
+            "key": "紫金",
+            "name": "🌟 紫金丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://www.zjcvod.com",
+                "site": "",
+                "dataKey": "ab4e9a421675f14b",
+                "dataIv": "ab4e9a421675f14b",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "星星",
+            "name": "🌟 星星丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://starani.qcanime.xyz",
+                "site": "",
+                "dataKey": "123456789StarAni",
+                "dataIv": "123456789StarAni",
+                "deviceId": "",
+                "version": "",
+                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+            }
+        },
+        {
+            "key": "像素",
+            "name": "🌟 像素丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mcvod.top",
+                "site": "",
+                "dataKey": "cnmbknmbtounimab",
+                "dataIv": "cnmbknmbtounimab",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+       {
+            "key": "莱米",
+            "name": "🌟 莱米｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+                "dataKey": "ce032244d093b3e2",
+                "dataIv": "ce032244d093b3e2",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "驿站",
+            "name": "🌟 驿站丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"./jar/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+                "dataKey": "dyyztvapiappyyds",
+                "dataIv": "dyyztvapiappyyds",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "五八",
+            "name": "🌟 五八丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.58ys.vip",
+                "site": "",
+                "dataKey": "JEWibY1AgWF0V1xx",
+                "dataIv": "JEWibY1AgWF0V1xx",
                 "deviceId": "",
                 "version": "",
                 "ua": ""
@@ -775,6 +859,19 @@
       "changeable": 1,
       "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]      
       },   
+      
+             {
+            "key": "暴风资源",
+            "name": "🍄 暴风｜采集",         
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "playUrl": "https://vip.vipuuvip.com/?url=",                        
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+         
+        },      
+      
   {
             "key": "天翼资源",
             "name": "🍄 天翼｜采集",
@@ -824,9 +921,10 @@
             "key": "工厂影视",
             "name": "🍄 工厂｜采集",
             "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
             "categories": [
                 "国产剧",
                 "短剧",
