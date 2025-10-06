@@ -319,23 +319,7 @@
                 "version": "",
                 "ua": ""
             }
-        },  
-        {
-            "key": "斗量",
-            "name": "🌟 斗量丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-                "dataKey": "A1akVPQmnnE4Fz9Z",
-                "dataIv": "A1akVPQmnnE4Fz9Z",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },                                                                                                 
+     },  
      {
             "key": "咖啡",
             "name": "🌟 咖啡丨APP",
@@ -658,6 +642,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
+            "jar":"./jar/spider.jar",
             "ext": {
                 "url": "https://www.rebovod.com",
                 "site": "",
