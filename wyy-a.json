@@ -688,13 +688,15 @@
             "api": "csp_SP360"
         }, 
        {
-            "key": "秀儿影视",
-            "name": "🌺 秀儿┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/秀儿影视.json",
-            "jar": "./jar/xbpq.jar"
-        },                                                                      
+             "key": "糯米秒播",
+             "name": "🌺 糯米｜秒播",
+             "type": 3,
+             "api": "csp_NmyswvGuard",
+             "jar": "./jar/Butterfly.jar",
+             "searchable": 1,
+             "quickSearch": 1,
+             "changeable": 1
+         },
         {
             "key": "骚火影视",
             "name": "🌺 骚火｜影视",
