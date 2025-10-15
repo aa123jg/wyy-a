@@ -98,7 +98,7 @@
          "api": "csp_HBcms10",
          "ext": "http://154.219.113.13:12121/json/cms.txt"
        },
-         {
+      {
          "key":"csp_XBPQ_电视剧网",
          "name":"🌇 电视剧网",
          "type":3,"api":"csp_XBPQ",    
@@ -321,22 +321,6 @@
                 "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
                 "dataKey": "sada21321sdq231d",
                 "dataIv": "sada21321sdq231d",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
-                {
-            "key": "八天",
-            "name": "🌟 八天丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://dy.8ttv.cn",
-                "site": "",
-                "dataKey": "1111111111111111",
-                "dataIv": "1111111111111111",
                 "deviceId": "",
                 "version": "",
                 "ua": ""
@@ -602,16 +586,24 @@
             "api": "csp_HBPQ",
             "ext": "./json/面包影视.json"
         },   
-        {
-            "key": "厂长影视",
-            "name": "🌺 厂长｜影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czzymovie.com/"
+ {
+          "key": "csp_XBPQ_七七",
+          "name": "🌺 七七｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "ext": {
+          "请求头": "User-Agent:Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
+          "简介": "5CoTNQ more-box&&</p>",
+          "播放列表":"7bYdkA text-overflow&&</a>",   
+         "线路数组":"<li&&/li>",
+         "线路标题": ">&&<",
+          "播放标题":">&&</a>",    
+          "搜索url": "https://www.420qq.com/qiqivod/-------------.html?wd={sskey}",
+          "分类url": "https://www.420qq.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+           "分类": "电影$i7777i#电视剧$l7777i#综艺$m7777i#动漫$C7777i#短剧$H7777i"         
+          }
         },
         {
             "key": "农民影视",
@@ -1149,17 +1141,35 @@
         
     ],
     "parses": [
-  
-      {
-      "name": "-4K-",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
+    { 
+         "name":"-芒果4K-",
+         "type": 1, 
+         "url": "http://mg.itufm.top/mg.php?url=" ,
+           "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905"
+        ],
         "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+            "User-Agent": "okhttp/4.9.1"
         }
-      }
-    },
+    }
+       }, 
     {         
             "name": "-夏夜4K-",                        
             "type": "1",                        
