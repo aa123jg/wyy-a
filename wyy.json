@@ -96,14 +96,6 @@
            "jar": "https://gitee.com/iy-cpu/iy/raw/master/jars/qj071.jar"
     },
     {
-         "key": "魔尊",
-         "name": "💓 魔尊┃4K免扫",
-         "type": 3,
-         "jar": "https://gitee.com/iy-cpu/iy/raw/master/jars/custom_spider.jar",
-         "api": "csp_HBcms10",
-         "ext": "http://154.219.113.13:12121/json/cms.txt"
-       },
-      {
          "key":"csp_XBPQ_电视剧网",
          "name":"🌇 电视剧网",
          "type":3,"api":"csp_XBPQ",    
@@ -281,21 +273,18 @@
                 "ua": ""
             }
         },
-        {
-            "key": "哔滴",
-            "name": "🌟 哔滴丨APP",
+         {
+            "key": "金牌",
+            "name": "🌟 金牌｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
+            "api": "csp_AppMuou",
             "jar":"./jar/spider.jar",
+            "searchable": 1,
+            "changeable": 1,
             "ext": {
                 "url": "",
-                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
-                "dataKey": "5ae8ee4bb95ea0ce",
-                "dataIv": "5ae8ee4bb95ea0ce",
-                "deviceId": "",
-                "version": "120",
-                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+                "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+                "name": "金牌影院（请断网再安装）"
             }
         },
         {
@@ -1142,6 +1131,37 @@
         
     ],
     "parses": [
+             {
+            "name": "-虾米-",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "公众号:林中的小屋",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "m1905"
+                ],
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },               
     { 
          "name":"-芒果4K-",
          "type": 1, 
@@ -1226,37 +1246,6 @@
         }
     }
     },
-         {
-            "name": "-虾米-",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "公众号:林中的小屋",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905",
-                    "m1905"
-                ],
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },               
        {
          "name":"-爱看-",
          "url":"https://yparse.ik9.cc/index.php?url=",
