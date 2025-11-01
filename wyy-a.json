@@ -388,19 +388,17 @@
             }
         },              
        {
-            "key": "蔬菜",
-            "name": "🌟 蔬菜丨APP",
+            "key": "仓鼠",
+            "name": "🌟 仓鼠｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppQi",
+            "jar":"./jar/spider.jar",
             "ext": {
-                "url": "http://huohu.yihn.cc",
-                "site": "",
-                "dataKey": "huohushipingetap",
-                "dataIv": "huohushipingetap",
-                "deviceId": "",
-                "version": "140",
-                "ua": ""
+                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+                "dataKey": "da61247f5b662597",
+                "dataIv": "da61247f5b662597",
+                "version": "120"
             }
         },
    {
