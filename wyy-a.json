@@ -659,6 +659,13 @@
             "type": 3,
             "api": "csp_SP360"
         }, 
+          {
+        "key":"247看",
+        "name":"🌺 247｜影视",
+        "type":3,
+        "api":"./py/247看.py",
+        "ext":{"parse":{"NBY":["https://api.nbyjson.top:7788/api/?key=kc4uiyuJnSYO2s91XW&url="],"ATQP1":["https://apijx.tufun.top/api/?key=HiCspU6U0zmpjHmZ6r&url="]}}
+      },
        {
              "key": "糯米秒播",
              "name": "🌺 糯米｜秒播",
