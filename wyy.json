@@ -326,21 +326,13 @@
                 "ua": ""
             }
         },
-        {
-            "key": "星星",
-            "name": "🌟 星星丨APP",
+      {
+            "key": "私人",
+            "name": "🌟 私人｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://starani.qcanime.xyz",
-                "site": "",
-                "dataKey": "123456789StarAni",
-                "dataIv": "123456789StarAni",
-                "deviceId": "",
-                "version": "",
-                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-            }
+            "changeable": 1,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc/api.php/v1.vod"
         },
         {
             "key": "像素",
@@ -1193,35 +1185,6 @@
             ]                       
             }                         
          }, 
-    {
-    "name": "-牛马-",
-    "type": 1,
-    "url": "http://niiuma.qi-simple.top//nn.php?url=",
-    "ext": {
-        "flag": [
-            "qq",
-            "腾讯",
-            "qiyi",
-            "爱奇艺",
-            "奇艺",
-            "youku",
-            "优酷",
-            "sohu",
-            "搜狐",
-            "letv",
-            "乐视",
-            "mgtv",
-            "芒果",
-            "tnmb",
-            "seven",
-            "bilibili",
-            "1905"
-        ],
-        "header": {
-            "User-Agent": "okhttp/4.9.1"
-        }
-    }
-    },
        {
          "name":"-爱看-",
          "url":"https://yparse.ik9.cc/index.php?url=",
@@ -1243,11 +1206,11 @@
          "type": 1, 
          "url": "http://jx.dedyn.io/?url=" 
        }, 
-     {
-      "name": "-小白白-",
-      "type": 1,
-      "url": "http://xiaobaibai.feng1210.top/小白白.php?url="
-     },       
+        { 
+         "name":"-蓝莓-",
+         "type": 1, 
+         "url": "https://lanmeio.com/guanfang/zkk.php?key=HX8fK2zQ9wP3sY7dE1rT5gB4vC6nM8jL&url=" 
+       }, 
         {
             "name": "-夜幕-",
             "type": 0,

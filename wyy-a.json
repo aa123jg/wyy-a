@@ -528,21 +528,13 @@
                 "ua": ""
             }
         },
-        {
-            "key": "星星",
-            "name": "🌟 星星丨APP",
+      {
+            "key": "私人",
+            "name": "🌟 私人｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://starani.qcanime.xyz",
-                "site": "",
-                "dataKey": "123456789StarAni",
-                "dataIv": "123456789StarAni",
-                "deviceId": "",
-                "version": "",
-                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-            }
+            "changeable": 1,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc/api.php/v1.vod"
         },
         {
             "key": "像素",
