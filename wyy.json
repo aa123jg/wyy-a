@@ -844,62 +844,7 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/NT动漫.js"
         },        
-        {
-            "key": "夸克云盘",
-            "name": "🌐 夸克｜云盘",
-            "type": 3,
-            "api": "csp_PanQuark",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/quarkShare.json"
-        },
-        {
-            "key": "UC",
-            "name": "🌐 UC｜云盘",
-            "type": 3,
-            "api": "csp_PanUc",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/ucShare.json"
-        },
-        {
-            "key": "阿里云盘",
-            "name": "🌐 阿里｜云盘",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/aliShare.json"
-        },                
-        {
-            "key": "百度云盘",
-            "name": "🌐 百度｜云盘",
-            "type": 3,
-            "api": "csp_PanBaiDu",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },     
-         {
+      {
       "key": "88js",
       "name": "🏀 88｜看球",
       "type": 3,
@@ -1085,17 +1030,7 @@
             "name": "📽 本地视频",
             "type": 3,
             "api": "csp_LocalFile"
-       },               
-       {
-            "key": "版本信息",
-            "name": "🌊 版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://pizazz.s3.bitiful.net/single.json"
-        }     
+       }
         
     ],
     "parses": [
