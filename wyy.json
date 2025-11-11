@@ -278,19 +278,14 @@
             }
         },
         {
-            "key": "狂人",
-            "name": "🌟 狂人丨APP",
+            "key": "火猫",
+            "name": "🌟 火猫｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppMuou",
+            "jar":"./jar/spider.jar",
             "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "site": "",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "url": "http://app.789dd.cn",
+                "name": "火猫影视"
             }
         },
        {
@@ -1030,7 +1025,7 @@
             "name": "📽 本地视频",
             "type": 3,
             "api": "csp_LocalFile"
-       }
+       }  
         
     ],
     "parses": [

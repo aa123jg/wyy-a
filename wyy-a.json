@@ -463,20 +463,15 @@
                 "name": "金牌影院（请断网再安装）"
             }
         },
-        {
-            "key": "狂人",
-            "name": "🌟 狂人丨APP",
+       {
+            "key": "火猫",
+            "name": "🌟 火猫｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppMuou",
+            "jar":"./jar/spider.jar",
             "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "site": "",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "url": "http://app.789dd.cn",
+                "name": "火猫影视"
             }
         },
         {
