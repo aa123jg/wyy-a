@@ -12,16 +12,6 @@
                "type":0,"url":"./lives/我的直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
-         },
-        {"name":"IPV4聚合",
-               "type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-               "logo":"https://epg.112114.xyz/logo/{name}.png"
-         },
-       {"name":"IPV6聚合",
-               "type":0,"url":"https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
-               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-               "logo":"https://epg.112114.xyz/logo/{name}.png"
          }
     ],       
     "sites": [
@@ -450,17 +440,17 @@
             }
         },
          {
-            "key": "金牌",
-            "name": "🌟 金牌｜APP",
+            "key": "云云",
+            "name": "🌟 云云丨APP",
             "type": 3,
-            "api": "csp_AppMuou",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "changeable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+           "jar": "./jar/spider.jar",
             "ext": {
-                "url": "",
-                "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-                "name": "金牌影院（请断网再安装）"
+                "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
+                "dataKey": "staraugust123456",
+                "dataIv": "staraugust123456",
+                "version": "120"
             }
         },
        {

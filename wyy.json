@@ -86,7 +86,7 @@
     },
     {
       "key": "drpy2_03影院[优]",
-      "name": "03影院[优](DR2)",
+      "name": "💓 03影院[优](DR2)",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -263,20 +263,20 @@
         "ua": ""
       }
     },
-    {
-      "key": "金牌",
-      "name": "🌟 金牌｜APP",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "",
-        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-        "name": "金牌影院（请断网再安装）"
-      }
-    },
+      {
+            "key": "云云",
+            "name": "🌟 云云丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+           "jar": "./jar/spider.jar",
+            "ext": {
+                "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
+                "dataKey": "staraugust123456",
+                "dataIv": "staraugust123456",
+                "version": "120"
+            }
+        },
     {
       "key": "火猫",
       "name": "🌟 火猫｜APP",
@@ -1355,7 +1355,6 @@
         }
       }
     },
-  
     {
       "name": "-爱看-",
       "url": "https://yparse.ik9.cc/index.php?url=",
