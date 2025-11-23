@@ -274,6 +274,18 @@
             "ext": "./json/韩剧TV.json",
             "jar": "./jar/xbpq.jar"
         },    
+          {
+            "key": "热播影视",
+            "name": "🌟 热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
             {
             "key": "肥猫",
             "name": "🌟 肥猫｜APP",

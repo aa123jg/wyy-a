@@ -99,8 +99,20 @@
       "ext": "./js/03影院[优].js"
     },
     {
+            "key": "热播影视",
+            "name": "🌟 热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+    {
       "key": "肥猫",
-      "name": "🌟┃肥猫丨APP",
+      "name": "🌟 肥猫丨APP",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/肥猫.jar",
