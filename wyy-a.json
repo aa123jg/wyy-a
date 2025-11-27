@@ -12,7 +12,15 @@
                "type":0,"url":"./lives/我的直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
-         }
+         },
+         {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        }
     ],       
     "sites": [
         {
@@ -315,23 +323,23 @@
                 "ua": ""
             }
      },  
-     {
-            "key": "咖啡",
-            "name": "🌟 咖啡丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "jar":"./jar/spider.jar",
-            "ext": {
-                "url": "",
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-                "dataKey": "37kj83zs1q16jk6t",
-                "dataIv": "37kj83zs1q16jk6t",
-                "deviceId": "",
-                "version": "101",
-                "ua": ""
-            }
-        },
+      {
+      "key": "咖啡",
+      "name": "🌟 咖啡丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
+      "ext": {
+        "url": "",
+        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "dataIv": "37kj83zs1q16jk6t",
+        "deviceId": "",
+        "version": "101",
+        "ua": ""
+      }
+    },
         {
             "key": "雄鹰",
             "name": "🌟 雄鹰｜APP",
@@ -434,23 +442,6 @@
                 "version": ""
             }
         },
-        {
-            "key": "加菲",
-            "name": "🌟 加菲丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "jar":"./jar/spider.jar",
-            "ext": {
-                "url": "",
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
-                "dataKey": "dksvndkaAjekakcE",
-                "dataIv": "dksvndkaAjekakcE",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
          {
             "key": "云云",
             "name": "🌟 云云丨APP",
@@ -463,17 +454,6 @@
                 "dataKey": "staraugust123456",
                 "dataIv": "staraugust123456",
                 "version": "120"
-            }
-        },
-       {
-            "key": "火猫",
-            "name": "🌟 火猫｜APP",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "jar":"./jar/spider.jar",
-            "ext": {
-                "url": "http://app.789dd.cn",
-                "name": "火猫影视"
             }
         },
         {
@@ -524,14 +504,6 @@
                 "version": "",
                 "ua": ""
             }
-        },
-      {
-            "key": "私人",
-            "name": "🌟 私人｜APP",
-            "type": 3,
-            "changeable": 1,
-            "api": "csp_AppYsV2",
-            "ext": "https://v.catcs.cc/api.php/v1.vod"
         },
         {
             "key": "像素",

@@ -1,55 +1,4 @@
 🇨🇳  央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4
-CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV4K
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5
-CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5plus
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7
-CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8
-CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9
-CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11
-CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13
-CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14
-CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
-CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
-北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
-东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
-天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
-重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
-内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
-河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
-四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
-新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
-西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-2,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -170,6 +119,18 @@ CCTV-17,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226630/index.m3
 移动戏曲,http://39.135.168.8/wh7f454c46tw4262934444_1490919677/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8 
 调解剧场, http://39.135.168.8/wh7f454c46tw4262934444_1490919677/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
 收藏天下, http://39.135.168.8/wh7f454c46tw4262934444_1490919677/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8
+
+河南梨园,https://migu.188766.xyz/?migutoken=3bd1a84980588c90fa300b877328ac3a&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+河南新闻,https://migu.188766.xyz/?migutoken=87906a596c399c8077e843877a5d0c3f&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+河南都市,https://migu.188766.xyz/?migutoken=e8c88e8d5a466d45c541c51695383dc4&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+河南民生,https://migu.188766.xyz/?migutoken=c36047d69e6c3b423ace829e4a23ede8&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+河南电视剧,https://migu.188766.xyz/?migutoken=50d72ff2be56c498bcac7148327da877&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+河南公共,https://migu.188766.xyz/?migutoken=46c13805e26dec88833b243bd127a543&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+河南法治,https://migu.188766.xyz/?migutoken=4c0cce36c1bf93fce606b17a822a9bef&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+河南武术,https://migu.188766.xyz/?migutoken=1d17cd9865ba776644e5c2fac62f2937&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+河南移动戏曲,https://migu.188766.xyz/?migutoken=73eaa798a53e22222efc50dfff2977a1&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+河南文物宝库,https://migu.188766.xyz/?migutoken=ab2c5c07f3470edf9944c1d0fe3f5ec8&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+河南象视界,https://migu.188766.xyz/?migutoken=e7ba91b8f3448098e9e9ffe78f8a22b0&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
 
 
 🌺 郑州频道,#genre#
