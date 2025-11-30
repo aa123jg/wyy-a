@@ -663,6 +663,18 @@
             "type": 3,
             "api": "csp_SP360"
         }, 
+      {
+      "key": " 杜北",
+      "name": "🌺 杜北｜影视",
+      "type": 3,
+      "api": "csp_DubkAmns",
+      "jar": "./jar/custom_spider.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/dubk.json"
+    },
           {
         "key":"247看",
         "name":"🌺 247｜影视",
@@ -702,6 +714,20 @@
             "type": 3,
             "api": "csp_Qiyou"
         },
+<<<<<<< HEAD
+=======
+    {
+     "key": "苹果影视",
+      "name": "🌺 苹果｜影视",
+      "type": 3,
+      "api": "csp_XpgAmns",
+      "jar": "./jar/custom_spider.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+>>>>>>> f49b362ff1aa7606d4cc5392f406acf1a654e34f
         {
             "key": "全网影视",
             "name": "🌺 全看｜影视",
