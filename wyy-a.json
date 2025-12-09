@@ -246,22 +246,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
-        }, 
-       {
-      "name": "💦 二小｜网盘",
-      "key": "🎈二小",
-      "type": 3,
-      "api": "csp_WobgAmns",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun",
-        "filters": "./json/wobg.json"
-      }
-    },                                                              
+        },                                                               
     {
          "key":"csp_XBPQ_电视剧网",
          "name":"🌇 电视剧网",
@@ -663,18 +648,6 @@
             "type": 3,
             "api": "csp_SP360"
         }, 
-      {
-      "key": " 杜北",
-      "name": "🌺 杜北｜影视",
-      "type": 3,
-      "api": "csp_DubkAmns",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/dubk.json"
-    },
           {
         "key":"247看",
         "name":"🌺 247｜影视",
@@ -714,20 +687,6 @@
             "type": 3,
             "api": "csp_Qiyou"
         },
-<<<<<<< HEAD
-=======
-    {
-     "key": "苹果影视",
-      "name": "🌺 苹果｜影视",
-      "type": 3,
-      "api": "csp_XpgAmns",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
->>>>>>> f49b362ff1aa7606d4cc5392f406acf1a654e34f
         {
             "key": "全网影视",
             "name": "🌺 全看｜影视",
@@ -1319,22 +1278,6 @@
          
     ],
     "parses": [
-  {
-        "name": "虾米嗅探[易尴尬]",
-        "type": 0,
-        "url": "https://jx.xmflv.com/?url=",
-        "ext": {
-            "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优酷", "mgtv", "imgo", "芒果"]
-        }
-    }, 
-    {
-        "name": "七哥嗅探",
-        "type": 0,
-        "url": "https://jx.nnxv.cn/tv.php?url=",
-        "ext": {
-            "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优酷", "mgtv", "imgo", "芒果"]
-       }     
-     },
    { 
          "name":"-芒果4K-",
          "type": 1, 
@@ -1430,16 +1373,6 @@
         }
     ],
     "rules": [
-       {
-        "name": "虾米点击",
-        "hosts": ["jx.xmflv.cc","jx.xmflv.com","jx.hls.one"],
-        "script": ["document.querySelector('#clickText').click()"]
-    }, 
-    {
-        "name": "七哥点击",
-        "hosts": ["jx.nnxv.cn"],
-        "script": ["document.querySelector('#play-button-overlay').click()"]
-    },
         {
             "name": "农民",
             "hosts": [
