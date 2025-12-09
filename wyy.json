@@ -1,4 +1,8 @@
-{
+
+
+ //潇洒单线路本地包下载地址："https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip"。
+ 
+ {
   "spider": "./jar/spider_og.jar",
   "wallpaper": "https://tvbox.catvod.com/logo.png",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
@@ -82,15 +86,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "简介": "<span class=\"sketch content\">&&</span>",
-        "搜索url": "https://www.dianshijuv.com/s/-------------.html?wd={wd}&submit=",
-        "主页url": "https://www.dianshijuv.com/",
-        "分类url": "https://www.dianshijuv.com/p/{cateId}-{catePg}.html",
-        "分类": "短剧$duanju#国产剧$guochanju#欧美剧$oumeiju#韩国剧$hanguoju#香港剧$xianggangju#台湾剧$taiwanju#泰国剧$taiguoju"
-      }
+      "ext": "./json/电视剧网.json"
     },
     {
       "key": "drpy2_03影院[优]",
@@ -171,23 +167,6 @@
       }
     },
     {
-      "key": "咖啡",
-      "name": "🌟 咖啡丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "url": "",
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "deviceId": "",
-        "version": "101",
-        "ua": ""
-      }
-    },
-    {
       "key": "雄鹰",
       "name": "🌟 雄鹰｜APP",
       "type": 3,
@@ -228,20 +207,6 @@
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
         "version": "120"
-      }
-    },
-    {
-      "key": "优质",
-      "name": "🌟 优质｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://apiapplbys.lbys.app:5678",
-        "dataKey": "apiapplbyskey168",
-        "dataIv": "apiapplbyskey168",
-        "deviceId": "",
-        "version": "107"
       }
     },
     {
@@ -484,16 +449,6 @@
       }
     },
     {
-      "key": "糯米秒播",
-      "name": "🌺 糯米｜秒播",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "jar": "./jar/Butterfly.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "骚火影视",
       "name": "🌺 骚火｜影视",
       "type": 3,
@@ -501,13 +456,6 @@
       "jar": "./jar/spider.jar",
       "playerType": 2,
       "ext": "https://shdy5.us"
-    },
-    {
-      "key": "饺子影视",
-      "name": "🌺 饺子｜影视",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "playerType": 2
     },
     {
       "key": "奇优影视",
@@ -569,17 +517,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": {
-        "请求头": "User-Agent:Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
-        "简介": "5CoTNQ more-box&&</p>",
-        "播放列表": "7bYdkA text-overflow&&</a>",
-        "线路数组": "<li&&/li>",
-        "线路标题": ">&&<",
-        "播放标题": ">&&</a>",
-        "搜索url": "https://www.420qq.com/qiqivod/-------------.html?wd={sskey}",
-        "分类url": "https://www.420qq.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "电影$i7777i#电视剧$l7777i#综艺$m7777i#动漫$C7777i#短剧$H7777i"
-      }
+      "ext": "./json/七七.json"
     },
     {
       "key": "农民影视",
@@ -592,21 +530,6 @@
       "ext": "./json/农民影视.json"
     },
     {
-      "key": "Max",
-      "name": "🌺 下饭┃影视",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/vox.jar",
-      "ext": {
-        "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
-    {
       "key": "1905",
       "name": "🌺 1905｜影视",
       "type": 3,
@@ -614,39 +537,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "飞快TV",
-      "name": "🌺 飞快｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://feikuai.tv/",
-        "分类url": "https://feikuai.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32#今日更新$https://feikuai.tv/label/new.html#热播推荐$https://feikuai.tv/label/hot.html",
-        "类型": "动作片$6#喜剧片$7#爱情片$9#科幻片$8#恐怖片$11#剧情片$12#战争片$10#其它片$30||内地剧$13#港台剧$14#短剧$32#日韩剧$15#欧美剧$16#其它$31||内地$20#日韩$26#港台$21#欧美$22#其它$24||内地$25#港台$26#韩日$27#欧美$28#海外$29||短剧$45||无||无"
-      }
-    },
-    {
-      "key": "七七",
-      "name": "🌺 七七｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "请求头": "User-Agent:Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36",
-        "简介": "5CoTNQ more-box&&</p>",
-        "播放列表": "7bYdkA text-overflow&&</a>",
-        "线路标题": "七月大佬专线",
-        "搜索url": "https://www.420qq.com/qiqivod/-------------.html?wd={sskey}",
-        "分类url": "https://www.420qq.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$i7777i#电视剧$l7777i#综艺$m7777i#动漫$C7777i#短剧$H7777i"
-      }
     },
     {
       "key": "如意采集资源",
@@ -1075,17 +965,6 @@
       ]
     },
     {
-      "key": "可可",
-      "name": "🍄 可可｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/可可.json"
-    },
-    {
       "key": "js_星芽短剧",
       "name": "💯 星芽短剧",
       "type": 3,
@@ -1322,6 +1201,11 @@
     }
   ],
   "parses": [
+    { 
+         "name":"-芒果4K-",
+         "type": 1, 
+         "url": "http://mg.itufm.top/mg.php?url=" 
+       }, 
     {
       "name": "-虾米-",
       "type": 0,
