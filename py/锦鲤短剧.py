@@ -55,7 +55,7 @@ class Spider(Spider):
         videos = []
         vod_play_url = ''
         for name,url in data['player'].items():
-            vod_play_url += f'{name}${url}&auto=1#'
+            vod_play_url += f'{name}${url}#'
         vod_play_url.rstrip('#')
         videos.append({
             'vod_id': data.get('vod_id'),

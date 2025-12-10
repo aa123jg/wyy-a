@@ -1192,6 +1192,13 @@
          
     ],
     "parses": [
+     {
+         "name":"-爱看-",
+         "url":"https://yparse.ik9.cc/index.php?url=",
+         "type": 0,
+         "ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"
+       }
+       },
    { 
          "name":"-芒果4K-",
          "type": 1, 
@@ -1223,6 +1230,26 @@
             ]                       
             }                         
          }, 
+       {
+        "name": "虾米嗅探[易尴尬]",
+        "type": 0,
+        "url": "
+                  https://jx.xmflv.com/?url=
+                  ",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优酷", "mgtv", "imgo", "芒果"]
+        }
+    }, 
+    {
+        "name": "七哥嗅探",
+        "type": 0,
+        "url": "
+                  https://jx.nnxv.cn/tv.php?url=
+                  ",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "yk", "优酷", "mgtv", "imgo", "芒果"]
+        }
+    },
                 {
             "name": "-虾米-",
             "type": 0,
@@ -1254,14 +1281,6 @@
                 }
             }
         },               
-       {
-         "name":"-爱看-",
-         "url":"https://yparse.ik9.cc/index.php?url=",
-         "type": 0,
-         "ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"
-       }
-       },
-    
       {
         "name":"-蜜蜂-",
         "url": "https://jx.xmflv.cc/?url=",
@@ -1287,6 +1306,22 @@
         }
     ],
     "rules": [
+      {
+        "name": "虾米点击",
+        "hosts": ["
+                  jx.xmflv.cc
+                  ","
+                  jx.xmflv.com
+                  ","jx.hls.one"],
+        "script": ["document.querySelector('#clickText').click()"]
+    }, 
+    {
+        "name": "七哥点击",
+        "hosts": ["
+                  jx.nnxv.cn
+                  "],
+        "script": ["document.querySelector('#play-button-overlay').click()"]
+    },
         {
             "name": "农民",
             "hosts": [

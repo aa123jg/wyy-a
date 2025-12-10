@@ -1,55 +1,4 @@
 🇨🇳  央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4
-CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV4K
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5
-CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5plus
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7
-CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8
-CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9
-CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11
-CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13
-CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14
-CCTV-15https://iptv.catvod.com/live.php?id=CCTV15
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
-CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
-北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
-东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
-天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
-重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
-内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
-青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
-陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
-河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
-四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
-新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
-兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
-西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-2,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -67,11 +16,7 @@ CCTV-12,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226560/index.m3
 CCTV-13,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=3&playseek=
-<<<<<<< HEAD
-CCTV-16,http://2099.tv12.xyz/374_1764235190288.m3u8
-=======
-CCTV-16,http://110.42.63.57:158/live/ysp.php?id=CCTV16
->>>>>>> f49b362ff1aa7606d4cc5392f406acf1a654e34f
+CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=3&playseek=
 北京卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226519/index.m3u8?icpid=88888888&servicetype=3&playseek=
 天津卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -247,7 +192,7 @@ CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=1
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
+CCTV-16,http://2099.tv12.xyz/374_1764235190288.m3u8
 CCTV-16,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=1
 CCTV-16,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=3&playseek=

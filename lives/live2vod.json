@@ -7,12 +7,16 @@
     "name": "音乐歌曲",
     "url": "https://5141.kstore.space/wyy-a/lives/%E9%9F%B3%E4%B9%90%E6%AD%8C%E6%9B%B2.txt&&&https://5141.kstore.space/apk/421c1117f0f990fc953a86deca1a0c1b.jpeg"
   },
-   {
+  {
     "name": "美食欣赏",
     "url": "https://5141.kstore.space/wyy-a/lives/%E7%BE%8E%E9%A3%9F%E6%AC%A3%E8%B5%8F.txt&&&https://5141.kstore.space/apk/%E7%BE%8E%E9%A3%9F%E5%9B%BE%E7%89%87.jpg"
   },
-    {
+  {
+    "name": "音乐频道",
+    "url": "https://5141.kstore.space/wyy-a/lives/mtv3.txt&&&https://5141.kstore.space/apk/421c1117f0f990fc953a86deca1a0c1b.jpeg"
+  },
+  {
     "name": "测试频道",
     "url": "https://5141.kstore.space/wyy-a/lives/%E6%B5%8B%E8%AF%95%E9%A2%91%E9%81%93.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
-  } 
+  }
 ]
