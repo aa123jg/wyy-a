@@ -1,5 +1,5 @@
 
-//潇洒单线路本地包下载地址："https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip"。
+//潇洒单线路本地包下载地址："https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip"。
 
 {
        
@@ -266,7 +266,7 @@
          },
      {
       "key": "drpy2_03影院[优]",
-      "name": "🥇 03影院",
+      "name": "🌟 03影院",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -277,29 +277,6 @@
       "类型": "影视",
       "lang": "dr2",
       "ext": "./js/03影院[优].js"
-    },
-     {
-      "key": " 杜北",
-      "name": "🥇 杜北｜影视",
-      "type": 3,
-      "api": "csp_DubkAmns",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/dubk.json"
-    },
-    {
-     "key": "苹果影视",
-      "name": "🥇 苹果｜影视",
-      "type": 3,
-      "api": "csp_XpgAmns",
-      "jar": "./jar/custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
       {
             "key": "韩剧看看",
@@ -342,22 +319,36 @@
                 "version": "201"
             }
     },
-            {
-            "key": "布雷",
-            "name": "🌟 布雷丨APP",
+         {
+            "key": "金牌",
+            "name": "🌟 金牌｜APP",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
+             "jar": "./jar/BXS.jar",
             "ext": {
-                "url": "https://cms.bl4k.cc",
-                "site": "",
-                "dataKey": "B7uaxcwdpX2dww82",
-                "dataIv": "B7uaxcwdpX2dww82",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+                "dataKey": "kecbio48dsq131ed",
+                "dataIv": "kecbio48dsq131ed"
             }
-     },  
+        },
+        {
+            "key": "爱盈",
+            "name": "🌟 爱盈｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+             "jar": "./jar/BXS.jar",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
+                "dataKey": "sda1231sasddad21",
+                "dataIv": "sda1231sasddad21",
+                "ua": "okhttp/3.10.0"
+            }
+        }, 
         {
             "key": "雄鹰",
             "name": "🌟 雄鹰｜APP",
