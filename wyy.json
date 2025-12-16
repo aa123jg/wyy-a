@@ -10,7 +10,7 @@
     {
       "name": "我的直播",
       "type": 0,
-      "url": "./lives/我的直播.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/aa123jg/wyy-a/refs/heads/main/lives/我的直播.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -92,14 +92,6 @@
       "jar": "./jar/xbpq.jar"
     },
     {
-      "key": "韩剧TV",
-      "name": "🇰🇷 韩剧｜TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/韩剧TV.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
       "key": "移动",
       "name": "💓 移动｜网盘",
       "type": 3,
@@ -171,7 +163,7 @@
     },
     {
       "key": "肥猫",
-      "name": "🌟 肥猫丨APP",
+      "name": "🌟 肥猫｜APP",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/肥猫.jar",
@@ -214,7 +206,7 @@
     },
     {
       "key": "云云",
-      "name": "🌟 云云丨APP",
+      "name": "🌟 云云｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -228,7 +220,7 @@
     },
     {
       "key": "紫金",
-      "name": "🌟 紫金丨APP",
+      "name": "🌟 紫金｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -245,7 +237,7 @@
     },
     {
       "key": "像素",
-      "name": "🌟 像素丨APP",
+      "name": "🌟 像素｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -262,7 +254,7 @@
     },
     {
       "key": "驿站",
-      "name": "🌟 驿站丨APP",
+      "name": "🌟 驿站｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -309,7 +301,7 @@
     },
     {
       "key": "海狗视频",
-      "name": "🌟 海狗┃视频",
+      "name": "🌟 海狗｜视频",
       "type": 3,
       "api": "csp_Hmys",
       "jar": "./jar/vox.jar",
@@ -628,7 +620,31 @@
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+           "动作片",
+           "喜剧片",
+           "爱情片",
+           "科幻片",
+           "恐怖片",
+           "剧情片",
+           "战争片",
+           "国产剧",
+           "港剧",
+           "台剧",
+           "日剧",
+           "韩剧",
+           "欧美剧",
+           "海外剧",
+           "经典片",
+           "动画片",
+           "短剧",
+           "泰剧",
+           "大陆综艺",
+           "港台综艺",
+           "日韩综艺",
+           "欧美综艺"
+      ]
     },
    {
       "key": "四个圈资源",
@@ -878,7 +894,7 @@
     },
     {
       "key": "csp_Bili_yanchh",
-      "name": "🎤┃歌手合集",
+      "name": "🎤｜歌手合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,

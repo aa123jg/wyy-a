@@ -9,9 +9,9 @@
       "lives": [
         
          {"name":"我的直播",
-               "type":0,"url":"./lives/我的直播.txt",
-               "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-               "logo":"https://epg.112114.xyz/logo/{name}.png"
+         "type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/aa123jg/wyy-a/refs/heads/main/lives/我的直播.txt",
+         "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+         "logo":"https://epg.112114.xyz/logo/{name}.png"
          },
          {
             "name": "冰茶",
@@ -245,14 +245,6 @@
       "jar": "./jar/xbpq.jar"
     },
     {
-      "key": "韩剧TV",
-      "name": "🇰🇷 韩剧｜TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/韩剧TV.json",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
       "key": "移动",
       "name": "💓 移动｜网盘",
       "type": 3,
@@ -324,7 +316,7 @@
     },
     {
       "key": "肥猫",
-      "name": "🌟 肥猫丨APP",
+      "name": "🌟 肥猫｜APP",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/肥猫.jar",
@@ -367,7 +359,7 @@
     },
     {
       "key": "云云",
-      "name": "🌟 云云丨APP",
+      "name": "🌟 云云｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -381,7 +373,7 @@
     },
     {
       "key": "紫金",
-      "name": "🌟 紫金丨APP",
+      "name": "🌟 紫金｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -398,7 +390,7 @@
     },
     {
       "key": "像素",
-      "name": "🌟 像素丨APP",
+      "name": "🌟 像素｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -415,7 +407,7 @@
     },
     {
       "key": "驿站",
-      "name": "🌟 驿站丨APP",
+      "name": "🌟 驿站｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -462,7 +454,7 @@
     },
     {
       "key": "海狗视频",
-      "name": "🌟 海狗┃视频",
+      "name": "🌟 海狗｜视频",
       "type": 3,
       "api": "csp_Hmys",
       "jar": "./jar/vox.jar",
@@ -1031,7 +1023,7 @@
     },
     {
       "key": "csp_Bili_yanchh",
-      "name": "🎤┃歌手合集",
+      "name": "🎤｜歌手合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
