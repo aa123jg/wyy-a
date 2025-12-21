@@ -286,21 +286,176 @@
       "ext": "./js/03影院[优].js"
     },
         {
-            "key": "爱盈",
-            "name": "🌟 爱盈｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-             "jar": "./jar/BXS.jar",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
-                "dataKey": "sda1231sasddad21",
-                "dataIv": "sda1231sasddad21",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+      "key": "悟空影视",
+      "name": "🌟 悟空影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.chinasumadang.com/sumadangVS/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$44",
+        "线路数组": "hl-tabs-btn hl-slide-swiper&&</a>",
+        "线路标题": "祝您观影愉快",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
+    {
+      "key": "快点播",
+      "name": "🌟 快点播",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍:+detail-content\" style=*>&&</span>",
+        "分类url": "http://www.quickvod.cc/type/{cateId}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "麦田影视",
+      "name": "🌟 麦田影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路标题": "dianying\"></i>&&<span",
+        "副标题": "<span class=\"public-list-prb hide ft2\">&&</span>",
+        "分类url": "https://www.mtyy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "包子影视",
+      "name": "🌟 包子影视",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "线路数组": "\\#down&&</li>",
+        "线路标题": "+>&&<",
+        "分类url": "https://www.hengchuanjixie.com/"
+      }
+    },
+    {
+      "key": "顶级影院",
+      "name": "🌟 顶级影院",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "作者": "硬如铁",
+        "站名": "顶级影院",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "",
+        "首页": "120",
+        "起始页": "1",
+        "分类url": "https://www.dj191.com/vodtype/{cateId}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$29",
+        "二次截取": "",
+        "数组": "vod-item\">&&</p>",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "<h3*>*>&&</a>",
+        "副标题": "text-row-1\">&&</span>+vod-item-score\">&&</span>",
+        "简介": "",
+        "影片年代": "",
+        "影片地区": "",
+        "影片类型": "",
+        "状态": "",
+        "导演": "",
+        "主演": "",
+        "线路二次截取": "",
+        "线路数组": "#ewave-playlist&&</li",
+        "线路标题": "<a*>&&</a",
+        "播放数组": "ewave-playlist-content&&</ul",
+        "倒序": "0",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "嗅探词": "",
+        "搜索请求头": "User-Agent$MOBILE_UA",
+        "搜索模式": "1",
+        "搜索url": "https://www.dj191.com/vodsearch/{wd}----------{pg}---.html",
+        "搜索数组": "vod-item\">&&</p>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "<h3*>*>&&</a>",
+        "搜索副标题": "text-row-1\">&&</span>+vod-item-score\">&&</span>",
+        "搜索链接": "href=\"&&\""
+      }
+    },
+    {
+      "key": "全能影视",
+      "name": "🌟 全能影视",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://www.bayimov.com/show/{cateId}-{area}-------{catePg}---.html;;!",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
+    {
+      "key": "枝枝影视",
+      "name": "🌟 枝枝影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "<div class=\"tag text-overflow\">&&</div>",
+        "分类url": "http://zzoc.cc/"
+      }
+    },
+    {
+      "key": "人人影视",
+      "name": "🌟 人人影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://rrys.lv/k/{cateId}--------{catePg}---/",
+        "线路标题": "祝您观影愉快",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
+    {
+      "key": "恐怖片之家",
+      "name": "🌟 恐怖片之家",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.123guipian.com/;;!",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
+    {
+      "key": "88影视网",
+      "name": "🌟 88｜影视网",
+      "type": 3,
+      "jar": "./jar/xbpq.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://m.88hd.org/vod-type-id-{cateId}-pg-{catePg}.html;;!",
+        "简介": "水印广告勿信，谨防诈骗"
+      }
+    },
     {
       "key": "热播影视",
       "name": "🌟 热播｜APP",
@@ -422,20 +577,6 @@
         "ua": ""
       }
     },
-    {
-            "key": "金牌",
-            "name": "🌟 金牌｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppQi",
-             "jar": "./jar/BXS.jar",
-            "ext": {
-                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
-                "dataKey": "kecbio48dsq131ed",
-                "dataIv": "kecbio48dsq131ed"
-            }
-        },
     {
       "key": "骚火影视",
       "name": "🌟 骚火｜影视",

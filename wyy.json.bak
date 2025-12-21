@@ -304,6 +304,22 @@
         "简介": "水印广告勿信，谨防诈骗"
       }
     },
+        {
+            "key": "爱盈",
+            "name": "🌟 爱盈｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+             "jar": "./jar/BXS.jar",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
+                "dataKey": "sda1231sasddad21",
+                "dataIv": "sda1231sasddad21",
+                "ua": "okhttp/3.10.0"
+            }
+        },
     {
       "key": "热播影视",
       "name": "🌟 热播｜APP",
@@ -425,6 +441,20 @@
         "ua": ""
       }
     },
+    {
+            "key": "金牌",
+            "name": "🌟 金牌｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
+             "jar": "./jar/BXS.jar",
+            "ext": {
+                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+                "dataKey": "kecbio48dsq131ed",
+                "dataIv": "kecbio48dsq131ed"
+            }
+        },
     {
       "key": "骚火影视",
       "name": "🌟 骚火｜影视",
