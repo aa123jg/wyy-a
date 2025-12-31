@@ -14,13 +14,20 @@
          "logo":"https://epg.112114.xyz/logo/{name}.png"
          },
          {
-            "name": "冰茶",
+            "name": "冰茶直播",
             "type": 0,
             "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
             "playerType": 2,
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+        {
+             "name": "catvod直播",
+             "type": 0,
+             "url": "https://5141.kstore.space/wyy-a/lives/catvod.m3u"
         }
+        
+        
     ],       
     "sites": [
         {
@@ -56,22 +63,22 @@
 		"searchable": 0,
 		"api": "./lives/live2vod.js",
 		"ext": "./lives/live2vod.json"
-       },                
-     {
-            "key": "配置中心",
-            "name": "📀 配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "jar":"./jar/spider.jar",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
+   },                
+   {
+        "key": "配置中心",
+        "name": "📀 配置｜中心",
+        "type": 3,
+        "api": "csp_Config",
+        "jar":"./jar/spider.jar",
+        "searchable": 0,
+        "changeable": 0,
+        "indexs": 0,
+        "style": {
+            "type": "rect",
+            "ratio": 1.597
+          }
+   },
+   {
       "key": "csp_XBPQ_电视剧网",
       "name": "🌇 电视剧网",
       "type": 3,
@@ -89,7 +96,7 @@
       "api": "csp_XBPQ",
       "ext": "./json/韩剧看看.json",
       "jar": "./jar/xbpq.jar"
-    },
+    },       
     {
       "key": "移动",
       "name": "💓 移动｜网盘",
@@ -118,7 +125,7 @@
     },
     {
       "key": "drpy2_03影院[优]",
-      "name": "🌟 03影院[优]",
+      "name": "🌟 03｜影院[优]",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -130,9 +137,20 @@
       "lang": "dr2",
       "ext": "./js/03影院[优].js"
     },
-        {
+    {
+      "key": "国外影视",
+      "name": "🌟 国外｜APP",
+      "type": 3,
+      "api": "./py/国外剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },        
+    {
       "key": "悟空影视",
-      "name": "🌟 悟空影视",
+      "name": "🌟 悟空｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -161,7 +179,7 @@
     },
     {
       "key": "麦田影视",
-      "name": "🌟 麦田影视",
+      "name": "🌟 麦田｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -176,7 +194,7 @@
     },
     {
       "key": "包子影视",
-      "name": "🌟 包子影视",
+      "name": "🌟 包子｜影视",
       "type": 3,
       "jar": "./jar/xbpq.jar",
       "api": "csp_XBPQ",
@@ -190,7 +208,7 @@
     },
     {
       "key": "顶级影院",
-      "name": "🌟 顶级影院",
+      "name": "🌟 顶级｜影院",
       "type": 3,
       "jar": "./jar/xbpq.jar",
       "api": "csp_XBPQ",
@@ -239,7 +257,7 @@
     },
     {
       "key": "全能影视",
-      "name": "🌟 全能影视",
+      "name": "🌟 全能｜影视",
       "type": 3,
       "jar": "./jar/xbpq.jar",
       "api": "csp_XBPQ",
@@ -251,7 +269,7 @@
     },
     {
       "key": "枝枝影视",
-      "name": "🌟 枝枝影视",
+      "name": "🌟 枝枝｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -265,7 +283,7 @@
     },
     {
       "key": "人人影视",
-      "name": "🌟 人人影视",
+      "name": "🌟 人人｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -1140,7 +1158,26 @@
         "ratio": 1.597
       }
     },
-    {
+   {
+        "key": "哔哩医药合集",
+        "name": "🅱️ 哔哩｜医药",
+        "type": 3,
+        "api": "csp_Bili",
+        "jar":"./jar/svip.jar",               
+        "searchable": 1,
+        "quickSearch": 0,
+        "filterable": 0,
+        "changeable": 0,
+        "style": {
+            "type": "rect",
+            "ratio": 1.433
+        },
+        "ext": {
+            "json": "./json/中医药.json",
+            "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+         }
+   },       
+   {
       "key": "急救教学",
       "name": "🚑 急救｜教学",
       "type": 3,
