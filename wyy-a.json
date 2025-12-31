@@ -9,23 +9,28 @@
       "lives": [
         
          {"name":"我的直播",
-         "type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/aa123jg/wyy-a/refs/heads/main/lives/我的直播.txt",
+         "type":0,"url":"https://5141.kstore.space/wyy-a/lives/%E6%88%91%E7%9A%84%E7%9B%B4%E6%92%AD.m3u",
          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
          "logo":"https://epg.112114.xyz/logo/{name}.png"
          },
          {
-            "name": "冰茶",
+            "name": "冰茶直播",
             "type": 0,
             "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
             "playerType": 2,
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+        {
+             "name": "catvod直播",
+             "type": 0,
+             "url": "https://5141.kstore.space/wyy-a/lives/catvod.m3u"
         }
     ],       
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🏮2025年观影愉快🏮",
+            "name": "🏮2026年元旦愉快🏮",
             "type": 3,
             "api": "csp_Douban",
             "jar":"./jar/spider.jar",
