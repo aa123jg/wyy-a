@@ -3,7 +3,7 @@
 
 {
        
-   "spider": "./jar/archbili.jar",
+   "spider": "./jar/wyy.png;md5;wyy",
     "wallpaper": "https://tvbox.catvod.com/logo.png",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
@@ -140,30 +140,6 @@
       "jar": "./jar/xbpq.jar"
     },       
     {
-      "key": "哔哩弹幕",
-      "name": "🌟 BiLi-杜比4K",
-      "type": 3,
-      "api": "csp_Bilimd",
-      "jar": "http://app.69mini.com/anhei/bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-            "type": "rect",
-            "ratio": 1.433
-        },
-      "ext": {
-            "cookie": "https://api.69mini.com/bili/baFFa.a.txt"
-        },
-        "timeout": 10
-    },   
-    {
-      "key":"py_山有木兮",      
-      "name":"🌟 木兮｜高清",      
-      "type":3,            
-      "api":"./py/山有木兮.py"           
-    },                            
-    {
       "key": "芒果视频",
       "name": "🌟 芒果｜高清",
       "type": 3,
@@ -195,6 +171,41 @@
       "lang": "dr2",
       "ext": "./js/03影院[优].js"
     },
+        {
+      "key": "热播影视",
+      "name": "🌟 热播｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "./jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },    
+    {
+    "key":"柠檬",
+    "name":"🌟 柠檬｜App",
+    "type":3,
+    "api":"csp_Nmvod",
+    "playerType":2,
+    "jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
+    "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },      
+    {
+      "key": "肥猫",
+      "name": "🌟 肥猫｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "./jar/肥猫.jar",
+      "ext": {
+        "url": "https://mac.555618.xyz",
+        "dataKey": "#getapp@TMD@2025",
+        "siteApi": "get",
+        "version": "201"
+      }
+    },
     {
     "key":"lanyingys",
     "name":"🌟 橘子｜APP",
@@ -205,31 +216,11 @@
     "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
     },
     {
-    "key":"柠檬",
-    "name":"🌟 柠檬｜App",
-    "type":3,
-    "api":"csp_Nmvod",
-    "playerType":2,
-    "jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
-    "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    {
-      "key": "国外影视",
-      "name": "🌟 国外｜APP",
-      "type": 3,
-      "api": "./py/国外剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },        
-    {
       "key": "悟空影视",
       "name": "🌟 悟空｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "ext": "./json/悟空影视.json"
     },
     {
@@ -237,7 +228,7 @@
       "name": "🌟 麦田｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -251,7 +242,7 @@
       "key": "包子影视",
       "name": "🌟 包子｜影视",
       "type": 3,
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -265,7 +256,7 @@
       "key": "顶级影院",
       "name": "🌟 顶级｜影院",
       "type": 3,
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": "./json/顶级影院.json"
     },
@@ -273,7 +264,7 @@
       "key": "全能影视",
       "name": "🌟 全能｜影视",
       "type": 3,
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -286,7 +277,7 @@
       "name": "🌟 枝枝｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -300,14 +291,14 @@
       "name": "🌟 人人｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "ext": "./json/人人影视.json"               
     },
     {
       "key": "恐怖片之家",
       "name": "🌟 恐怖片之家",
       "type": 3,
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://www.123guipian.com/;;!",
@@ -318,7 +309,7 @@
       "key": "88影视网",
       "name": "🌟 88｜影视网",
       "type": 3,
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -333,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,     
-      "jar": "./jar/xbpq.jar",
+      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$5#短剧$20",
@@ -341,32 +332,6 @@
         "简介": "水印广告勿信，谨防诈骗"
       }
     },        
-    {
-      "key": "热播影视",
-      "name": "🌟 热播｜APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },           
-    {
-      "key": "肥猫",
-      "name": "🌟 肥猫｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "./jar/肥猫.jar",
-      "ext": {
-        "url": "https://mac.555618.xyz",
-        "dataKey": "#getapp@TMD@2025",
-        "siteApi": "get",
-        "version": "201"
-      }
-    },
     {
       "key": "仓鼠",
       "name": "🌟 仓鼠｜APP",
@@ -1269,6 +1234,17 @@
          
     ],
     "parses": [
+  
+  { 
+         "name":"-网游鹰-",
+         "type": 1, 
+         "url": "http://jx.dedyn.io/?url=" 
+  }, 
+  { 
+         "name":"-免费解析-",
+         "type": 1, 
+         "url": "http://sspa8.top:8100/api/?key=1060089351&url=" 
+  },     
   {      "name":"m3u8",
          "url":"https://jx.m3u8.tv/jiexi/?url=",
          "type":0,
@@ -1306,16 +1282,6 @@
             }
     },               
    { "name": "💓淘片🧡", "type": 0, "url": "https://jx.yparse.com/index.php?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36" } } },
-  { 
-         "name":"-网游鹰-",
-         "type": 1, 
-         "url": "http://jx.dedyn.io/?url=" 
-  }, 
-  { 
-         "name":"-免费解析-",
-         "type": 1, 
-         "url": "http://sspa8.top:8100/api/?key=1060089351&url=" 
-  },     
   {
       "name": "VIP7",
       "type": 0,
@@ -1326,32 +1292,7 @@
       "type": 1,
       "url": "http://yun.52xiaobai.cn/api/?key=JE3CtkMNwjqpYPhrNe&url="
    }, 
- {         
-            "name": "-夏夜4K-",                        
-            "type": "1",                        
-            "url": "http://8.155.50.80/xiayexk.php?url=",                        
-            "ext": {                         
-            "flag": [                         
-            "qq",                       
-            "腾讯",                         
-            "qiyi",                        
-            "爱奇艺",                        
-            "奇艺",                        
-            "youku",                         
-            "优酷",                        
-            "sohu",                         
-            "搜狐",                         
-            "letv",                         
-            "乐视",                         
-            "mgtv",                         
-            "芒果",                         
-            "tnmb",                         
-            "seven",                         
-            "bilibili",                         
-            "1905"                         
-            ]                       
-            }                         
-         }, 
+
          {
          "name":"巧技三",
          "type":1,
