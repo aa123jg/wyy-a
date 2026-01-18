@@ -3,7 +3,7 @@
 
 {
        
-   "spider": "./jar/wyy.png;md5;wyy",
+   "spider": "./jar/wyy.png",
     "wallpaper": "https://tvbox.catvod.com/logo.png",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
@@ -159,7 +159,7 @@
     },
     {
       "key": "drpy2_03影院[优]",
-      "name": "🌟 03｜影院[优]",
+      "name": "🌟 零三｜影院",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
@@ -184,15 +184,31 @@
         "url": "http://v.rbotv.cn"
       }
     },    
-    {
-    "key":"柠檬",
-    "name":"🌟 柠檬｜App",
-    "type":3,
-    "api":"csp_Nmvod",
-    "playerType":2,
-    "jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
-    "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },    
+         {
+            "key": "金牌影院",
+            "name": "🌟 金牌｜影院",
+            "type": 3,
+            "api": "./js/金牌影院.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+       {
+      "key": " 58app",
+      "name": "🌟 五八｜APP",
+      "type": 3,
+      "jar": "./jar/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "./json/58app.json"
+    },
        {
       "key": "鲸鱼",
       "name": "🌟 鲸鱼｜APP",
@@ -265,15 +281,6 @@
         "siteApi": "get",
         "version": "201"
       }
-    },
-    {
-    "key":"lanyingys",
-    "name":"🌟 橘子｜APP",
-    "type":3,
-    "api":"csp_Qiji",
-    "playerType":2,
-    "jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
-    "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
     },
     {
       "key": "悟空影视",
@@ -1325,7 +1332,13 @@
                 }
             }
     },               
-   { "name": "💓淘片🧡", "type": 0, "url": "https://jx.yparse.com/index.php?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36" } } },
+   { "name": "💓淘片🧡", "type": 0, "url": "https://jx.yparse.com/index.php?url=", "ext": { "header": { "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36" } } 
+   },
+    {
+      "name": "爱腾优果",
+      "type": 0,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+  },                                                                                                                                                           
   {
       "name": "VIP7",
       "type": 0,
