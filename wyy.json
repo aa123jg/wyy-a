@@ -400,34 +400,6 @@
       }
     },        
     {
-      "key": "仓鼠",
-      "name": "🌟 仓鼠｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "dataKey": "da61247f5b662597",
-        "dataIv": "da61247f5b662597",
-        "version": "120"
-      }
-    },
-    {
-      "key": "云云",
-      "name": "🌟 云云｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
-        "dataKey": "staraugust123456",
-        "dataIv": "staraugust123456",
-        "version": "120"
-      }
-    },
-    {
       "key": "紫金",
       "name": "🌟 紫金｜APP",
       "type": 3,
