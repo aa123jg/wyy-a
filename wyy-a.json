@@ -3,7 +3,7 @@
 
 {
        
-   "spider": "./jar/wyy.png;md5;wyy",
+   "spider": "./jar/wyy.png",
     "wallpaper": "https://tvbox.catvod.com/logo.png",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
@@ -83,165 +83,12 @@
        "jar":"./jar/spider.jar",                        
        "searchable": 0
    },     
-     {
-        "key": "玩偶哥哥",
-        "name": "💦 玩偶｜4K弹幕",
-        "type": 3,
-        "api": "csp_PanWebShare",
-        "jar":"./jar/spider.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "./json/wogg.json"
-    }, 
-    {
-            "key": "木偶",
-            "name": "💦 木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/mogg.json"
-     },                 
-    {
-       "key": "蜡笔",
-       "name": "💦 蜡笔｜4K弹幕",
-       "type": 3,
-       "api": "csp_PanWebShare",
-       "jar":"./jar/spider.jar",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "changeable": 1,
-       "ext": "./json/lb.json"
-    },
-    {
-       "key": "至臻",
-       "name": "💦 至臻｜4K弹幕",
-       "type": 3,
-       "api": "csp_PanWebShare",
-       "jar":"./jar/spider.jar",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "changeable": 1,
-       "ext": "./json/zz.json"
-    },
-    {
-       "key": "多多",
-       "name": "💦 多多｜4K弹幕",
-       "type": 3,
-       "api": "csp_PanWebShare",
-       "jar":"./jar/spider.jar",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "changeable": 1,
-       "ext": "./json/yyds.json"
-    },
-    {
-       "key": "欧哥",
-       "name": "💦 欧哥｜4K弹幕",
-       "type": 3,
-       "api": "csp_PanWebShare",
-       "jar":"./jar/spider.jar",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "changeable": 1,
-       "ext": "./json/og.json"
-        },
-        {
-            "key": "雷鲸",
-            "name": "💦 雷鲸｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudLJ",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/lj.json"
-        },       
-         {
-            "key": "虎斑",
-            "name": "💦 虎斑｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/hb.json"
-        },   
-          {
-            "key": "夸父",
-            "name": "💦 夸父｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKF",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/kf.json"
-        },                                                 
-        {
-            "key": "盘库",
-            "name": "💦 盘库｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebKuBa",
-            "jar":"./jar/spider_og.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-            "url": "https://panku8.com,https://yipanso.com"
-         }
-        },  
-        {
-            "key": "小斑快映",
-            "name": "💦 快映｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/xbky.json"
-        }, 
-       {
-          "key": "Lib",
-          "name": "💦 立播｜纯净",
-          "type": 3,
-          "api": "csp_Libvio",
-          "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.jar",
-          "searchable": 1,
-          "quickSearch": 1,
-          "changeable": 1,
-          "ext": {
-          "Cloud-drive": "TVBox/Cloud-drive.txt",
-          "from": "4k|auto"
-         }                
-       },  
-            {
+   {
             "key": "玩偶",
             "name": "💦 玩偶｜4K",
             "type": 3,
             "api": "csp_Wogg",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -259,6 +106,7 @@
             "name": "💦 快映｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -274,6 +122,7 @@
             "name": "💦 木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -292,6 +141,7 @@
             "name": "💦 蜡笔｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -309,6 +159,7 @@
             "name": "💦 至臻｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -329,6 +180,7 @@
             "name": "💦 多多｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -346,6 +198,7 @@
             "name": "💦 欧哥｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -364,6 +217,7 @@
             "name": "💦 二小｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -382,6 +236,7 @@
             "name": "💦 虎斑｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+           "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -397,6 +252,7 @@
             "name": "💦 闪电｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -412,6 +268,7 @@
             "name": "💦 夸克｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudKK",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -427,6 +284,7 @@
             "name": "💦 清影｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudQY",
+           "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -442,6 +300,7 @@
             "name": "💦 雷鲸｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
+           "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -464,6 +323,7 @@
             "name": "💦 海绵｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudHM",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -485,6 +345,7 @@
             "name": "💦 夸父｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudKF",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -505,6 +366,7 @@
             "name": "💦 盘它｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloudPT",
+           "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -518,6 +380,7 @@
             "name": "💦 123｜4K",
             "type": 3,
             "api": "csp_PanWebShareCloud123",
+            "jar":"./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -537,12 +400,14 @@
             "key": "人人",
             "name": "💦 人人｜4K",
             "type": 3,
+            "jar":"./jar/spider.jar",
             "api": "csp_RenRen"
         },
         {
             "key": "即刻",
             "name": "💦 即刻｜4K",
             "type": 3,
+            "jar":"./jar/spider.jar",
             "api": "csp_Jike",
             "style": {
                 "type": "list"
@@ -552,6 +417,7 @@
             "key": "双星",
             "name": "💦 双星｜4K",
             "type": 3,
+            "jar":"./jar/spider.jar",
             "api": "csp_ShuangXing",
             "style": {
                 "type": "list"
