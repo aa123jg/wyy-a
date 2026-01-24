@@ -109,7 +109,15 @@
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh",            
       "api": "http://www.meowtv.cn/js/drpy2.min.js" ,
       "playUrl": "json:http://jx.dedyn.io/?url="             
+
    },   
+   },   
+    {
+      "key":"py_央库云",      
+      "name":"🇨🇳 央库｜云聚",      
+      "type":3,            
+      "api":"./py/央库云.py"           
+    },    
    {
       "key": "csp_XBPQ_电视剧网",
       "name": "🌇 电视剧网",
@@ -1176,7 +1184,38 @@
          
     ],
     "parses": [
-
+{
+  "name": "JSON并发",
+        "url": "http://127.0.0.1:5757/parse/JSON并发?url=",
+        "type": 2,
+        "ext": {
+          "flag": [
+            "qiyi",
+            "imgo",
+            "爱奇艺",
+            "奇艺",
+            "qq",
+            "qq 预告及花絮",
+            "腾讯",
+            "youku",
+            "优酷",
+            "pptv",
+            "PPTV",
+            "letv",
+            "乐视",
+            "leshi",
+            "mgtv",
+            "芒果",
+            "sohu",
+            "xigua",
+            "fun",
+            "风行"
+          ]
+        },
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
      {
         "name":"尘墨4K",
         "type":1,
