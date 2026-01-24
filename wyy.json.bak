@@ -109,9 +109,8 @@
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh",            
       "api": "http://www.meowtv.cn/js/drpy2.min.js" ,
       "playUrl": "json:http://jx.dedyn.io/?url="             
-<<<<<<< HEAD
+
    },   
-=======
    },   
     {
       "key":"py_央库云",      
@@ -119,7 +118,6 @@
       "type":3,            
       "api":"./py/央库云.py"           
     },    
->>>>>>> fd0b03eea06011cf1be7ddc23f000b9fe6213cc2
    {
       "key": "csp_XBPQ_电视剧网",
       "name": "🌇 电视剧网",
@@ -1186,9 +1184,6 @@
          
     ],
     "parses": [
-<<<<<<< HEAD
-
-=======
 {
   "name": "JSON并发",
         "url": "http://127.0.0.1:5757/parse/JSON并发?url=",
@@ -1221,7 +1216,6 @@
           "User-Agent": "Mozilla/5.0"
         }
       },
->>>>>>> fd0b03eea06011cf1be7ddc23f000b9fe6213cc2
      {
         "name":"尘墨4K",
         "type":1,
