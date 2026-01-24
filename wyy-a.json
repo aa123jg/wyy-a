@@ -58,21 +58,21 @@
        "jar":"./jar/spider.jar",
        "searchable":0,
        "changeable":0,
-       "ext":"./json/yysd.json"      
+       "ext":"./json/应用商店.json"      
    },
    {
 	  "key": "直播转点播",
 	  "name": "📺｜电视直播",
 	  "type": 3,
 	  "searchable": 0,
-	  "api": "./lives/live2vod.js",
-	  "ext": "./lives/live2vod.json"
+	  "api": "./tv/live2vod.js",
+	  "ext": "./tv/live2vod.json"
    }, 
    {
       "key": "蜻蜓FM",
       "name": "🚨 蜻蜓｜FM",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/蜻蜓FM.js"
     },                                                                  
    {
@@ -280,22 +280,6 @@
             }
         },
         {
-            "key": "清影",
-            "name": "💦 清影｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudQY",
-           "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://www.revohd.com"
-                ]
-            }
-        },
-        {
             "key": "雷鲸",
             "name": "💦 雷鲸｜4K",
             "type": 3,
@@ -431,12 +415,22 @@
       "jar": "./jar/spider_og.jar",
       "searchable": 1,
       "quickSearch": 1
-   },      
+   }, 
+   {
+       "key":"tengxun",
+       "name":"🌟 尘墨｜专线",
+       "type":4,
+       "api":"http://box.52xiaobai.cn/video/tengxun?token=0cf716d59b1fdfa3",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "changeable":1
+    },       
     {
       "key": "芒果视频",
       "name": "🌟 芒果｜高清",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/芒果视频.js",
       "playUrl": "http://mg.itufm.top/mg.php?url="         
     },
@@ -462,23 +456,39 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
-    },    
+    },  
+    {
+    "key":"聚搜影视",
+    "name":"🌟 番喜｜秒播",
+    "type":3,
+    "api":"https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+    "ext":"http://118.89.203.120:8365/"
+    },
+       {
+      "key": "csp_XBPQ_电视剧网",
+      "name": "🌇 电视剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/电视剧网.json"
+    },
+    {
+      "key": "韩剧看看",
+      "name": "🇰🇷 韩剧｜看看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/韩剧看看.json",
+      "jar": "./jar/xbpq.jar"
+    },  
       {
             "key": "本地",
             "name": "📽 本地视频",
             "type": 3,
             "api": "csp_LocalFile"
-        },             
-         {
-            "key": "版本信息",
-            "name": "🌊 版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://pizazz.s3.bitiful.net/single.json"
-        }
+     }
          
     ],
     "parses": [
