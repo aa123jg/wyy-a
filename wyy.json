@@ -6,7 +6,7 @@
     {
       "name": "我的直播",
       "type": 0,
-      "url": "https://5141.kstore.space/wyy-a/lives/我的直播.m3u",
+      "url": "https://5141.kstore.space/wyy-a/tv/我的直播.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -21,7 +21,7 @@
     {
       "name": "catvod直播",
       "type": 0,
-      "url": "https://5141.kstore.space/wyy-a/lives/catvod.m3u"
+      "url": "https://5141.kstore.space/wyy-a/tv/catvod.m3u"
     }
   ],
   "sites": [
@@ -140,15 +140,15 @@
       "changeable": 1
     },
     {
-      "key": "tengxun",
-      "name": "🌟 尘墨｜专线",
-      "type": 4,
-      "api": "http://box.52xiaobai.cn/video/tengxun?token=0cf716d59b1fdfa3",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+       "key":"chenmo",
+       "name":"🌟 尘墨｜专线",
+       "type":4,
+       "api":"http://box.52xiaobai.cn/video/chenmo?token=1ca39591dee68273",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "changeable":1
+     },
     {
       "key": "芒果视频",
       "name": "🌟 芒果｜高清",

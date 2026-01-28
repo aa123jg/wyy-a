@@ -3,7 +3,7 @@
 
 {
        
-   "spider": "./jar/wyy.png",
+   "spider": "./jar/wyy.jar",
     "wallpaper": "https://tvbox.catvod.com/logo.png",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
       "lives": [
@@ -24,7 +24,7 @@
         {
              "name": "catvod直播",
              "type": 0,
-             "url": "https://5141.kstore.space/wyy-a/lives/catvod.m3u"
+             "url": "https://5141.kstore.space/wyy-a/tv/catvod.m3u"
         }                
     ],       
     "sites": [
@@ -82,7 +82,94 @@
        "api": "csp_YGP",
        "jar":"./jar/spider.jar",                        
        "searchable": 0
-   },     
+   },  
+       {
+      "key": "移动",
+      "name": "💓 移动｜网盘",
+      "type": 3,
+      "api": "csp_YDjisu",
+      "jar": "./jar/spider_og.jar",
+      "searchable": 1,
+      "quickSearch": 1
+   }, 
+   {
+       "key":"tengxun",
+       "name":"🌟 尘墨｜专线",
+       "type":4,
+       "api":"http://box.52xiaobai.cn/video/tengxun?token=0cf716d59b1fdfa3",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "changeable":1
+    },       
+    {
+      "key": "芒果视频",
+      "name": "🌟 芒果｜高清",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/芒果视频.js",
+      "playUrl": "http://mg.itufm.top/mg.php?url="         
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🌟 瓜子｜影视",
+      "type": 3,
+      "api": "csp_Gz360",
+       "jar": "./jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "热播影视",
+      "name": "🌟 热播｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "./jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },  
+    {
+    "key":"聚搜影视",
+    "name":"🌟 番喜｜秒播",
+    "type":3,
+    "api":"https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+    "ext":"http://118.89.203.120:8365/"
+    },
+       {
+      "key": "csp_XBPQ_电视剧网",
+      "name": "🌇 电视剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/电视剧网.json"
+    },
+    {
+      "key": "韩剧看看",
+      "name": "🇰🇷 韩剧｜看看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/韩剧看看.json",
+      "jar": "./jar/xbpq.jar"
+    },  
+    {
+      "name": "🇰🇷 韩剧｜秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "jar": "./jar/嗷呜.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
    {
             "key": "玩偶",
             "name": "💦 玩偶｜4K",
@@ -280,22 +367,6 @@
             }
         },
         {
-            "key": "清影",
-            "name": "💦 清影｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudQY",
-           "jar":"./jar/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://www.revohd.com"
-                ]
-            }
-        },
-        {
             "key": "雷鲸",
             "name": "💦 雷鲸｜4K",
             "type": 3,
@@ -423,82 +494,6 @@
                 "type": "list"
             }
         },     
-   {
-      "key": "移动",
-      "name": "💓 移动｜网盘",
-      "type": 3,
-      "api": "csp_YDjisu",
-      "jar": "./jar/spider_og.jar",
-      "searchable": 1,
-      "quickSearch": 1
-   }, 
-   {
-       "key":"tengxun",
-       "name":"🌟 尘墨｜专线",
-       "type":4,
-       "api":"http://box.52xiaobai.cn/video/tengxun?token=0cf716d59b1fdfa3",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "changeable":1
-    },       
-    {
-      "key": "芒果视频",
-      "name": "🌟 芒果｜高清",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/芒果视频.js",
-      "playUrl": "http://mg.itufm.top/mg.php?url="         
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🌟 瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360",
-       "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "热播影视",
-      "name": "🌟 热播｜APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },  
-    {
-    "key":"聚搜影视",
-    "name":"🌟 番喜｜秒播",
-    "type":3,
-    "api":"https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-    "ext":"http://118.89.203.120:8365/"
-    },
-       {
-      "key": "csp_XBPQ_电视剧网",
-      "name": "🌇 电视剧网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/电视剧网.json"
-    },
-    {
-      "key": "韩剧看看",
-      "name": "🇰🇷 韩剧｜看看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/韩剧看看.json",
-      "jar": "./jar/xbpq.jar"
-    },  
 
       {
             "key": "本地",
