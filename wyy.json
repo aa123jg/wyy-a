@@ -140,16 +140,6 @@
       "changeable": 1
     },
     {
-       "key":"chenmo",
-       "name":"🌟 尘墨｜专线",
-       "type":4,
-       "api":"http://box.52xiaobai.cn/video/chenmo?token=1ca39591dee68273",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "changeable":1
-     },
-    {
       "key": "芒果视频",
       "name": "🌟 芒果｜高清",
       "type": 3,
