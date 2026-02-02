@@ -884,18 +884,80 @@ CCTV16,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1
 
 🌴 港澳台频道,#genre#
 
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-POPC,http://bxtv.3a.ink/api.php?id=popc
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,https://mgev.188766.xyz/?migutoken=6f769e2e69fe4f3e26e9405fcf98a328&id=fhzw&pp=1
+鳳凰衛視資訊台,https://mgev.188766.xyz/?migutoken=2e3953f206630b7f3339463594cf21c0&id=fhzx&pp=1
+鳳凰衛視香港台,https://mgev.188766.xyz/?migutoken=9aa4c47011a78812a87b0eafb2168027&id=fhhk&pp=1
+Now新闻台,https://mgev.188766.xyz/?migutoken=fd2af414a9e04b7169bf634a446c5dab&id=hk_now&type=dy
+NOW直播台,http://rihou.cc:555/tv/[Mt]Now直播
+NOW体育台,http://rihou.cc:555/tv/[Mt]Now体育
+NOW新闻台,http://cdn.163189.xyz/163189/now
+VIUTV,https://cdn.163189.xyz/163189/viu
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+公视,rtmp://f13h.mine.nu/sat/tv771
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+无线新闻,http://r.jdshipin.com/CkuBd
+娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://r.jdshipin.com/Voac4
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+GOODTV,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+GOODTV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOOD2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,https://cdn6.101.qzz.io/163189/asam
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+CHU,http://cdn6.163189.xyz/163189/chu
+Channel 5,http://cdn6.163189.xyz/163189/ch5
+Channel 8,http://cdn6.163189.xyz/163189/ch8
+Channel U,http://cdn6.163189.xyz/163189/chu
+POPC,http://tl.061833.xyz/tl/popc
+MoMoTV,rtmp://f13h.mine.nu/sat/tv761
+DAZN1,rtmp://f13h.mine.nu/sat/tv731
+DAZN2,rtmp://f13h.mine.nu/sat/tv741
+功夫台,https://cdn6.101.qzz.io/163189/yzwx
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+重温经典,http://8.138.7.223/tv/cwjd.php
+八度空间,http://cdn6.163189.xyz/163189/8tv
+唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+中旺电视,http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+生命电影,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 
 

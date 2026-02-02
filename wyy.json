@@ -11,18 +11,20 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "冰茶直播",
-      "type": 0,
-      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1(mianfeifenxiang)"
-    },
+        "name":"冰茶TV直播",
+        "type":0,
+        "playerType":2,
+        "url":"https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true",
+        "ua":"bingcha/1.1(mianfeifenxiang)"
+     },
     {
-      "name": "catvod直播",
-      "type": 0,
-      "url": "https://5141.kstore.space/wyy-a/tv/catvod.m3u"
-    }
+       "name":"猫影TV直播",
+       "type":0,
+       "url":"https://iptv.catvod.com/tv.m3u",
+       "ua":"Goiptv/8.8.8",
+       "timeout":10,
+       "playerType":2
+       }
   ],
   "sites": [
     {
@@ -272,19 +274,6 @@
         "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
-      }
-    },
-    {
-      "key": "八天",
-      "name": "🌟 八天丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "url": "https://dy.8ttv.cn",
-        "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111"
       }
     },
     {
