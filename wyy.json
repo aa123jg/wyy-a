@@ -187,6 +187,16 @@
       "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
       "ext": "http://118.89.203.120:8365/"
     },
+   {
+	    "key": "Emby.js",
+		"name": "🌟 Emby｜影视",
+		"type": 3,
+		"api": "./py/Emby.js",
+		"searchable": 1,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": ""
+	},
     {
       "key": "drpy2_03影院[优]",
       "name": "🌟 零三｜影院",
@@ -215,12 +225,6 @@
       }
     },
     {
-      "key": "T4-batian",
-      "name": "🌟 八天｜影视",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/batian.php"
-    },
-    {
       "key": "金牌影院",
       "name": "🌟 金牌｜影院",
       "type": 3,
@@ -244,24 +248,6 @@
         "ratio": 1.7
       },
       "ext": "./json/58app.json"
-    },
-    {
-      "key": "爆炸",
-      "name": "🌟 爆炸｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/spider.jar",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "search": "searchList4",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "茉莉",
@@ -379,23 +365,6 @@
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$5#短剧$20",
         "分类url": "https://www.90sr.com/boom/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "简介": "水印广告勿信，谨防诈骗"
-      }
-    },
-    {
-      "key": "紫金",
-      "name": "🌟 紫金｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "url": "http://www.zjcvod.com",
-        "site": "",
-        "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
       }
     },
     {
