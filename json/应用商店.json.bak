@@ -127,6 +127,24 @@
         "version": "酷9电视(空壳软件)"
       },
       {
+        "name": "星火电视",
+        "url": "https://5141.kstore.space/apk/%E6%98%9F%E7%81%ABTV_1.0.48.apk",
+        "icon": "https://5141.kstore.space/apk/%E6%98%9F%E7%81%AB.png",
+        "version": "星火V_1.0.48版"
+      },
+      {
+        "name": "小飞电视",
+        "url": "https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E%E7%94%B5%E8%A7%86v2.8.0+TV%E7%89%88.apk",
+        "icon": "https://5141.kstore.space/apk/%E5%B0%8F%E9%A3%9E.png",
+        "version": "小飞2.80版"
+      },
+      {
+        "name": "冰茶蜜蜂",
+        "url": "https://5141.kstore.space/apk/%E5%86%B0%E8%8C%B6%E8%9C%82%E8%9C%9C_4.0.0.apk",
+        "icon": "https://5141.kstore.space/apk/%E5%86%B0%E8%8C%B6%E8%9C%9C%E8%9C%82.png",
+        "version": "冰茶蜜蜂4.0.0版"
+      },
+      {
         "name": "全民K歌",
         "url": "https://5141.kstore.space/apk/%E5%85%A8%E6%B0%91K%E6%AD%8CMV%E7%89%88_5.9.0.1.apk",
         "icon": "https://5141.kstore.space/apk/%E5%85%A8%E6%B0%91K%E6%AD%8C.png",
