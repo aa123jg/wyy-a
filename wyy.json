@@ -82,6 +82,17 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
     },
+    {
+      "key": "csp_XBPQ_电视剧网",
+      "name": "🌇 电视剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/电视剧网.json"
+    },
    {
       "key": "Guazi",
       "name": "🌟 瓜子｜影视",
@@ -111,17 +122,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
-    },
-    {
-      "key": "csp_XBPQ_电视剧网",
-      "name": "🌇 电视剧网",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/电视剧网.json"
     },
     {
       "key": "韩剧看看",
