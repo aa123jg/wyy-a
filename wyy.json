@@ -193,20 +193,6 @@
       "ext": "./js/03影院[优].js"
     },
     {
-      "key": " 58app",
-      "name": "🌟 五八｜APP",
-      "type": 3,
-      "jar": "./jar/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": "./json/58app.json"
-    },
-    {
       "key": "茉莉",
       "name": "🌟 茉莉｜APP",
       "type": 3,
@@ -257,14 +243,6 @@
       }
     },
     {
-      "key": "顶级影院",
-      "name": "🌟 顶级｜影院",
-      "type": 3,
-      "jar": "./jar/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": "./json/顶级影院.json"
-    },
-    {
       "key": "枝枝影视",
       "name": "🌟 枝枝｜影视",
       "type": 3,
@@ -294,18 +272,6 @@
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://www.123guipian.com/;;!",
-        "简介": "水印广告勿信，谨防诈骗"
-      }
-    },
-    {
-      "key": "88影视网",
-      "name": "🌟 88｜影视网",
-      "type": 3,
-      "jar": "./jar/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://m.88hd.org/vod-type-id-{cateId}-pg-{catePg}.html;;!",
         "简介": "水印广告勿信，谨防诈骗"
       }
     },
@@ -388,6 +354,18 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+  "key": "咕噜映画",
+  "name": "🌟 咕噜｜映画  ",
+  "type": 3,
+  "api": "./js/Appfox.min.js",
+  "ext": {
+    "host": "http://www.yingsw.top",
+    "timeout": 8,
+    "key": "guluyinghua_123",
+    "sign": "679543610991810f19698c187e5e106e"
+  }
+},
     {
       "key": "采集集合",
       "name": "🍄 采集集合",
@@ -1136,6 +1114,21 @@
     }
   ],
   "parses": [
+          {
+            "name": "手动解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+  {
+      "name": "白嫖鸭",
+      "url": "http://jiexi.fc8001.top/JvgSLQFljKjWZveS.php?url=",
+      "type": 1
+      },
     {
       "name": "m3u8",
       "url": "https://jx.m3u8.tv/jiexi/?url=",
