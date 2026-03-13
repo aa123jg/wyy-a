@@ -1,8 +1,5 @@
 [
-  {
-    "name": "咪咕频道",
-    "url": "https://5141.kstore.space/wyy-a/tv/咪咕频道.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
-  },
+
   {
     "name": "我的直播",
     "url": "https://5141.kstore.space/wyy-a/tv/我的直播.txt&&&https://5141.kstore.space/apk/%E4%B8%AD%E5%8E%9F%E7%A6%8F%E5%A1%942.png"
@@ -26,6 +23,10 @@
   {
     "name": "美食欣赏",
     "url": "https://5141.kstore.space/wyy-a/tv/美食欣赏.txt&&&https://5141.kstore.space/apk/%E7%BE%8E%E9%A3%9F%E5%9B%BE%E7%89%87.jpg"
+  },
+  {
+    "name": "咪咕频道",
+    "url": "https://5141.kstore.space/wyy-a/tv/咪咕频道.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
   },
   {
     "name": "测试频道",
