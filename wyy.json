@@ -8,7 +8,11 @@
       "type": 0,
       "url": "https://5141.kstore.space/wyy-a/tv/我的直播.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     }
   ],
   "sites": [
@@ -18,7 +22,11 @@
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/spider_og.jar",
-      "searchable": 0
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "应用商店",
@@ -28,7 +36,11 @@
       "jar": "./jar/spider.jar",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./json/应用商店.json"
+      "ext": "./json/应用商店.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "直播转点播",
@@ -36,14 +48,22 @@
       "type": 3,
       "searchable": 0,
       "api": "./tv/live2vod.js",
-      "ext": "./tv/live2vod.json"
+      "ext": "./tv/live2vod.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "蜻蜓FM",
       "name": "🚨 蜻蜓｜FM",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/蜻蜓FM.js"
+      "ext": "./js/蜻蜓FM.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "预告",
@@ -51,7 +71,11 @@
       "type": 3,
       "api": "csp_YGP",
       "jar": "./jar/spider.jar",
-      "searchable": 0
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "移动",
@@ -60,7 +84,11 @@
       "api": "csp_YDjisu",
       "jar": "./jar/spider_og.jar",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "txdh",
@@ -70,7 +98,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "mgdh",
@@ -80,7 +112,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "csp_XBPQ_电视剧网",
@@ -91,15 +127,23 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/电视剧网.json"
+      "ext": "./json/电视剧网.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
-   {
+    {
       "key": "Guazi",
       "name": "🌟 瓜子｜影视",
       "type": 3,
       "api": "csp_Guazi",
       "jar": "./jar/fish02202204.png",
-      "searchable": 1
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "Jpys",
@@ -108,7 +152,11 @@
       "api": "csp_Jpys",
       "jar": "./jar/fish02202204.png",
       "searchable": 1,
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "Rebo",
@@ -121,6 +169,10 @@
       "filterable": 0,
       "ext": {
         "url": "http://v.rbotv.cn"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -129,7 +181,11 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/韩剧看看.json",
-      "jar": "./jar/xbpq.jar"
+      "jar": "./jar/xbpq.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "name": "🇰🇷 韩剧｜秒播",
@@ -140,26 +196,38 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "芒果视频",
       "name": "🌟 芒果｜高清",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/芒果视频.js"
+      "ext": "./js/芒果视频.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
-       "name":"🌟 高端｜2K",
-       "key":"Ddys",
-       "type":3,
-       "api":"csp_DdysAmns",
-       "jar": "./jar/嗷呜.jar",
-       "searchable":1,
-       "filterable":1,
-       "quickSearch":1,
-       "changeable":1
-       },
+      "name":"🌟 高端｜2K",
+      "key":"Ddys",
+      "type":3,
+      "api":"csp_DdysAmns",
+      "jar": "./jar/嗷呜.jar",
+      "searchable":1,
+      "filterable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
     {
       "key": "Czzy",
       "name": "🌟 厂长｜2K",
@@ -169,14 +237,22 @@
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "聚搜影视",
       "name": "🌟 番喜｜秒播",
       "type": 3,
       "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-      "ext": "http://118.89.203.120:8365/"
+      "ext": "http://118.89.203.120:8365/",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "drpy2_03影院[优]",
@@ -190,19 +266,26 @@
       "author": "小可乐/250915/第一版",
       "类型": "影视",
       "lang": "dr2",
-      "ext": "./js/03影院[优].js"
+      "ext": "./js/03影院[优].js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
-    {
-      "key": "茉莉",
-      "name": "🌟 茉莉｜APP",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
+        {
+            "key": "小羊",
+            "name": "🌟 小羊｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "jar": "./jar/spider.jar",
+            "ext": {
+                "url": "https://qjappcms410.xy4k.com",
+                "dataKey": "mC6kG4mI1uM8tS4o",
+                "dataIv": "mC6kG4mI1uM8tS4o"
+                },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -211,7 +294,11 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "./json/悟空影视.json"
+      "ext": "./json/悟空影视.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "麦田影视",
@@ -226,6 +313,10 @@
         "线路标题": "dianying\"></i>&&<span",
         "副标题": "<span class=\"public-list-prb hide ft2\">&&</span>",
         "分类url": "https://www.mtyy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -240,6 +331,10 @@
         "线路数组": "\\#down&&</li>",
         "线路标题": "+>&&<",
         "分类url": "https://www.hengchuanjixie.com/"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -254,6 +349,10 @@
       "ext": {
         "副标题": "<div class=\"tag text-overflow\">&&</div>",
         "分类url": "http://zzoc.cc/"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -262,7 +361,11 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "./json/人人影视.json"
+      "ext": "./json/人人影视.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "恐怖片之家",
@@ -273,6 +376,10 @@
       "ext": {
         "分类url": "https://www.123guipian.com/;;!",
         "简介": "水印广告勿信，谨防诈骗"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -288,6 +395,10 @@
         "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$5#短剧$20",
         "分类url": "https://www.90sr.com/boom/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "简介": "水印广告勿信，谨防诈骗"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -305,6 +416,10 @@
         "deviceId": "",
         "version": "",
         "ua": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
       }
     },
     {
@@ -314,14 +429,22 @@
       "api": "csp_SaoHuo",
       "jar": "./jar/spider.jar",
       "playerType": 2,
-      "ext": "https://shdy5.us"
+      "ext": "https://shdy5.us",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "奇优影视",
       "name": "🌟 奇优｜影视",
       "jar": "./jar/spider.jar",
       "type": 3,
-      "api": "csp_Qiyou"
+      "api": "csp_Qiyou",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "爱看机器人",
@@ -331,7 +454,11 @@
       "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "农民影视",
@@ -342,7 +469,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "./json/农民影视.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "1905",
@@ -352,20 +483,28 @@
       "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
-  "key": "咕噜映画",
-  "name": "🌟 咕噜｜映画  ",
-  "type": 3,
-  "api": "./js/Appfox.min.js",
-  "ext": {
-    "host": "http://www.yingsw.top",
-    "timeout": 8,
-    "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"
-  }
-},
+      "key": "咕噜映画",
+      "name": "🌟 咕噜｜映画  ",
+      "type": 3,
+      "api": "./js/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "timeout": 8,
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
     {
       "key": "采集集合",
       "name": "🍄 采集集合",
@@ -374,7 +513,7 @@
       "searchable": 1,
       "style": {
         "type": "rect",
-        "ratio": 1.33
+        "ratio": 1.778
       },
       "ext": "1",
       "changeable": 1
@@ -384,7 +523,7 @@
       "name": "🍄 360｜采集",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
-      "playUrl": "https://www.360jiexi.com/player/?url=",
+      "playUrl": "",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -417,7 +556,11 @@
         "欧美动漫",
         "港台动漫",
         "海外动漫"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "如意采集资源",
@@ -455,7 +598,11 @@
         "欧美动漫",
         "港台动漫",
         "海外动漫"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "百度云采集资源",
@@ -490,7 +637,11 @@
         "日韩动漫",
         "欧美动漫",
         "动画电影"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "爱奇艺采集资源",
@@ -536,7 +687,11 @@
         "欧美动漫",
         "港台动漫",
         "动漫电影"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "豪华资源",
@@ -572,7 +727,11 @@
         "日韩综艺",
         "港台综艺",
         "欧美综艺"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "暴风资源",
@@ -582,7 +741,11 @@
       "playUrl": "https://vip.vipuuvip.com/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "光速资源",
@@ -614,7 +777,11 @@
         "台湾剧",
         "泰剧",
         "短剧"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "猫眼资源",
@@ -664,7 +831,11 @@
         "短剧反转爽剧",
         "短剧女频恋爱",
         "短剧成长逆袭"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "新浪资源",
@@ -674,7 +845,11 @@
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "无忧资源",
@@ -684,7 +859,11 @@
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "四个圈资源",
@@ -694,7 +873,11 @@
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "魔都资源",
@@ -704,7 +887,11 @@
       "playUrl": "https://jiexi.moduzyjx.com/?url=",
       "playerType": 1,
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "旺旺资源",
@@ -717,7 +904,11 @@
       "changeable": 1,
       "categories": [
         "短剧"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "工厂影视",
@@ -756,7 +947,11 @@
         "国产动漫",
         "港台动漫",
         "日韩动漫"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "非凡资源",
@@ -791,7 +986,11 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "量子资源",
@@ -826,7 +1025,11 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "js_星芽短剧",
@@ -836,7 +1039,11 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/星芽短剧.js"
+      "ext": "./js/星芽短剧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "剧王短剧",
@@ -846,7 +1053,11 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "河马短剧",
@@ -857,7 +1068,11 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "name":"💯 甜圈｜短剧",
@@ -868,8 +1083,12 @@
       "searchable":1,
       "filterable":1,
       "quickSearch":1,
-      "changeable":1
-      },
+      "changeable":1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
     {
       "name":"💯 喵喵｜短剧",
       "key":"Qmdj",
@@ -879,8 +1098,12 @@
       "searchable":1,
       "filterable":1,
       "quickSearch":1,
-      "changeable":1
-      },
+      "changeable":1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
+    },
     {
       "key": "哆啦新番社",
       "name": "🎀 哆啦｜新番社",
@@ -888,7 +1111,8 @@
       "api": "csp_HBPQ",
       "jar": "./jar/spider_og.jar",
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1.778
       },
       "ext": "./json/哆啦新番社.json"
     },
@@ -897,7 +1121,11 @@
       "name": "🎀 NT｜动漫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/NT动漫.js"
+      "ext": "./js/NT动漫.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "88js",
@@ -906,7 +1134,8 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/88看球.js",
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1.778
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -919,7 +1148,8 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/310直播.js",
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1.778
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -933,7 +1163,7 @@
       "jar": "./jar/Yoursmile.jar",
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -949,7 +1179,11 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "./jar/duo.jar",
-      "ext": "./json/歌手合集.json"
+      "ext": "./json/歌手合集.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     },
     {
       "key": "哔哩视频",
@@ -963,7 +1197,7 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.433
+        "ratio": 1.778
       },
       "ext": {
         "json": "./json/哔哩视频.json",
@@ -985,7 +1219,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
@@ -1003,7 +1237,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
@@ -1021,7 +1255,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
@@ -1039,7 +1273,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
@@ -1057,7 +1291,7 @@
       },
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
@@ -1072,7 +1306,7 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.433
+        "ratio": 1.778
       },
       "ext": {
         "json": "./json/中医药.json",
@@ -1090,7 +1324,7 @@
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 3.8
+        "ratio": 1.778
       },
       "gridview": "0-0-4.1"
     },
@@ -1103,32 +1337,36 @@
       "ext": "./json/养生堂.json",
       "style": {
         "type": "rect",
-        "ratio": 1.597
+        "ratio": 1.778
       }
     },
     {
       "key": "本地",
       "name": "📽 本地视频",
       "type": 3,
-      "api": "csp_LocalFile"
+      "api": "csp_LocalFile",
+      "style": {
+        "type": "rect",
+        "ratio": 1.778
+      }
     }
   ],
   "parses": [
-          {
-            "name": "手动解析",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
-  {
+    {
+      "name": "手动解析",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+          "header": {
+              "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+          }
+      }
+    },
+    {
       "name": "白嫖鸭",
       "url": "http://jiexi.fc8001.top/JvgSLQFljKjWZveS.php?url=",
       "type": 1
-      },
+    },
     {
       "name": "m3u8",
       "url": "https://jx.m3u8.tv/jiexi/?url=",
@@ -1303,7 +1541,46 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
+    },
+    // 新增解析接口开始
+    {
+      "name": "4K秒播",
+      "type": 0,
+      "url": "https://jx.618g.com/?url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Android 14; Mobile; rv:109.0) Gecko/115.0 Firefox/115.0"
+      }
+    },
+    {
+      "name": "极速解析",
+      "type": 1,
+      "url": "https://api.163ren.com/jx/?url="
+    },
+    {
+      "name": "星辰解析",
+      "type": 0,
+      "url": "https://jx.xcxqq.cn/?url=",
+      "ext": {
+        "flag": ["qiyi", "腾讯", "优酷", "芒果", "bilibili"],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "闪电解析",
+      "type": 1,
+      "url": "https://api.pingjiang.tv/jx.php?url="
+    },
+    {
+      "name": "高清解析",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      }
     }
+    // 新增解析接口结束
   ],
   "hosts": [
     "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
