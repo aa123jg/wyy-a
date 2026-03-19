@@ -244,17 +244,6 @@
       }
     },
     {
-      "key": "聚搜影视",
-      "name": "🌟 番喜｜秒播",
-      "type": 3,
-      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-      "ext": "http://118.89.203.120:8365/",
-      "style": {
-        "type": "rect",
-        "ratio": 1.778
-      }
-    },
-    {
       "key": "drpy2_03影院[优]",
       "name": "🌟 零三｜影院",
       "type": 3,
@@ -1362,10 +1351,13 @@
           }
       }
     },
-    {
-      "name": "白嫖鸭",
-      "url": "http://jiexi.fc8001.top/JvgSLQFljKjWZveS.php?url=",
-      "type": 1
+     {
+      "name": "J1",
+      "url": "https://kalbim.xatut.top/kalbim2025/781718/play/video_player.php?url=",
+      "type": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
     },
     {
       "name": "m3u8",
@@ -1496,38 +1488,12 @@
       }
     },
     {
-      "name": "花旗",
-      "url": "https://www.huaqi.live/?url=",
-      "type": 0,
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
       "name": "冰豆",
       "url": "https://bd.jx.cn/?url=",
       "type": 0,
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    },
-    {
-      "name": "盘古",
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
-      "type": 0,
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
-      "name": "尘墨4K",
-      "type": 1,
-      "url": "http://yun.52xiaobai.cn/box/boxjx.php?url="
-    },
-    {
-      "name": "-免费解析-",
-      "type": 1,
-      "url": "http://sspa8.top:8100/api/?key=1060089351&url="
     },
     {
       "name": "-网游鹰-",
@@ -1541,46 +1507,8 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    },
-    // 新增解析接口开始
-    {
-      "name": "4K秒播",
-      "type": 0,
-      "url": "https://jx.618g.com/?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Android 14; Mobile; rv:109.0) Gecko/115.0 Firefox/115.0"
-      }
-    },
-    {
-      "name": "极速解析",
-      "type": 1,
-      "url": "https://api.163ren.com/jx/?url="
-    },
-    {
-      "name": "星辰解析",
-      "type": 0,
-      "url": "https://jx.xcxqq.cn/?url=",
-      "ext": {
-        "flag": ["qiyi", "腾讯", "优酷", "芒果", "bilibili"],
-        "header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "闪电解析",
-      "type": 1,
-      "url": "https://api.pingjiang.tv/jx.php?url="
-    },
-    {
-      "name": "高清解析",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
-      }
     }
-    // 新增解析接口结束
+  
   ],
   "hosts": [
     "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
