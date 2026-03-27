@@ -390,22 +390,19 @@
         "ratio": 1.778
       }
     },
-    {
-      "key": "像素",
-      "name": "🌟 像素｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider.jar",
-      "ext": {
-        "url": "https://mcvod.top",
-        "site": "",
-        "dataKey": "cnmbknmbtounimab",
-        "dataIv": "cnmbknmbtounimab",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      },
+       {
+            "key": "驿站",
+            "name": "🌟 驿站｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+                "dataKey": "dyyztvapiappyyds",
+                "dataIv": "dyyztvapiappyyds"
+        },
       "style": {
         "type": "rect",
         "ratio": 1.778
