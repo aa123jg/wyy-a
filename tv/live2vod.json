@@ -1,20 +1,23 @@
 [
-
   {
     "name": "我的直播",
-    "url": "https://5141.kstore.space/wyy-a/tv/我的直播.txt&&&https://5141.kstore.space/apk/%E4%B8%AD%E5%8E%9F%E7%A6%8F%E5%A1%942.png"
-  },
-  {
-    "name": "catvod直播",
-    "url": "https://iptv.catvod.com/tv.m3u&&&https://tvbox.catvod.com/logo.png"
+    "url": "https://5141.kstore.space/wyy-a/tv/%E6%88%91%E7%9A%84%E7%9B%B4%E6%92%AD.txt&&&https://5141.kstore.space/apk/%E4%B8%AD%E5%8E%9F%E7%A6%8F%E5%A1%942.png"
   },
     {
-    "name": "冰茶直播",
-    "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true&&&https://5141.kstore.space/apk/%E5%86%B0%E8%8C%B6.jpg"
+    "name": "咪咕频道",
+    "url": "https://5141.kstore.space/wyy-a/tv/%E5%92%AA%E5%92%95%E5%A4%AE%E8%A7%86.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
   },
- {
+  {
+    "name": "库佬直播",
+    "url": "https://5141.kstore.space/wyy-a/tv/%E5%BA%93%E4%BD%AC%E7%9B%B4%E6%92%AD.m3u&&&https://5141.kstore.space/apk/%E5%BA%93%E4%BD%AC.jpg"
+  },
+   {
     "name": "澜露直播",
     "url": "https://5141.kstore.space/wyy-a/tv/澜露直播.m3u&&&https://5141.kstore.space/apk/%E5%B0%8F%E7%99%BD%E8%8F%9C.png"
+  },
+  {
+    "name": "音乐欣赏",
+    "url": "https://5141.kstore.space/wyy-a/tv/%E9%9F%B3%E4%B9%90%E6%AC%A3%E8%B5%8F.txt&&&https://5141.kstore.space/apk/421c1117f0f990fc953a86deca1a0c1b.jpeg"
   },
   {
     "name": "音乐歌曲",
@@ -25,12 +28,7 @@
     "url": "https://5141.kstore.space/wyy-a/tv/美食欣赏.txt&&&https://5141.kstore.space/apk/%E7%BE%8E%E9%A3%9F%E5%9B%BE%E7%89%87.jpg"
   },
   {
-    "name": "咪咕频道",
-    "url": "https://5141.kstore.space/wyy-a/tv/咪咕频道.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
-  },
-  {
     "name": "测试频道",
     "url": "https://5141.kstore.space/wyy-a/tv/测试频道.txt&&&https://5141.kstore.space/apk/%E6%B5%8B%E8%AF%95.png"
   }
-
 ]

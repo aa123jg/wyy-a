@@ -103,12 +103,25 @@
             "playerType": 2,
             "ext": "http://114.66.55.28:4816/api.php/app/"
         },
-    {
-      "key": "芒果视频",
-      "name": "🌟 芒果｜高清",
+      {
+      "key": "T迅弹幕",
+      "name": "🎀腾迅┃4K",
+      "searchable": 1,
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/芒果视频.js"
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/tjx.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🎀芒果┃4K",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/mgtv.js"
     },
     {
       "key": "Guazi",

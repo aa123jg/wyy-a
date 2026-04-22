@@ -1,0 +1,49 @@
+{
+  "请求头": "User-Agent$MOBILE_UA&Referer$https://www.chinasumadang.com/",
+  "编码": "UTF-8",
+  "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$44",
+  "分类url": "https://www.chinasumadang.com/sumadangVS/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+  "首页": "https://www.chinasumadang.com/sumadangVS/",
+  "分类规则": [
+    {
+      "type_id": 1,
+      "type_name": "电影",
+      "分类url": "https://www.chinasumadang.com/sumadangVS/?type=1&page={catePg}"
+    },
+    {
+      "type_id": 2,
+      "type_name": "电视剧",
+      "分类url": "https://www.chinasumadang.com/sumadangVS/?type=2&page={catePg}"
+    },
+    {
+      "type_id": 4,
+      "type_name": "动漫",
+      "分类url": "https://www.chinasumadang.com/sumadangVS/?type=4&page={catePg}"
+    },
+    {
+      "type_id": 3,
+      "type_name": "综艺",
+      "分类url": "https://www.chinasumadang.com/sumadangVS/?type=3&page={catePg}"
+    },
+    {
+      "type_id": 44,
+      "type_name": "短剧",
+      "分类url": "https://www.chinasumadang.com/sumadangVS/?type=44&page={catePg}"
+    }
+  ],
+  "列表": ".hl-list-box:has(.hl-list-pic)&&.hl-list-item",
+  "标题": ".hl-list-title&&Text",
+  "链接": "a&&href",
+  "图片": ".hl-list-pic&&data-src",
+  "Desc": ".hl-list-detail:eq(0)&&Text",
+  "演员": ".hl-list-actor&&Text",
+  "时间/状态": ".hl-list-remarks&&Text",
+  "搜索": "https://www.chinasumadang.com/sumadangVS/search.php?searchword={wd}&submit=",
+  "搜索列表": ".hl-list-box:has(.hl-list-pic)&&.hl-list-item",
+  "搜索标题": ".hl-list-title&&Text",
+  "搜索链接": "a&&href",
+  "搜索图片": ".hl-list-pic&&data-src",
+  "搜索Desc": ".hl-list-detail:eq(0)&&Text",
+  "搜索演员": ".hl-list-actor&&Text",
+  "搜索时间": ".hl-list-remarks&&Text"
+}
