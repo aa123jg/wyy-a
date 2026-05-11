@@ -28,7 +28,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🏮2026年新年愉快🏮",
+      "name": "🏮2026年五一快乐🏮",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/spider_og.jar",
@@ -89,26 +89,6 @@
       "ext": "./js/蜻蜓FM.js"
     },
     {
-      "key": "T迅弹幕",
-      "name": "🎀 腾迅┃4K",
-      "searchable": 1,
-      "type": 3,
-      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/tjx.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "🎀 芒果┃4K",
-      "type": 3,
-      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/jars/mgtv.js"
-    },
-    {
       "key": "移动",
       "name": "💓 移动｜网盘",
       "type": 3,
@@ -118,42 +98,30 @@
       "quickSearch": 1
    }, 
         {
-      "key": "Guazi",
-      "name": "🌟 瓜子｜影视",
+            "key": "csp_Gz360",
+            "name": "🌟 瓜子┃影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "jar": "./jar/瓜子.jar",
+            "playerType": 2
+        },
+    {
+      "key": "WexReBo",
+      "name": "🌟 热播｜秒播",
       "type": 3,
-      "api": "csp_Guazi",
-      "jar": "./jar/fish02202204.png",
-      "searchable": 1
+      "api": "csp_WexReBoGuard",
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
+      "searchable": 1,
+      "changeable": 1
     },
     {
-      "key": "Rebo",
-      "name": "🌟 热播｜APP",
+      "key": "jarcai",
+      "name": "🌟 文才｜弹幕",
       "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "./jar/fish02202204.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
+      "api": "csp_Wcai",
+      "jar": "./jar/文才.jar",
+      "ext": "https://www.jxshdzs.com/"
     },
-   {
-  "key": "wggtv",
-  "name": "🌟  无广告TV",
-  "type": 3,
-  "api": "csp_XBPQ",
-   "jar": "./jar/xbpq.jar",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-  "ext": {
-  "线路标题": "dianying\"></i>&&<span",
-  "副标题": "<span class=\"public-list-prb hide ft2\">&&</span>",
-   "分类url": "https://www.5ggtv.com/vodtype/{cateId}-{catePg}.html",
-     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$23"
-     }
-    } ,
     {
       "name": "🇰🇷 韩剧｜秒播",
       "key": "Hxq",
@@ -165,6 +133,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {
+            "key": "新韩剧网",
+            "name": "🇰🇷 新韩剧网资源",
+            "type": 3,
+            "api": "https://52xiaobai.cn/ceshi/py/新韩剧网.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "playable": 1,
+            "jar": "https://gitee.com/lzxw66/lzxw9/raw/master/bzc0316.png"
+        },
    {
             "key": "玩偶",
             "name": "💦 玩偶｜4K",
