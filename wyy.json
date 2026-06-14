@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar",
+  "spider": "./jar/vox.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "sites": [
@@ -20,6 +20,16 @@
       "changeable": 0,
       "ext": "./json/应用商店.json"
     },
+    {
+      "key": "七乐",
+      "name": "🏫｜七乐App应用",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./json/qlgx.json",
+      "jar": "./jar/app.jar"
+    },
         {
       "key": "直播转点播",
       "name": "📺｜电视直播",
@@ -39,6 +49,7 @@
       "name": "📻 ｜蜻蜓FM",
       "type": 3,
       "api": "csp_QingtingFM",
+      "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -48,6 +59,7 @@
       "name": "🎉｜新片预告",
       "type": 3,
       "api": "csp_YGP",
+      "jar": "./jar/spider.jar",
       "searchable": 0
     },
    {
@@ -63,13 +75,23 @@
       "key": "瓜子影视",
       "name": "🌟 ｜瓜子影视",
       "type": 3,
+      "jar": "./jar/spider.jar",
       "api": "csp_Gz360"
+    },
+    {
+       "key":"csp_Guazi",
+       "name":"🌟 ｜瓜子优质",
+       "type":3,
+       "api":"csp_Guazi",
+       "searchable":1,
+       "changeable":1
     },
     {
       "key": "农民影视",
       "name": "🌟 ｜农民影视",
       "type": 3,
       "api": "csp_Wwys",
+      "jar": "./jar/spider.jar",
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
@@ -77,6 +99,7 @@
       "name": "🌟 ｜金牌影视",
       "type": 3,
       "api": "csp_Jpys",
+      "jar": "./jar/spider.jar",
       "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
@@ -88,17 +111,11 @@
       "ext": "https://www.jxshdzs.com/"
     },
     {
-      "key": "云播影视",
-      "name": "🌟 ｜云播影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.tvyb03.com"
-    },
-    {
       "key": "热播影视",
       "name": "🌟 ｜热播APP",
       "type": 3,
       "api": "csp_AppRJ",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -106,12 +123,13 @@
         "url": "http://v.rbotv.cn"
       }
     },
-    {
-      "key": "韩圈",
-      "name": "🇰🇷 ｜韩圈APP",
-      "type": 3,
-      "api": "csp_Hxq",
-      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
+   {
+       "key": "韩圈",
+       "name": "🇰🇷｜韩圈APP",
+       "type": 3,
+       "api": "csp_Hxq",
+       "jar": "./jar/BXS.jar",
+       "ext": "http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
        "key": "新韩剧网",
@@ -129,6 +147,7 @@
       "name": "🌟 ｜橙子APP",
       "type": 3,
       "api": "csp_App99",
+      "jar": "./jar/spider.jar",
       "ext": {
         "host": "http://113.31.180.218:19987/app/bn",
         "LoginPath": "/app/log",
@@ -145,6 +164,7 @@
       "name": "🌟 ｜顾我APP",
       "type": 3,
       "api": "csp_App99",
+      "jar": "./jar/spider.jar",
       "ext": {
         "host": "http://117.50.200.113:19987/app/bn",
         "LoginPath": "/app/log",
@@ -161,6 +181,7 @@
       "name": "🌟 ｜天堂APP",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -181,6 +202,7 @@
       "name": "🌟 ｜华谊APP",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -201,6 +223,7 @@
       "name": "🌟 ｜苹果APP",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -221,6 +244,7 @@
       "name": "🌟 ｜薯条APP",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -236,11 +260,29 @@
         "decrypt": "0"
       }
     },
-    {
+   {
+      "key": "爱影",
+      "name": "🌟 ｜爱影APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+      "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
+      "dataKey": "nzEqOgYk3QzHuEP8",
+      "dataIv": "nzEqOgYk3QzHuEP8",
+      "init": "initV122",
+      "search": "mineInfo",
+      "ua": "okhttp/3.10.0"
+    }
+  },
+  {
       "key": "久久",
       "name": "🌟 ｜久久APP",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -251,6 +293,7 @@
       "name": "🌟 ｜闪影APP",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -261,31 +304,18 @@
       "name": "🌟 ｜飞飞APP",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/"
     },
     {
-      "key": "首发",
-      "name": "🌟 ｜首发APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/600.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "金牌",
       "name": "🌟 ｜金牌APP",
       "type": 3,
       "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -302,6 +332,7 @@
       "name": "🌟 ｜老鹰APP",
       "type": 3,
       "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -316,6 +347,7 @@
       "name": "🌟 ｜蓝鹰APP",
       "type": 3,
       "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -331,6 +363,7 @@
       "name": "🌟 ｜小鹿APP",
       "type": 3,
       "api": "csp_AppQi",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -340,23 +373,11 @@
       }
     },
     {
-      "key": "猎豹",
-      "name": "🌟 ｜猎豹APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://444421.xyz",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025"
-      }
-    },
-    {
       "key": "王子",
       "name": "🌟 ｜王子APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -370,6 +391,7 @@
       "name": "🌟 ｜茉莉APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
@@ -382,12 +404,14 @@
       "key": "三六零",
       "name": "🌟 ｜三六零视频",
       "type": 3,
+      "jar": "./jar/spider.jar",
       "api": "csp_SP360"
     },
     {
       "key": "独播影视",
       "name": "🌟 ｜独播影视",
       "type": 3,
+      "jar": "./jar/spider.jar",
       "api": "csp_Duboku"
     },
   
@@ -396,6 +420,7 @@
       "name": "🌟 ｜小镇影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/spider.jar",
       "ext": "./lib/小镇影视.json"
     },
     {
@@ -403,6 +428,7 @@
       "name": "🌟 ｜永乐影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/spider.jar",
       "ext": "./lib/永乐影视.json"
     },
     {
@@ -410,11 +436,52 @@
       "name": "🌟 ｜1905影视",
       "type": 3,
       "api": "csp_Web1905",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
-         {
+    {
+      "key": "360采集",
+      "name": "🍄｜360采集",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "惊悚片",
+        "战争片",
+        "动漫电影",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "年代穿越",
+        "反转爽剧",
+        "古装仙侠",
+        "现代都市",
+        "女频恋爱",
+        "漫剧",
+        "擦边短剧",
+        "有声动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+   {
       "key": "如意采集资源",
       "name": "🍄｜ 如意采集",
       "type": 1,
@@ -457,7 +524,6 @@
       "name": "🍄 ｜豪华采集",
       "type": 1,
       "api": "https://www.haohuazy.com/api.php/provide/vod/at/json",
-      "playUrl": "https://vip.vipuuvip.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -493,7 +559,6 @@
       "name": "🍄 ｜暴风采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "https://vip.vipuuvip.com/?url=",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
@@ -547,8 +612,7 @@
       "key": "光速资源",
       "name": "🍄｜ 光速采集",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "playUrl": "https://www.gszyv.com/m3u8/?url=",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
@@ -580,7 +644,6 @@
       "name": "🍄 ｜猫眼采集",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-      "playUrl": "https://www.gszyv.com/m3u8/?url=",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
@@ -700,6 +763,7 @@
       "name": "💯 ｜围观短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -727,11 +791,34 @@
       "quickSearch":1,
       "changeable":1
     },
+     {
+      "key": "红果短剧",
+      "name": "💯 ｜红果短剧",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/8344/py/红果短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "河马短剧",
+      "name": "💯 ｜河马短剧",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/8344/py/河马短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "88看球",
       "name": "🏀｜88看球",
       "type": 3,
       "api": "csp_Kanqiu",
+      "jar": "./jar/spider.jar",
       "gridview": 3,
       "style": {
         "type": "list"
@@ -742,6 +829,7 @@
       "name": "🏀｜球通体育",
       "type": 3,
       "api": "csp_QiutongTY",
+      "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -751,6 +839,7 @@
       "name": "🏀｜瓜子体育",
       "type": 3,
       "api": "csp_GuaziTY",
+     "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -760,6 +849,7 @@
       "name": "🏀｜919体育",
       "type": 3,
       "api": "csp_919TY",
+      "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -769,6 +859,7 @@
       "name": "💕｜世界听书",
       "type": 3,
       "api": "csp_TingShijie",
+      "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -778,6 +869,7 @@
       "name": "💕｜戏曲多多",
       "type": 3,
       "api": "csp_AppLY",
+      "jar": "./jar/spider.jar",
       "style": {
         "type": "list"
       }
@@ -786,6 +878,7 @@
       "key": "爱听音乐",
       "name": "💕｜爱听音乐",
       "type": 3,
+      "jar": "./jar/spider.jar",
       "api": "./lib/爱听音乐.py"
     },
     {
@@ -793,6 +886,7 @@
       "name": "🅱️ ｜哔哩视频",
       "type": 3,
       "api": "csp_BiliYS",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -810,6 +904,7 @@
       "name": "🅱️ ｜哔哩合集",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -828,6 +923,7 @@
       "name": "🅱️ ｜哔哩音乐",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -845,6 +941,7 @@
       "name": "🅱️ ｜哔哩听书",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -862,6 +959,7 @@
       "name": "🅱️ ｜哔哩相声",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -879,6 +977,7 @@
       "name": "🅱️ ｜哔哩小品",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -896,6 +995,7 @@
       "name": "🅱️ ｜哔哩戏曲",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -913,6 +1013,7 @@
       "name": "🅱️ ｜哔哩医药",
       "type": 3,
       "api": "csp_Bili",
+     "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -927,6 +1028,7 @@
       "name": "🚑 ｜急救教学",
       "type": 3,
       "api": "csp_FirstAid",
+     "jar": "./jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -941,6 +1043,7 @@
       "name": "🕺｜养生知识",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/spider.jar",
       "ext": "./lib/养生堂.json",
       "style": {
         "type": "rect",
@@ -951,6 +1054,7 @@
       "key": "本地",
       "name": "📽 ｜本地视频",
       "type": 3,
+      "jar": "./jar/spider.jar",
       "api": "csp_LocalFile"
     }
   ],
@@ -984,6 +1088,17 @@
         }
       }
     },
+    {"name":"凯弟","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+    {
+         "name": "淘片",
+         "type": 0,
+         "url": "https://jx.yparse.com/index.php?url=",
+         "ext": {
+             "header": {
+                 "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+             }
+         }
+     },
     {
       "name": "-蜜蜂-",
       "url": "https://jx.xmflv.cc/?url=",

@@ -58,13 +58,6 @@
       "ext": "https://www.jxshdzs.com/"
     },
     {
-      "key": "云播影视",
-      "name": "🌟 ｜云播影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.tvyb03.com"
-    },
-    {
       "key": "热播影视",
       "name": "🌟 ｜热播APP",
       "type": 3,
