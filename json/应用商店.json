@@ -9,7 +9,7 @@
         "version": "努力进步"
       },
       {
-        "name": "『网游鹰』3月2日",
+        "name": "『网游鹰』6月15日",
         "url": "",
         "icon": "https://5141.kstore.space/apk/OIP-C+%282%29.jpg",
         "version": "软件已更新"
@@ -20,16 +20,16 @@
     "name": "最新apk软件",
     "list": [
      {
-        "name": "OK影视电视版",
-        "url": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-5.1.6.apk",
+        "name": "影视电视(WebHomeTV)版",
+        "url": "https://5141.kstore.space/apk/leanback-arm64_v8a.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "OK影视5.1.6版"
+        "version": "影视电视64位5.5.2版"
       },
       {
-        "name": "OK影视海信专版",
-        "url": "https://5141.kstore.space/apk/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-5.1.6.apk",
+        "name": "影视电视(WebHomeTV)版",
+        "url": "https://5141.kstore.space/apk/leanback-armeabi_v7a.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "OK影视海信专版5.1.6版"
+        "version": "影视电视32位5.5.2版"
       },
       {
         "name": "宝盒TV版",
@@ -44,10 +44,10 @@
         "version": "6.2.0版"
       },
       {
-        "name": "OK影视手机版",
-        "url": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86-%E6%89%8B%E6%9C%BA%E7%89%88-5.1.6.apk",
+        "name": "影视电视(WebHomeTV)版",
+        "url": "https://5141.kstore.space/apk/mobile-arm64_v8a.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "OK影视5.1.6手机版"
+        "version": "影视手机64位5.5.2版"
       },
      {
         "name": "宝盒手机版",
@@ -162,10 +162,10 @@
         "version": "v1.0.9.0版"
       },
       {
-        "name": "野草助手",
-        "url": "https://5141.kstore.space/apk/%E9%87%8E%E8%8D%89%E5%8A%A9%E6%89%8B_2.3.9.apk",
-        "icon": "https://5141.kstore.space/apk/MO.png",
-        "version": "2.3.9版"
+        "name": "欢视助手",
+        "url": "https://5141.kstore.space/apk/%E6%AC%A2%E8%A7%86%E5%8A%A9%E6%89%8B_1.0.0.apk",
+        "icon": "https://5141.kstore.space/apk/vw.jpg",
+        "version": "1.0.0版"
       },
       {
         "name": "IDM+",
@@ -181,15 +181,15 @@
       },
       {
         "name": "MT管理器",
-        "url": "https://5141.kstore.space/apk/MT%E7%AE%A1%E7%90%86%E5%99%A8_2.18.4.apk",
+        "url": "https://5141.kstore.space/apk/MT%E7%AE%A1%E7%90%86%E5%99%A8_2.26.5.apk",
         "icon": "https://5141.kstore.space/apk/mt.png",
-        "version": "2.18.4版"
+        "version": "2.26.5版"
       },
       {
         "name": "NP管理器",
-        "url": "https://5141.kstore.space/apk/np.apk",
+        "url": "https://5141.kstore.space/apk/NP%E7%AE%A1%E7%90%86%E5%99%A8_3.1.40.apk",
         "icon": "https://5141.kstore.space/apk/np.png",
-        "version": "3.1.24版"
+        "version": "3.1.40版"
       },
       {
         "name": "小白管理器",
@@ -292,5 +292,607 @@
         "version": "安卓4X_2.5.0版"
       }
     ]
-  }
+  },
+  {
+    "name": "七乐APP应用",
+    "list": [
+      {
+        "name": "摸鱼本地包",
+        "url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%91%B8%E9%B1%BC%E5%84%BF%E3%80%91.zip",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/jkpz.png",
+        "version": "26/05/17"
+      },
+      {
+        "name": "小虎斑本地包",
+        "url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/%E5%B0%8F%E8%99%8E%E6%96%91.zip",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/jkpz.png",
+        "version": "26/05/17"
+      },
+      {
+        "name": "天神本地包",
+        "url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/%E7%BC%98%E8%B5%B7%E3%80%90%E5%A4%A9%E7%A5%9EIY%E3%80%91.zip",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/jkpz.png",
+        "version": "26/05/17"
+      },
+      {
+      "name": "电视应用管家",
+      "url": "https://app.qingyingyong.net/down/20230420/dsyygj_2.9.0_dangbei.apk",
+      "icon": "https://img.znds.com//uploads/new/151116/9-151116144100254.png",
+      "version": "2.9.0"
+      },
+      {
+        "name": "欢视助手",
+        "url": "https://dl-appstore.huan.tv/project/ott/tvhelper/TVhelper_general_1.0.0_20231023174019_release.apk",
+        "icon": "https://zhushou.huan.tv/static/img/logo.6b0af0f.png",
+        "version": "1.0"
+      },
+      {
+        "name": "应用管家",
+        "url": "https://d.kstore.dev/download/2710/yygj.apk",
+        "icon": "https://raw.atomgit.com/qile71007/ql/raw/main/yygj.png",
+        "version": "1.8.6"
+      },
+      {
+        "name": "当贝投屏",
+        "url": "https://app.qingyingyong.net/down/20260413/dbtp_V2.9.3_dangbei.apk",
+        "icon": "https://img.znds.com//images/20260603/CZnz3AE4Aqhld.png",
+        "version": "V2.9.3"
+      },
+      {
+        "name": "小柚投屏",
+        "url": "https://extcdn.hsrc.tv/xiaoyou/apk/xiaoyou_general_2.11.1691_release.apk",
+        "icon": "http://pic.7273.com/upload/2026-2/2026228192581447.png",
+        "version": "2.26.4"
+      },
+      {
+        "name": "安卓清理君",
+        "url": "https://raw.atomgit.com/qile71007/ql/blobs/a3586ffe16c500d77ddc222d8973464f93e99d9d/azqlj.apk",
+        "icon": "https://pp.myapp.com/ma_icon/0/icon_53986928_1760415908/256",
+        "version": "3.8.7"
+      },
+      {
+        "name": "海阔视界",
+        "url": "https://57d11.198324.com/com.example.hikerview.apk?authKey=3564cd374b1bab1f2a3efe3231c1b5ef8429fad156235de45023e818eed08aeb&expireTime=1779117413",
+        "icon": "https://huohua.me/wp-content/uploads/2024/09/1727500435-haikuoshijie.png",
+        "version": "8.82"
+      },
+      {
+        "name": "免费音乐",
+        "url": "https://github.dpik.top/https://github.com/maotoumao/MusicFree/releases/download/v0.6.3-beta.1/app-arm64-v8a-release.apk",
+        "icon": "https://p.e5n.com/up/2024-8/2024816155886321.png",
+        "version": "64位0.6.3"
+      },
+      {
+        "name": "飞鸟听书",
+        "url": "https://c1018.lanosso.com/08e74031dd88b87e08c34b686327fd25/697c2b82/2025/12/25/01f5a831d9a0aa35fa6e6d6fc1c32b11.apk?fn=feiniao_2.2555_tu.apk",
+        "icon": "https://pic.shouji.com.cn/1333wan/imgfile/20240426/26160347ctuf.png",
+        "version": "2.2555"
+      },
+      {
+        "name": "阅读",
+        "url": "https://github.dpik.top/https://github.com/gedoor/legado/releases/download/beta/legado_app_3.26.04271714_release.apk",
+        "icon": "http://pic.7273.com/upload/2022-6/20226131723253860.jpg",
+        "version": "3.26.012111"
+      },
+      {
+        "name": "文字转音频",
+        "url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/jllyzjs/qile/refs/heads/main/文字转语音.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/wzzyp.png",
+        "version": "1.4.0"
+      },
+      {
+        "name": "音量增强",
+        "url": "https://raw.atomgit.com/qile71007/ql/blobs/36f2fd8b948fda84b7036d9a356abdca1ce91623/ylzq.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ylzq.png",
+        "version": "1.0.9"
+      },
+      {
+        "name": "梯子V2",
+        "url": "https://gh-proxy.com/https://github.com/2dust/v2rayNG/releases/download/2.2.3/v2rayNG_2.2.3_arm64-v8a.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/v2.png",
+        "version": "2.2.3"
+      },
+      {
+        "name": "网页电视",
+        "url": "https://raw.atomgit.com/qile71007/ql/blobs/e67def1cf2dbd2bd582e52953f685b304d104ad5/wyds.apk",
+        "icon": "https://apic.tvzhe.com/images/e6/3f/9b702d16068b643a604d944737f0650dc6543fe6.png",
+        "version": "2.1.1"
+      },
+      {
+        "name": "你的电视",
+        "url": "https://57d11.198324.com/com.horsenma.yourtv.apk?authKey=b1eccc607014d8b3351d1624b72033f62992b980472bc54f080ae95275f49b06&expireTime=1779117238",
+        "icon": "https://pic.87g.com/upload/2025/1017/20251017015350314.png",
+        "version": "2.3.4"
+      },
+      {
+        "name": "小薇直播",
+        "url": "https://57d.198324.com/d10/com.live.zd.apk",
+        "icon": "https://apic.tvzhe.com/images/de/96/873856a9c90e20bfbf59457676654c9df5f696de.png",
+        "version": "2.8.0.5"
+      },
+      {
+        "name": "家庭KTV",
+        "url": "https://ghm.078465.xyz/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/%E5%AE%B6%E5%BA%ADKTV115.zip",
+        "icon": "http://img.ggzha.com/2023/0601/6478047c0f5a0.png",
+        "version": "115"
+      }
+    ]
+  },
+{
+	"name": "影视/OK影视无配置",
+	"list": [{
+			"name": "OK影视手机版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/mobile-armeabi_v7a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "32位"
+		},
+		{
+			"name": "OK影视手机版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/mobile-arm64_v8a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "OK影视电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/leanback-armeabi_v7a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "32位"
+		},
+		{
+			"name": "OK影视电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/leanback-arm64_v8a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "OKPRO手机版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-手机版.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "OKPRO模拟器版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-手机版-模拟器.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "OKPRO电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-电视版-32位.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "32位"
+		},
+		{
+			"name": "OKPRO电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/OK客户端/OK影视Pro-电视版-64位.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "FM影视手机版",
+			"url": "https://pan.ediart.ggff.net/webdav/FM客户端/mobile-armeabi_v7a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "32位"
+		},
+		{
+			"name": "FM影视手机版",
+			"url": "https://pan.ediart.ggff.net/webdav/FM客户端/mobile-arm64_v8a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		},
+		{
+			"name": "FM影视电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/FM客户端/leanback-armeabi_v7a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "32位"
+		},
+		{
+			"name": "FM影视电视版",
+			"url": "https://pan.ediart.ggff.net/webdav/FM客户端/leanback-arm64_v8a.apk",
+			"icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+			"version": "64位"
+		}
+	]
+  },
+  {
+    "name": " Webhtv鱼壳/二开内置壳",
+    "list": [
+      {
+        "name": "Webhtv5.5.2_26061011",
+        "url": "https://gh-proxy.com/https://github.com/IsayIsee/TVBoxOS-Build/releases/download/260610-11/TVBox_fish2018_260610-11_mobile-armeabi_v7a.apk",
+        "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+        "version": "手机32位安卓7"
+      },
+      {
+        "name": "Webhtv5.5.2-202606102257",
+        "url": "https://gh-proxy.com/https://github.com/fish2018/webhtv/releases/download/v5.5.2-sdk28-202606102257/mobile-arm64_v8a.apk",
+        "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+        "version": "手机64位安卓7"
+      },
+      {
+        "name": "Webhtv5.5.2-202606102257",
+        "url": "https://gh-proxy.com/https://github.com/fish2018/webhtv/releases/download/v5.5.2-sdk28-202606102257/leanback-armeabi_v7a.apk",
+        "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+        "version": "电视32位安卓7"
+      },
+      {
+        "name": "Webhtv5.5.2-202606102257",
+        "url": "https://gh-proxy.com/https://github.com/fish2018/webhtv/releases/download/v5.5.2-sdk28-202606102257/leanback-arm64_v8a.apk",
+        "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+        "version": "电视64位安卓7"
+      },
+       {
+      "name":"影图+1.0.0plus",
+      "url":"https://d.kstore.dev/download/2710/qile/%E5%BD%B1%E5%9B%BE%E7%94%B5%E8%A7%8664%E4%BD%8D%E5%AE%89%E5%8D%935%E7%B3%BB%E7%BB%9F100plus.apk",
+      "icon":"https://raw.atomgit.com/qile71007/ql/raw/main/yt.png",
+      "version":"电视64位安卓5"
+      },
+      {
+      "name":"NewBox1.2.4",
+      "url":"https://d.kstore.dev/download/2710/qile/NewBox%E6%89%8B%E6%9C%BA64%E4%BD%8D%E5%AE%89%E5%8D%938%E7%B3%BB%E7%BB%9F124.apk",
+      "icon":"https://raw.atomgit.com/qile71007/ql/raw/main/NewBox.png",
+      "version":"手机64位安卓8"
+      },
+      {
+      "name":"NewBox1.2.4",
+      "url":"https://d.kstore.dev/download/2710/qile/NewBox%E6%B5%B7%E4%BF%A132%E4%BD%8D%E5%AE%89%E5%8D%938%E7%B3%BB%E7%BB%9F124.apk",
+      "icon":"https://raw.atomgit.com/qile71007/ql/raw/main/NewBox.png",
+      "version":"海信32位安卓8"
+      },
+      {
+      "name":"NewBox1.2.4",
+      "url":"https://d.kstore.dev/download/2710/qile/NewBox%E7%94%B5%E8%A7%8664%E4%BD%8D%E5%AE%89%E5%8D%938%E7%B3%BB%E7%BB%9F124.apk",
+      "icon":"https://raw.atomgit.com/qile71007/ql/raw/main/NewBox.png",
+      "version":"电视64位安卓8"
+      },
+      {
+        "name": "AIbox1.6.1",
+        "url": "https://d.kstore.dev/download/2710/qile/AiBox%E6%89%8B%E6%9C%BA64%E4%BD%8D%E5%AE%89%E5%8D%937.apk",
+        "icon": "https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+        "version": "手机64位安卓7"
+      },
+      {
+      "name":"MIbox1.5.10",
+      "url":"https://d.kstore.dev/download/2710/qile/MIbox%E7%94%B5%E8%A7%8632%E4%BD%8D%E5%AE%89%E5%8D%937%E7%B3%BB%E7%BB%9F1510.apk",
+      "icon":"https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+      "version":"电视32位安卓7"
+      },
+      {
+      "name":"影视修改版5.4.1",
+      "url":"https://d.kstore.dev/download/2710/qile/%E5%BD%B1%E8%A7%86%E4%BF%AE%E6%94%B9%E7%89%88%E7%94%B5%E8%A7%8632%E4%BD%8D%E5%AE%89%E5%8D%937%E7%B3%BB%E7%BB%9F541.apk",
+      "icon":"https://i.kkb.xx.kg/image/2YsZNmlfc8sWXwFukNXI4m.jpg",
+      "version":"电视32位安卓7"
+      },
+      {
+      "name":"天神IY电视版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"5.1.6_电视32位"
+      },
+      {
+      "name":"天神IY海信版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信版.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"5.1.6_非共存"
+      },
+      {
+      "name":"天神IY电视版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视64位版.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"5.1.6_电视64位"
+      },
+      {
+      "name":"天神IY电视全内置版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视全内置版.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"5.1.6_内置32位"
+      },
+      {
+      "name":"天神IY海信全内置版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信全内置版.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"5.1.6_内置非共存"
+      },
+      {
+      "name":"天神IY电视版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版250.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+      "version":"2.5.0_安卓4.+版"
+      },
+      {
+      "name":"无意云Pro版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/无意云手机版341.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/无意云.png",
+      "version":"3.4.1_手机非共存"
+      },
+      {
+      "name":"无意云Pro版",
+      "url":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/无意云电视版341.zip",
+      "icon":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/无意云.png",
+      "version":"3.4.1_电视非共存"
+      },
+      {
+      "name":"百晓生助手115",
+      "url":"https://dogpan.com/f/rkwRs2/%E5%BD%B1%E8%A7%86%E7%99%BE%E6%99%93%E7%94%9F%E5%8A%A9%E6%89%8B%E6%89%8B%E6%9C%BA64%E4%BD%8D%E5%AE%89%E5%8D%935%E7%B3%BB%E7%BB%9F115.apk",
+      "icon":"https://raw.atomgit.com/qile71007/ql/raw/main/bxs.png",
+      "version":"影视修改手机64位"
+      }
+    ]
+  },
+  {
+    "name": " OK影视/影视仓有配置",
+    "list": [
+      {
+        "name": "OK影视手机",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA32%E4%BD%8D.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ql.png",
+        "version": "安卓6/32位"
+      },
+      {
+        "name": "OK影视手机",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA64%E4%BD%8D.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ql.png",
+        "version": "安卓6/64位"
+      },
+      {
+        "name": "OK影视电视",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%8632%E4%BD%8D.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ql.png",
+        "version": "安卓6/32位"
+      },
+      {
+        "name": "OK影视电视",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%8664%E4%BD%8D.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ql.png",
+        "version": "安卓6/64位"
+      },
+      {
+        "name": "OK影视海信",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E7%94%B5%E8%A7%865x.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ok.png",
+        "version": "安卓5/32位"
+      },
+      {
+        "name": "OK影视海信",
+        "url": "https://d.kstore.dev/download/2710/qile/ok%E7%94%B5%E8%A7%864x.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ok.png",
+        "version": "安卓4/32位"
+      },
+    {
+        "name": "影视仓海信",
+        "url": "https://d.kstore.dev/download/2710/qile/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%B5%B7%E4%BF%A1619.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ysc.png",
+        "version": "6.1.9/32位"
+      },
+      {
+        "name": "影视仓电视",
+        "url": "https://d.kstore.dev/download/2710/qile/%E5%BD%B1%E8%A7%86%E4%BB%936141exo141.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ysc.png",
+        "version": "6.1.4_1/32位"
+      },
+      {
+        "name": "影视仓海信",
+        "url": "https://d.kstore.dev/download/2710/qile/%E5%BD%B1%E8%A7%86%E4%BB%93%E7%94%B5%E8%A7%86%E6%B5%B7%E4%BF%A14X3032.apk",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ysc.png",
+        "version": "安卓4/32位"
+      }
+    ]
+  },
+  {
+    "name": "PeekPili/Cinetry",
+    "list": [
+    {
+        "name": "PeekPili安卓android端",
+        "url": "https://d.kstore.dev/download/2710/pkp/PeekPiliand1252.apk",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/s2pSVoOzHOWLHh5j2iczNIalpqDqWs3snv2AYdVicHDWDlaJCFibQvjibav2B8TE9veeGSibY8ovJxiavwtCEUASPj9g/640?wx_fmt=png&from=appmsg",
+        "version": "1.2.5+2"
+      },
+      {
+        "name": "PeekPili苹果IOS端",
+        "url": "https://d.kstore.dev/download/2710/pkp/PeekPiliios1252.ipa",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/s2pSVoOzHOWLHh5j2iczNIalpqDqWs3snv2AYdVicHDWDlaJCFibQvjibav2B8TE9veeGSibY8ovJxiavwtCEUASPj9g/640?wx_fmt=png&from=appmsg",
+        "version": "1.2.5+2"
+      },
+      {
+        "name": "PeekPili电脑Windows",
+        "url": "https://d.kstore.dev/download/2710/pkp/PeekPiliwin1252.rar",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/s2pSVoOzHOWLHh5j2iczNIalpqDqWs3snv2AYdVicHDWDlaJCFibQvjibav2B8TE9veeGSibY8ovJxiavwtCEUASPj9g/640?wx_fmt=png&from=appmsg",
+        "version": "1.2.5+2"
+      },
+      {
+        "name": "Cinetry安卓android端",
+        "url": "https://gh-proxy.com/https://github.com/gstory0404/Cinetry/releases/download/0.8.2/Cinetry_0.8.2+46_android.apk",
+        "icon": "https://cinetry.gstory.cn/icons/logo.png",
+        "version": "0.8.2+46"
+      },
+      {
+        "name": "Cinetry苹果IOS端",
+        "url": "https://gh-proxy.com/https://github.com/gstory0404/Cinetry/releases/download/0.8.2/Cinetry_0.8.2+46_ios.ipa",
+        "icon": "https://cinetry.gstory.cn/icons/logo.png",
+        "version": "0.8.2+46"
+      },
+      {
+        "name": "Cinetry苹果macos端",
+        "url": "https://gh-proxy.com/https://github.com/gstory0404/Cinetry/releases/download/0.8.2/Cinetry_0.8.2+46_macos.dmg",
+        "icon": "https://cinetry.gstory.cn/icons/logo.png",
+        "version": "0.8.2+46"
+      },
+      {
+        "name": "Cinetry电脑Windows",
+        "url": "https://gh-proxy.com/https://github.com/gstory0404/Cinetry/releases/download/0.8.2/Cinetry_0.8.2+46_windows.zip",
+        "icon": "https://cinetry.gstory.cn/icons/logo.png",
+        "version": "0.8.2+46"
+      },
+      {
+        "name": "Cinetry电脑linux端",
+        "url": "https://gh-proxy.com/https://github.com/gstory0404/Cinetry/releases/download/0.8.2/Cinetry_0.8.2+46_linux.deb",
+        "icon": "https://cinetry.gstory.cn/icons/logo.png",
+        "version": "0.8.2+46"
+      }
+    ]
+  },
+  {
+        "name": "影视+",
+        "list": [
+            {
+                "name": "影视+",
+                "url": "https://d.kstore.dev/download/2710/ysj/ysj121.apk",
+                "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ok.png",
+                "version": "1.2.1版"
+            },
+            {
+                "name": "本地包",
+                "url": "https://d.kstore.dev/download/2710/ysj/ysjbdb.zip",
+                "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ok.png",
+                "version": "26/03/07"
+            },
+            {
+                "name": "实验室离线包",
+                "url": "https://d.kstore.dev/download/2710/ysj/sys.zip",
+                "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/zn777/qile/raw/ok.png",
+                "version": "26/05/14"
+            }
+        ]
+    },
+  {
+        "name": "tvbox/takagen99版",
+        "list": [
+            {
+                "name": "📺️Python|64位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-arm64-generic-python.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Java|64位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-arm64-generic-java.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺Python海信|64位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-arm64-hisense-python.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Java海信|64位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-arm64-hisense-java.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Python|32位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-armeabi-generic-python.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Java|32位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-armeabi-generic-java.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Python海信|32位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-armeabi-hisense-python.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            },
+            {
+                "name": "📺️Java海信|32位",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_takagen99_20260227-1116-armeabi-hisense-java.apk",
+                "icon": "http://pic.xlhs.com/up/2023-4/2023427926202283.png",
+                "version": "20260227-1116"
+            }
+        ]
+    },
+    {
+        "name": "tvbox/q215613905版",
+        "list": [
+            {
+                "name": "📺️Python版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_q215613905_20251016-2311-python.apk",
+                "icon": "http://pic.xlhs.com/up/2023-3/2023316847494835.png",
+                "version": "20251016-2311"
+            },
+            {
+                "name": "📺️Java版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/releases/download/2026.03.04-0715/TVBox_q215613905_20251016-2311-java.apk",
+                "icon": "http://pic.xlhs.com/up/2023-3/2023316847494835.png",
+                "version": "20251016-2311"
+            }
+        ]
+    },
+  {"name": "音乐软件",
+  "list": [
+  {
+  "name": "MusicFree",
+  "url": "https://d.kstore.dev/download/14857/App/MusicFree/app-armeabi-v7a-release.apk",
+  "icon": "https://p.e5n.com/up/2024-8/2024816155886321.png","version": "v7a-release版本"
+  },
+{
+"name": "MusicFree",
+"url": "https://d.kstore.dev/download/14857/App/MusicFree/app-x86-release.apk",
+"icon": "https://p.e5n.com/up/2024-8/2024816155886321.png","version": "x86-release.版本"
+},
+{
+"name": "MusicFree",
+"url": "https://d.kstore.dev/download/14857/App/MusicFree/app-arm64-v8a-release.apk",
+"icon": "https://p.e5n.com/up/2024-8/2024816155886321.png","version": "arm64-v8a-release"
+},
+{
+"name": "MusicFree",
+"url": "https://d.kstore.dev/download/14857/App/MusicFree/app-x86_64-release.apk",
+"icon": "https://p.e5n.com/up/2024-8/2024816155886321.png","version": "x86_64-release"
+},
+{
+"name": "MusicFree使用说明",
+"url": "https://d.kstore.dev/download/14857/App/MusicFree/MusicFree.png",
+"icon": "https://p.e5n.com/up/2024-8/2024816155886321.png","version": "下载查看图片"
+},
+{
+"name": "MusicFree","url": "https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json",
+"icon": "https://p.e5n.com/up/2024-8/2024816155886321.png",
+"version": "下载音源"
+},
+{
+"name": "v1.8.2落雪音乐",
+"url": "https://d.kstore.dev/download/14857/App/%E6%B4%9B%E9%9B%AA/lx-music-mobile-v1.8.2-armeabi-v7a.apk",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "armeabi-v7a版本"
+},
+{
+"name": "v1.8.2落雪音乐",
+"url": "https://d.kstore.dev/download/14857/App/%E6%B4%9B%E9%9B%AA/lx-music-mobile-v1.8.2-x86.apk",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "x86版本"
+},
+{
+"name": "v1.8.2落雪音乐",
+"url": "https://d.kstore.dev/download/14857/App/%E6%B4%9B%E9%9B%AA/lx-music-mobile-v1.8.2-arm64-v8a.apk",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "arm64-v8a版本"
+},
+{
+"name": "v1.8.2落雪音乐",
+"url": "https://d.kstore.dev/download/14857/App/%E6%B4%9B%E9%9B%AA/lx-music-mobile-v1.8.2-x86_64.apk",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "x86_64版本"
+},
+{
+"name": "落雪音乐使用说明",
+"url": "https://d.kstore.dev/download/14857/App/%E6%B4%9B%E9%9B%AA/LxMusic.png",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "下载查看图片"
+},
+{
+"name": "洛雪音源",
+"url": "https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js",
+"icon": "https://d.kstore.dev/download/6600/%E5%9B%BE%E7%89%87/%E8%90%BD%E9%9B%AA%E9%9F%B3%E4%B9%90.png",
+"version": "下载音源"
+}
+]
+}
+  
 ]
