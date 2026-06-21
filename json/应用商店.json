@@ -44,6 +44,12 @@
         "version": "6.2.0版"
       },
       {
+        "name": "TVBOX_电视版",
+        "url": "https://5141.kstore.space/apk/TVBox%E3%80%90%E5%A4%A7%E5%9B%BE%E6%A0%87_%E9%BB%91%E9%87%91%E7%89%88%E3%80%91py%E7%89%88_64%E4%BD%8D.apk",
+        "icon": "https://5141.kstore.space/apk/tvbox.png",
+        "version": "619版"
+      },
+      {
         "name": "影视电视(WebHomeTV)版",
         "url": "https://5141.kstore.space/apk/mobile-arm64_v8a.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
