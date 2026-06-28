@@ -299,21 +299,6 @@
       }
     },
     {
-      "key": "老鹰",
-      "name": "🌟 ｜老鹰APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/maotouyinghb.txt",
-        "dataKey": "zxPtEUDGVllIUhDB",
-        "dataIv": "zxPtEUDGVllIUhDB",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "蓝鹰",
       "name": "🌟 ｜蓝鹰APP",
       "type": 3,
@@ -356,27 +341,6 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       }
-    },
-    {
-      "key": "茉莉",
-      "name": "🌟 ｜茉莉APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "./jar/spider.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
-    },
-    {
-      "key": "三六零",
-      "name": "🌟 ｜三六零视频",
-      "type": 3,
-      "jar": "./jar/spider.jar",
-      "api": "csp_SP360"
     },
     {
       "key": "独播影视",
