@@ -5,7 +5,7 @@
       {
         "name": "免费分享持续更新",
         "url": "",
-        "icon": "https://5141.kstore.space/apk/OIP-C+%282%29.jpg",
+        "icon": "https://5141.kstore.space/apk/OIP-C.jpg",
         "version": "努力进步"
       },
       {
@@ -20,28 +20,28 @@
     "name": "最新电视apk软件",
     "list": [
       {
-        "name": "NowBox电视版",
-        "url": "https://5141.kstore.space/apk/NewBox-1.3.3-arm64-generic-%E7%94%B5%E8%A7%86%E7%89%88.apk",
+        "name": "NowBox电视64位版",
+        "url": "https://5141.kstore.space/apk/NewBox%E7%94%B5%E8%A7%8664%E4%BD%8D137.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.3.3电视版"
+        "version": "1.3.7电视64位版"
       },
       {
-        "name": "NowBox通用版",
-        "url": "https://5141.kstore.space/apk/NewBox-1.3.3-armeabi-generic-%E9%80%9A%E7%94%A8%E7%94%B5.apk",
+        "name": "NowBox电视32位版",
+        "url": "https://5141.kstore.space/apk/NewBox%E7%94%B5%E8%A7%8632%E4%BD%8D137.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.3.3通用版"
+        "version": "1.3.7电视32位版"
       },
       {
-        "name": "影视电视(鱼壳)版",
-        "url": "https://5141.kstore.space/apk/leanback-arm64_v8a.apk",
+        "name": "WebHomeTV版",
+        "url": "https://5141.kstore.space/apk/WebHomeTV_5.5.6_64%E4%BD%8D%E7%94%B5%E8%A7%86%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "64位5.5.5版"
+        "version": "64位5.5.6版"
       },
       {
-        "name": "影视电视(鱼壳)版",
-        "url": "https://5141.kstore.space/apk/leanback-armeabi_v7a.apk",
+        "name": "WebHomeTV版",
+        "url": "https://5141.kstore.space/apk/WebHomeTV_5.5.6_32%E4%BD%8D%E7%94%B5%E8%A7%86%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "32位5.5.5版"
+        "version": "32位5.5.6版"
       },
       {
         "name": "影视仓",
@@ -57,9 +57,15 @@
       },
       {
         "name": "OK影视水晶魔改版",
-        "url": "https://5141.kstore.space/apk/TV%E7%89%8864%E4%BD%8D_%28drpy%29OK%E5%BD%B1%E8%A7%86_%E5%8E%9F%E7%AD%BE%E6%B0%B4%E6%99%B6%E7%BE%8E%E5%8C%96%E7%89%88_5.1.3.apk",
+        "url": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86_5.1.3_%E6%B0%B4%E6%99%B6%E5%85%B1%E5%AD%98%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "5.1.3版"
+        "version": "64位5.1.3共存版"
+      },
+     {
+        "name": "OK影视水晶魔改版",
+        "url": "https://5141.kstore.space/apk/TV%E7%89%8832%E4%BD%8D_%28drpy%29OK%E5%BD%B1%E8%A7%86_%E5%8E%9F%E7%AD%BE%E6%B0%B4%E6%99%B6%E7%BE%8E%E5%8C%96%E7%89%88_5.1.3%E5%85%B1%E5%AD%98%E7%89%88.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "32位5.1.3共存版"
       }
     ]
   },
@@ -68,15 +74,15 @@
     "list": [
       {
         "name": "NowBox手机版",
-        "url": "https://5141.kstore.space/apk/NewBox_v1.3.3_%E6%89%8B%E6%9C%BA%E7%89%88_20260623.apk",
+        "url": "https://5141.kstore.space/apk/NewBox%E6%89%8B%E6%9C%BA64%E4%BD%8D137.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.3.3手机版"
+        "version": "1.3.7手机版"
       },
       {
-        "name": "影视手机(鱼壳)版",
-        "url": "https://5141.kstore.space/apk/mobile-arm64_v8a.apk",
+        "name": "WebHomeTV版",
+        "url": "https://5141.kstore.space/apk/WebHomeTV_5.5.6_%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "64位5.5.5版"
+        "version": "64位5.5.6版"
       },
       {
         "name": "EasyBox手机版",
