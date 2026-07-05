@@ -44,6 +44,20 @@
        "ext":"./js/蜻蜓FM.js"
    },
    {
+      "key": "雄鹰",
+      "name": "🦜｜少儿动画",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "key": "ca94b06ca359d80e",
+        "init": "V120",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": ["少儿" ]
+    },
+   {
         "name":" 🌟｜瓜子秒播",
         "key":"Guazi","type":3,
         "api":"csp_GuaziAmns",
@@ -217,6 +231,17 @@
                 "纪录片"
             ]
      },
+    {
+       "name":"🌟｜夏天秒播",
+       "key":"NewGrV2",
+       "type":3,
+       "api":"csp_NewGrV2Amns",
+       "jar":"https://zl.wpscdn.cn/2026/06/28/space_img/e8da6e6b-896f-4518-8e2b-e62dd418be85.png;md5;d6e408b7066b6dfe9a1315ebeda74a40",
+       "searchable":1,
+       "quickSearch":1,
+       "changeable":0,
+       "ext":"e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+    },
      {
         "key": "裤佬毒舌JS",           
         "name": "🌟｜毒舌影视ʲˢ",
@@ -231,18 +256,7 @@
         "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
         "changeable": 1
     },
-    {
-       "name":"🌟｜夏天秒播",
-       "key":"NewGrV2",
-       "type":3,
-       "api":"csp_NewGrV2Amns",
-       "jar":"https://zl.wpscdn.cn/2026/06/28/space_img/e8da6e6b-896f-4518-8e2b-e62dd418be85.png;md5;d6e408b7066b6dfe9a1315ebeda74a40",
-       "searchable":1,
-       "quickSearch":1,
-       "changeable":0,
-       "ext":"e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
-    },
-        {
+   {
        "key": "枫叶影视",
        "name": "🌟｜枫叶影视ᵖʸ",
        "type": 3,
@@ -257,6 +271,18 @@
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
       }
     },
+   {
+       "key": "布布影视",
+       "name": "🌟｜布布影视ᵖʸ",
+       "type": 3,
+       "api": "./py/布布.py"
+   },
+   {
+       "key": "关峰影视",
+       "name": "🌟｜关峰影视ᵖʸ",
+       "type": 3,
+       "api": "./py/关峰.py"
+   },
     {
        "key": "新韩剧网",
        "name": "🇰🇷 ｜新韩剧网ᵖʸ",
