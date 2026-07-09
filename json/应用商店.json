@@ -21,15 +21,15 @@
     "list": [
       {
         "name": "NowBox电视64位版",
-        "url": "https://5141.kstore.space/apk/NewBox-1.4.1-arm64-generic-%E7%94%B5%E8%A7%86%E7%89%88.apk",
+        "url": "https://5141.kstore.space/apk/NewBox-1.4.7-arm64-generic-%E7%94%B5%E8%A7%86%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.4.1电视64位版"
+        "version": "1.4.7电视64位版"
       },
       {
         "name": "NowBox电视通用版",
-        "url": "https://5141.kstore.space/apk/NewBox-1.4.1-armeabi-generic-%E9%80%9A%E7%94%A8%E7%94%B5.apk",
+        "url": "https://5141.kstore.space/apk/NewBox-1.4.7-armeabi-generic-%E9%80%9A%E7%94%A8%E7%94%B5%E8%A7%86%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.4.1电视通用版"
+        "version": "1.4.7电视通用版"
       },
       {
         "name": "WebHomeTV版",
@@ -74,9 +74,9 @@
     "list": [
       {
         "name": "NowBox手机版",
-        "url": "https://5141.kstore.space/apk/NewBox_v1.4.1_%E6%89%8B%E6%9C%BA%E7%89%88_20260704.apk",
+        "url": "https://5141.kstore.space/apk/NewBox_v1.4.6_%E6%89%8B%E6%9C%BA%E7%89%88_20260708.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "1.4.1手机版"
+        "version": "1.4.6手机版"
       },
       {
         "name": "WebHomeTV版",
