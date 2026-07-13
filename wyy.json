@@ -29,13 +29,7 @@
       "api": "./tv/live2vod.js",
       "ext": "./tv/live2vod.json"
     },
-   {
-      "key": "91电视",
-     "name": "📺｜91电视",
-     "type": 3,
-     "jar": "./jar/spider.jar",
-      "api": "./js/91电视.js"
-  },  
+
    {
        "key":"蜻蜓FM",
        "name":"📻｜蜻蜓FM",
@@ -43,6 +37,12 @@
        "api":"./js/drpy2.min.js",
        "ext":"./js/蜻蜓FM.js"
    },
+   {
+      "key": "贝乐虎PY",
+      "name": "🐬｜贝乐虎ᵖʸ",
+      "type": 3,
+      "api": "./py/贝乐虎.py"
+    },
        {
       "key": "无水印动画片",
       "name": "🦜｜动画片",
@@ -249,6 +249,12 @@
         "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
         "changeable": 1
     },
+    {
+      "key": "边缘",
+      "name": "🌟｜边缘影视ᵖʸ",
+      "type": 3,
+      "api": "./py/边缘影视.py"
+    },
    {
        "key": "枫叶影视",
        "name": "🌟｜枫叶影视ᵖʸ",
@@ -271,11 +277,11 @@
        "api": "./py/布布.py"
    },
    {
-       "key": "关峰影视",
-       "name": "🌟｜关峰影视ᵖʸ",
-       "type": 3,
-       "api": "./py/关峰.py"
-   },
+      "key": "华数TVPY",
+      "name": "🌟｜华数TVᵖʸ",
+      "type": 3,
+      "api": "./py/华数TV.py"
+    },
     {
        "key": "WexHanXiaoQuan",
        "name": "🇰🇷 ｜韩剧秒播",

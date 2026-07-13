@@ -29,13 +29,7 @@
       "api": "./tv/live2vod.js",
       "ext": "./tv/live2vod.json"
     },
-   {
-      "key": "91电视",
-     "name": "📺｜91电视",
-     "type": 3,
-     "jar": "./jar/spider.jar",
-      "api": "./js/91电视.js"
-  },  
+
    {
        "key":"蜻蜓FM",
        "name":"📻｜蜻蜓FM",
@@ -43,19 +37,15 @@
        "api":"./js/drpy2.min.js",
        "ext":"./js/蜻蜓FM.js"
    },
-   {
-      "key": "雄鹰",
-      "name": "🦜｜少儿动画",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-        "key": "ca94b06ca359d80e",
-        "init": "V120",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": ["少儿" ]
+       {
+      "key": "无水印动画片",
+      "name": "🦜｜动画片",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "categories": [
+      "动画片"
+      ],
+"playUrl":"https://wsyzy.top/m3u8/?url="
     },
    {
         "name":" 🌟｜瓜子秒播",
@@ -91,18 +81,6 @@
        "quickSearch": 1,
        "changeable": 1,
        "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-   {
-       "key": "荐片",
-       "name": "🌟｜荐片不卡",
-       "type": 3,
-       "api": "csp_JPJGuard",
-       "jar": "./jar/fty.jar",
-       "timeout": 10,
-       "playerType": 2,
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 0
     },
     {
       "key": "比特",
@@ -209,28 +187,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "裤佬雄鹰影视",
-            "name": "🌟｜雄鹰影视",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
-            "ext": {
-                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/xly.txt",
-                "key": "ca94b06ca359d80e",
-                "init": "V120",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            },
-            "categories": [
-                "动漫",
-                "电视剧",
-                "电影",
-                "综艺",
-                "短剧",
-                "少儿",
-                "纪录片"
-            ]
-     },
      {
     "key": "XBPQ_4K电影网",
     "name": "🌟｜4K电影网",
@@ -253,8 +209,8 @@
         "搜索模式": "1",
         "分类url": "https://www.sta-cafe.com/vodtype/{cateId}/{catePg}",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
-    }
-},
+      }
+   },
    {
       "key": "海棠",
       "name": "🌟｜海棠4kᵖʸ",
@@ -274,11 +230,24 @@
         "changeable": 1
     },
    {
+        "key": "星辰影视JS",
+        "name": "🌟｜星辰影视ʲˢ",
+        "type": 3,
+        "api": "./js/星辰影视.js",
+        "changeable": 1
+    },
+    {
         "key": "裤佬永乐JS",
         "name": "🌟｜永乐影视ʲˢ",
         "type": 3,
         "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
         "changeable": 1
+    },
+    {
+      "key": "边缘",
+      "name": "🌟｜边缘影视ᵖʸ",
+      "type": 3,
+      "api": "./py/边缘影视.py"
     },
    {
        "key": "枫叶影视",
