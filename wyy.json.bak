@@ -37,6 +37,12 @@
        "api":"./js/drpy2.min.js",
        "ext":"./js/蜻蜓FM.js"
    },
+   {
+      "key": "贝乐虎PY",
+      "name": "🐬｜贝乐虎ᵖʸ",
+      "type": 3,
+      "api": "./py/贝乐虎.py"
+    },
        {
       "key": "无水印动画片",
       "name": "🦜｜动画片",
@@ -276,14 +282,15 @@
        "type": 3,
        "api": "./py/关峰.py"
    },
-    {
-       "key": "WexHanXiaoQuan",
-       "name": "🇰🇷 ｜韩剧秒播",
-       "type": 3,
-       "api": "csp_WexHanXiaoQuanGuard",
-       "jar":"./jar/韩剧.jar",
-       "searchable": 1,
-       "changeable": 1
+ {
+      "name": "🇰🇷 ｜韩剧秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "jar": "https://zl.wpscdn.cn/2026/07/11/space_img/64dea739-dfa3-4797-b25a-68c47f222e0a.png;md5;dd6fbafde59756e7f5043a20c74b1961",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "速播采集",

@@ -276,20 +276,15 @@
        "type": 3,
        "api": "./py/布布.py"
    },
-   {
-      "key": "华数TVPY",
-      "name": "🌟｜华数TVᵖʸ",
+ {
+      "name": "🇰🇷 ｜韩剧秒播",
+      "key": "Hxq",
       "type": 3,
-      "api": "./py/华数TV.py"
-    },
-    {
-       "key": "WexHanXiaoQuan",
-       "name": "🇰🇷 ｜韩剧秒播",
-       "type": 3,
-       "api": "csp_WexHanXiaoQuanGuard",
-       "jar":"./jar/韩剧.jar",
-       "searchable": 1,
-       "changeable": 1
+      "api": "csp_HxqAmns",
+      "jar": "https://zl.wpscdn.cn/2026/07/11/space_img/64dea739-dfa3-4797-b25a-68c47f222e0a.png;md5;dd6fbafde59756e7f5043a20c74b1961",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "速播采集",
