@@ -63,17 +63,15 @@
         "changeable":0,
         "ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}
    },
-   {
-       "key": "瓜子",
-       "name": "🌟｜瓜子不卡",
-       "type": 3,
-       "api": "csp_AppgzGuard",
-       "jar": "./jar/fty.jar",
-       "timeout": 15,
-       "playerType": "2",
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1
+  {
+            "key": "csp_Gz360",
+            "name": "🌟｜瓜子影视",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Gz360",
+            "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
     },
    {
        "key": "热播",
@@ -152,6 +150,28 @@
         "jar": "./jar/chaoliu.png",
             "ext": "http://v.rbotv.cn"
     },
+     {
+            "key": "橘汁",
+            "name": "🌟｜橘汁影视",
+            "type": 3,
+            "api": "csp_AppDrama",
+             "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+        },
    {
         "key":"橘皮",
         "name":"🌟｜橘皮影视",
@@ -217,17 +237,17 @@
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
       }
    },
-   {
-      "key": "海棠",
-      "name": "🌟｜海棠4kᵖʸ",
-      "type": 3,
-      "api": "https://raw.gitcode.com/u013624795/jk/blobs/ca40a95bdebd1603644ab5e4df3f034a97e2ab32/apiv403shanzha.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-      },
+ {
+            "name": "🌟｜夏天秒播",
+            "key": "NewGrV2",
+            "type": 3,
+            "api": "csp_NewGrV2Amns",
+            "jar": "https://nos.netease.com/ysf/bb8475cf497085d16969b265a1e8e3f9.png;md5;438effad8463a53ab6fb2cf446885b54",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+        },
      {
         "key": "裤佬毒舌JS",           
         "name": "🌟｜毒舌影视ʲˢ",
@@ -248,12 +268,6 @@
         "type": 3,
         "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
         "changeable": 1
-    },
-    {
-      "key": "边缘",
-      "name": "🌟｜边缘影视ᵖʸ",
-      "type": 3,
-      "api": "./py/边缘影视.py"
     },
    {
        "key": "枫叶影视",

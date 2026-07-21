@@ -152,6 +152,28 @@
         "jar": "./jar/chaoliu.png",
             "ext": "http://v.rbotv.cn"
     },
+     {
+            "key": "橘汁",
+            "name": "🌟｜橘汁影视",
+            "type": 3,
+            "api": "csp_AppDrama",
+             "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+        },
    {
         "key":"橘皮",
         "name":"🌟｜橘皮影视",
@@ -249,12 +271,6 @@
         "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
         "changeable": 1
     },
-    {
-      "key": "边缘",
-      "name": "🌟｜边缘影视ᵖʸ",
-      "type": 3,
-      "api": "./py/边缘影视.py"
-    },
    {
        "key": "枫叶影视",
        "name": "🌟｜枫叶影视ᵖʸ",
@@ -275,12 +291,6 @@
        "name": "🌟｜布布影视ᵖʸ",
        "type": 3,
        "api": "./py/布布.py"
-   },
-   {
-       "key": "关峰影视",
-       "name": "🌟｜关峰影视ᵖʸ",
-       "type": 3,
-       "api": "./py/关峰.py"
    },
  {
       "name": "🇰🇷 ｜韩剧秒播",
