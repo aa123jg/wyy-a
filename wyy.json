@@ -82,30 +82,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   {
-       "key": "厂长",
-       "name": "🌟｜厂长不卡",
-       "type": 3,
-       "api": "csp_NewCzGuard",
-       "jar": "./jar/D0D3.jpg",
-       "timeout": 10,
-       "playerType": 2,
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1
-     },
-    {
-        "key": "文采",
-        "name": "🌟｜文采秒播",
-        "type": 3,
-        "api": "csp_JpysGuard",
-        "jar": "./jar/fty.jar",
-        "timeout": 10,
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-    },
     {
        "key":"柠檬",
        "name":"🌟｜柠檬影视",
@@ -149,15 +125,6 @@
                 "decrypt": "1"
             }
         },
-   {
-        "key":"橘皮",
-        "name":"🌟｜橘皮影视",
-        "type":3,
-        "api":"csp_Jpys",
-        "playerType":1,
-        "jar":"./jar/213e.png",
-        "ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
      {
             "name": "🌟｜橘子影视",
             "key": "Woshinidie",
@@ -199,30 +166,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-     {
-    "key": "XBPQ_4K电影网",
-    "name": "🌟｜4K电影网",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar":"./jar/XBPQ.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-        "作者": "随风",
-        "编码": "UTF-8",
-        "请求头": "User-Agent$MOBILE_UA",
-        "播放请求头": "User-Agent$MOBILE_UA",
-        "主页url": "https://www.sta-cafe.com",
-        "首页": "120",
-        "起始页": "1",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "搜索url": "https://www.sta-cafe.com/vodsearch/",
-        "搜索模式": "1",
-        "分类url": "https://www.sta-cafe.com/vodtype/{cateId}/{catePg}",
-        "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
-      }
-   },
  {
             "name": "🌟｜夏天秒播",
             "key": "NewGrV2",
@@ -256,26 +199,17 @@
         "changeable": 1
     },
    {
-       "key": "枫叶影视",
-       "name": "🌟｜枫叶影视ᵖʸ",
-       "type": 3,
-       "api": "./py/枫叶影视.py"
-   },
-   {
-      "key": "金牌",
-      "name": "🌟｜金牌影视ᵖʸ",
-      "type": 3,
-      "api": "./py/金牌影视.py",
-      "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-      }
-    },
-   {
        "key": "布布影视",
        "name": "🌟｜布布影视ᵖʸ",
        "type": 3,
        "api": "./py/布布.py"
    },
+     {
+       "key": "韩小圈影视",
+       "name": "🇰🇷｜韩小圈影视ᵖʸ",
+       "type": 3,
+       "api": "./py/韩小圈.py"
+   }, 
  {
       "name": "🇰🇷 ｜韩剧秒播",
       "key": "Hxq",
@@ -285,6 +219,31 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+     {
+      "key": "ppx",
+      "name": "🐬｜皮皮虾影视ᵖʸ",
+      "type": 3,
+      "api": "./py/皮皮虾.py",
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "顶级影院",
+      "name": "🐬｜顶级影院ᵖʸ",
+      "type": 3,
+      "api": "./py/djyy.py"
+    },
+    {
+      "key": "山楂",
+      "name": "🐬｜山楂影视ᵖʸ",
+      "type": 3,
+      "api": "./py/shanzha.py"
+    },
+    {
+      "key": "兄弟PY",
+      "name": "🐬｜兄弟影视ᵖʸ",
+      "type": 3,
+      "api": "./py/兄弟.py"
     },
     {
       "key": "速播采集",
