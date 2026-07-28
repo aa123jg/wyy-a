@@ -220,6 +220,18 @@
       "quickSearch": 1,
       "changeable": 0
     },
+   {
+      "key": "腾讯",
+      "name": "🐬｜腾讯影视ᵖʸ",
+      "type": 3,
+      "api": "./py/腾讯.py"
+    },
+    {
+       "key": "manguoPYPY",
+       "name": "🐬｜芒果影视ᵖʸ", 
+       "type": 3,
+       "api": "./py/mangguo.py"
+     },
      {
       "key": "ppx",
       "name": "🐬｜皮皮虾影视ᵖʸ",
