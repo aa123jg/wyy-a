@@ -562,11 +562,12 @@
       "filterable": 1,
       "ext": "./js/星芽短剧.js"
     },
-    {
-       "key":"红果短剧",
-       "name":"💯｜红果短剧ᵖʸ",
-       "type":3,
-       "api":"./py/红果短剧.py"
+   {
+       "key": "喜福网",
+       "name": "💯 ｜喜福短剧",
+       "type": 3,
+       "api": "https://lytvs.top/py/xifuduanju.py",
+       "ext": ""
    },
   {
       "name": "💯｜豪堪短剧",
@@ -579,16 +580,11 @@
       "changeable": 0,
       "genre": "shortdrama"
    },
-   {
-       "name": "💯｜盒马短剧",
-       "key": "Hema",
-       "type": 3,
-       "api": "csp_HemaAmns",
-       "jar": "./jar/aowu.png",
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 0,
-       "genre": "shortdrama"
+    {
+      "key": "hmjc",
+      "name": "💯｜河马剧场",
+      "type": 3,
+      "api": "./py/河马剧场.py"
     },
    {
        "name": "💯｜拜拜短剧",
@@ -601,17 +597,13 @@
        "changeable": 0,
        "genre": "shortdrama"
    },
-   {
-       "name": "💯｜围观短剧",
-       "key": "Wgdj",
+  {
+       "key": "短剧巴士",
+       "name": "💯｜ 短剧巴士",
        "type": 3,
-       "api": "csp_WgdjAmns",
-       "jar": "./jar/aowu.png",
-       "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 0,
-       "genre": "shortdrama"
-    },
+       "api": "https://lytvs.top/py/duanjubashi.py",
+       "ext": ""
+   },
    {
        "key":"csp_Bili",
        "name":"🅱️｜哔哩合集",
