@@ -198,12 +198,14 @@
       "type": 3,
       "api": "./py/djyy.py"
     },
-    {
-      "key": "山楂",
-      "name": "🐬｜山楂影视ᵖʸ",
+  {
+      "key": "ssssdffc",
+      "name": "🐬｜4K电影网",
       "type": 3,
-      "api": "./py/shanzha.py"
-    },
+      "api": "https://pan.szfx.top/down.php/232941c9dc9f3c740f4b1d83565fa422.py",
+      "searchable": 1,
+      "quickSearch": 1
+},
     {
       "key": "兄弟PY",
       "name": "🐬｜兄弟影视ᵖʸ",
