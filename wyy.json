@@ -53,12 +53,6 @@
 "playUrl":"https://wsyzy.top/m3u8/?url="
     },
    {
-      "key": "瓜子影视",
-      "name": "🐬｜瓜子ˣᵈ[影]",
-      "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/GZYS.py"
-    },
-      {
     "key": "瓜子py影视",
     "name": "🌟｜瓜子影视ᵖʸ",
     "type": 3,
@@ -564,13 +558,17 @@
       "filterable": 1,
       "ext": "./js/星芽短剧.js"
     },
-   {
-       "key": "喜福网",
-       "name": "💯 ｜喜福短剧",
-       "type": 3,
-       "api": "https://lytvs.top/py/xifuduanju.py",
-       "ext": ""
-   },
+{
+      "name":"💯｜星星短剧",
+      "key":"Xydj",
+      "type":3,
+      "api":"csp_XydjAmns",
+      "jar":"https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "genre":"shortdrama"
+      },
   {
       "name": "💯｜豪堪短剧",
       "key": "HHkk",
@@ -600,12 +598,16 @@
        "genre": "shortdrama"
    },
   {
-       "key": "短剧巴士",
-       "name": "💯｜ 短剧巴士",
-       "type": 3,
-       "api": "https://lytvs.top/py/duanjubashi.py",
-       "ext": ""
-   },
+       "name":"💯｜围观短剧",
+       "key":"Wgdj",
+       "type":3,
+       "api":"csp_WgdjAmns",
+       "jar":"https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+       "searchable":1,
+       "quickSearch":1,
+       "changeable":0,
+       "genre":"shortdrama"
+    },
    {
        "key":"csp_Bili",
        "name":"🅱️｜哔哩合集",
