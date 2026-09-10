@@ -96,18 +96,18 @@
        "jar":"./jar/213e.png",
        "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-   {
-        "key": "文采",
-        "name": "🌟｜文采秒播",
-        "type": 3,
-        "api": "csp_JpysGuard",
-        "jar": "./jar/D0D3.jpg",
-        "timeout": 10,
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1
-     },
+        {
+            "key": "py_文才",
+            "name": "🌟｜文才影视",
+            "type": 3,
+            "api": "./py/文才影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+            }
+        },
     {
             "key": "大师兄",
             "name": "🌟｜师兄影视",
