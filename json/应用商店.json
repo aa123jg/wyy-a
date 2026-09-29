@@ -9,10 +9,75 @@
         "version": "努力进步"
       },
       {
-        "name": "6月28日更新",
+        "name": "9月22日更新",
         "url": "",
         "icon": "https://5141.kstore.space/apk/logo.gif",
         "version": "软件已更新"
+      }
+    ]
+  },
+        {
+    "name": "TVBox白盒apk软件",
+    "list": [
+         {
+        "name": "Fongmi_5.6.3",
+        "url": "https://5141.kstore.space/apk/Fongmi-arm64_5.6.3_v8a.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "Fongmi_64位版"
+      },
+      {
+        "name": "Fongmi_5.6.3",
+        "url": "https://5141.kstore.space/apk/leanback-armeabi_5.6.3_v7a.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "Fongmi_32位版"
+      },
+      {
+        "name": "TVBox白盒java_32位电视版",
+        "url": "http://103.167.151.254:17649/down.php/6855f0b834a042a21deb4e53066add40.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "32位电视java版"
+      },
+      {
+        "name": "TVBox白盒java_64位电视版",
+        "url": "http://103.167.151.254:17649/down.php/f782c0d1171100eae3c2c3ffa53a7c6d.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "64位电视java版"
+      },
+     {
+        "name": "TVBox白盒python手机版",
+        "url": "http://103.167.151.254:17649/down.php/2de6cf05b333abe4ee0ad2bbf184c55b.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "TVBox_python手机版"
+      },
+      {
+        "name": "TVBox白盒python_32位电视版",
+        "url": "http://103.167.151.254:17649/down.php/03bdf5c5f29e9a0deb970915c30a7f83.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "python_32位电视版"
+      },
+      {
+        "name": "TVBox白盒python_64位电视版",
+        "url": "http://103.167.151.254:17649/down.php/2de6cf05b333abe4ee0ad2bbf184c55b.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "python_64位电视版"
+      },
+      {
+        "name": "群友修改python_64位电视版",
+        "url": "http://103.167.151.254:17649/down.php/6f70788d7c74daa9fc3e141408c2bcfc.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "python_64位电视版"
+      },
+     {
+        "name": "群友修改python_32位电视版",
+        "url": "http://103.167.151.254:17649/down.php/b257862f63ac72673b620bab8ae873a2.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "python_32位电视版"
+      },
+          {
+        "name": "群友修改python手机版",
+        "url": "http://103.167.151.254:17649/down.php/55f54e05f7b7d2ac7070fb969e836885.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "python_手机版"
       }
     ]
   },
@@ -104,65 +169,7 @@
       }
     ]
   },
-      {
-    "name": "TVBox白盒apk软件",
-    "list": [
-      {
-        "name": "TVBox白盒java手机版",
-        "url": "http://103.167.151.254:17649/down.php/eb5aeac148bc3ce6a4a819afb563f8e3.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "TVBox_java手机版"
-      },
-      {
-        "name": "TVBox白盒java_32位电视版",
-        "url": "http://103.167.151.254:17649/down.php/9a9894d07a015c4e3d59653bea91b5fe.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "32位电视java版"
-      },
-      {
-        "name": "TVBox白盒java_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/f0ed4620d5808fc212434bd1b1b38522.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "64位电视java版"
-      },
-     {
-        "name": "TVBox白盒python手机版",
-        "url": "http://103.167.151.254:17649/down.php/f5d22a45a81bbf28e111be3517d738e7.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "TVBox_python手机版"
-      },
-      {
-        "name": "TVBox白盒python_32位电视版",
-        "url": "http://103.167.151.254:17649/down.php/3b79a26847e07403f970f1d11c7e0177.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_32位电视版"
-      },
-      {
-        "name": "TVBox白盒python_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/f899b160304f6469641e174971e797cb.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_64位电视版"
-      },
-      {
-        "name": "群友修改python_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/6f70788d7c74daa9fc3e141408c2bcfc.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_64位电视版"
-      },
-     {
-        "name": "群友修改python_32位电视版",
-        "url": "http://103.167.151.254:17649/down.php/b257862f63ac72673b620bab8ae873a2.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_32位电视版"
-      },
-          {
-        "name": "群友修改python手机版",
-        "url": "http://103.167.151.254:17649/down.php/55f54e05f7b7d2ac7070fb969e836885.apk",
-        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_手机版"
-      }
-    ]
-  },
+
   {
     "name": "电视直播软件",
     "list": [
