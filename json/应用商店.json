@@ -20,52 +20,58 @@
     "name": "TVBox白盒apk软件",
     "list": [
          {
-        "name": "Fongmi_5.6.3",
-        "url": "https://5141.kstore.space/apk/Fongmi-arm64_5.6.3_v8a.apk",
-        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "Fongmi_64位版"
-      },
-      {
-        "name": "Fongmi_5.6.3",
-        "url": "https://5141.kstore.space/apk/leanback-armeabi_5.6.3_v7a.apk",
+        "name": "Fongmi_5.6.4",
+        "url": "http://103.167.151.254:17649/down.php/0acd7cf308f0130a4b3c2fa275da720a.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
         "version": "Fongmi_32位版"
       },
       {
+        "name": "Fongmi_5.6.4",
+        "url": "http://103.167.151.254:17649/down.php/7e328108d4950709012643b383285e00.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "Fongmi_64位版"
+      },
+     {
+        "name": "TVBox白盒java版",
+        "url": "http://103.167.151.254:17649/down.php/688ab62ccfb4f168ac34dbc39fac7a7e.apk",
+        "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
+        "version": "TVBox_java版"
+      },
+      {
         "name": "TVBox白盒java_32位电视版",
-        "url": "http://103.167.151.254:17649/down.php/6855f0b834a042a21deb4e53066add40.apk",
+        "url": "http://103.167.151.254:17649/down.php/ae0e7a2f2abc825885c9b9a7a3bc4e41.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "32位电视java版"
       },
       {
         "name": "TVBox白盒java_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/f782c0d1171100eae3c2c3ffa53a7c6d.apk",
+        "url": "http://103.167.151.254:17649/down.php/f2132bd4fa4ab196246a1fe229f6baf0.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "64位电视java版"
       },
-     {
-        "name": "TVBox白盒python手机版",
-        "url": "http://103.167.151.254:17649/down.php/2de6cf05b333abe4ee0ad2bbf184c55b.apk",
+      {
+        "name": "TVBox白盒python_电视版",
+        "url": "http://103.167.151.254:17649/down.php/bc1bb65749bf0b91349a1b49a9b40f4b.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "TVBox_python手机版"
+        "version": "python_电视版"
       },
       {
         "name": "TVBox白盒python_32位电视版",
-        "url": "http://103.167.151.254:17649/down.php/03bdf5c5f29e9a0deb970915c30a7f83.apk",
+        "url": "http://103.167.151.254:17649/down.php/f688d6148f9fa546c3b2ac90be963d40.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "python_32位电视版"
       },
       {
         "name": "TVBox白盒python_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/2de6cf05b333abe4ee0ad2bbf184c55b.apk",
+        "url": "http://103.167.151.254:17649/down.php/2686debdfd5af9d29655140297a0e8e2.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "python_64位电视版"
       },
       {
-        "name": "群友修改python_64位电视版",
-        "url": "http://103.167.151.254:17649/down.php/6f70788d7c74daa9fc3e141408c2bcfc.apk",
+        "name": "群友修改python版",
+        "url": "http://103.167.151.254:17649/down.php/55f54e05f7b7d2ac7070fb969e836885.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_64位电视版"
+        "version": "python_版"
       },
      {
         "name": "群友修改python_32位电视版",
@@ -73,11 +79,11 @@
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "python_32位电视版"
       },
-          {
-        "name": "群友修改python手机版",
-        "url": "http://103.167.151.254:17649/down.php/55f54e05f7b7d2ac7070fb969e836885.apk",
+        {
+        "name": "群友修改python_64位电视版",
+        "url": "http://103.167.151.254:17649/down.php/6f70788d7c74daa9fc3e141408c2bcfc.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
-        "version": "python_手机版"
+        "version": "python_64位电视版"
       }
     ]
   },
