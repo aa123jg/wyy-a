@@ -42,6 +42,23 @@
         "url": "https://5141.kstore.space/apk/webhtv-arm64_v8a.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_64位版"
+      }
+    ]
+  },
+  {
+    "name": "最新电视apk软件",
+    "list": [
+      {
+        "name": "2.0.7电视64位版",
+        "url": "http://103.167.151.254:17649/down.php/8d204f120980046c2f165755b5779a18.apk",
+        "icon": "https://5141.kstore.space/apk/NewBox.png",
+        "version": "NowBox电视64位版"
+      },
+      {
+        "name": "2.0.7电视通用版",
+        "url": "http://103.167.151.254:17649/down.php/607677cd81b5ce7da0865acfeb86c2f6.apk",
+        "icon": "https://5141.kstore.space/apk/NewBox.png",
+        "version": "NowBox电视32版"
       },
       {
         "name": "TVBox白盒python_电视版",
@@ -60,23 +77,6 @@
         "url": "http://103.167.151.254:17649/down.php/2686debdfd5af9d29655140297a0e8e2.apk",
         "icon": "http://103.167.151.254:17649/down.php/add7d8ed741e248beeba33b17f7a7f02.png",
         "version": "python_64位电视版"
-      }
-    ]
-  },
-  {
-    "name": "最新电视apk软件",
-    "list": [
-      {
-        "name": "2.0.7电视64位版",
-        "url": "http://103.167.151.254:17649/down.php/8d204f120980046c2f165755b5779a18.apk",
-        "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "NowBox电视64位版"
-      },
-      {
-        "name": "2.0.7电视通用版",
-        "url": "http://103.167.151.254:17649/down.php/607677cd81b5ce7da0865acfeb86c2f6.apk",
-        "icon": "https://5141.kstore.space/apk/NewBox.png",
-        "version": "NowBox电视32版"
       },
       {
         "name": "64位6.2.5版",
