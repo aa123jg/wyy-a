@@ -19,29 +19,30 @@
         {
     "name": "推荐apk软件",
     "list": [
-         {
-        "name": "Fongmi_5.8.2",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.2_32%E4%BD%8DTV%E7%89%88.apk",
-        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "Fongmi_32位版"
-      },
-      {
-        "name": "Fongmi_5.8.2",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.2_64%E4%BD%8DTV%E7%89%88.apk",
-        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
-        "version": "Fongmi_64位版"
-      },
-      {
+       
+       {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/webhtv-armeabi_v7a.apk",
+        "url": "https://5141.kstore.space/apk/moyingshi-armeabi_v7a-beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_32位版"
       }, 
       {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/webhtv-arm64_v8a.apk",
+        "url": "https://5141.kstore.space/apk/moyingshi+-arm64_v8a-beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_64位版"
+      }
+     {
+        "name": "Fongmi_5.8.4",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_32%E4%BD%8DTV%E7%89%88.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "Fongmi_32位版"
+      },
+      {
+        "name": "Fongmi_5.8.4",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_64%E4%BD%8DTV%E7%89%88.apk",
+        "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "Fongmi_64位版"
       }
     ]
   },
@@ -50,8 +51,8 @@
     "list": [
 
       {
-        "name": "2.0.7电视64位版",
-        "url": "https://5141.kstore.space/apk/Newbox_TV_2.0.7_64%E4%BD%8D.apk",
+        "name": "2.1.2电视64位版",
+        "url": "https://5141.kstore.space/apk/NewBox_2.1.2_%E7%94%B5%E8%A7%86%E7%89%88%E6%9C%AC.apK",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
         "version": "NowBox电视64位版"
       },
@@ -121,14 +122,14 @@
     "name": "最新手机apk软件",
     "list": [
      {
-        "name": "Fongmi_5.8.2",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.2_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "name": "Fongmi_5.8.4",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
         "version": "Fongmi_64位手机版"
       },
       {
-        "name": "2.0.7手机版",
-        "url": "https://5141.kstore.space/apk/Newbox_TV_2.0.7_64%E4%BD%8D.apk",
+        "name": "2.1.2手机版",
+        "url": "https://5141.kstore.space/apk/NewBox_v2.1.2_%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/NewBox.png",
         "version": "NowBox手机版"
       },
