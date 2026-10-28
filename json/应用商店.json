@@ -31,7 +31,7 @@
         "url": "https://5141.kstore.space/apk/moyingshi+-arm64_v8a-beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_64位版"
-      }
+      },
      {
         "name": "Fongmi_5.8.4",
         "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_32%E4%BD%8DTV%E7%89%88.apk",
@@ -121,6 +121,12 @@
   {
     "name": "最新手机apk软件",
     "list": [
+     {
+        "name": "WebHTV_5.6.0",
+        "url": "https://5141.kstore.space/apk/moyingshi-%E6%89%8B%E6%9C%BA-arm64_v8a-beta.apk",
+        "icon": "https://5141.kstore.space/apk/mo.png",
+        "version": "墨影视_64位手机版"
+      },
      {
         "name": "Fongmi_5.8.4",
         "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
