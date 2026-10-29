@@ -575,16 +575,12 @@
       "type": 3,
       "api": "./py/映刻短剧.py"
     },
-   {
-       "key":"csp_Bili",
-       "name":"🅱️｜哔哩合集",
-       "type":3,
-       "api":"csp_BiliJs",
-       "filterable":1,
-       "searchable":1,
-       "changeable":0,
-       "ext":{"type":"./json/bili.json"}
-   },
+    {
+      "key": "红果短剧_高清修复",
+      "name": "💯｜红果短剧ᵖʸ",
+      "type": 3,
+      "api": "./py/红果短剧_高清修复.py"
+    },
    {
             "key": "裤佬酷我音乐",
             "name": "🎧｜酷我音乐ᵖʸ",
