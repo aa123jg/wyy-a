@@ -1,6 +1,6 @@
 [
   {
-    "name": "推荐",
+    "name": "公告栏",
     "list": [
       {
         "name": "免费分享持续更新",
@@ -9,7 +9,7 @@
         "version": "努力进步"
       },
       {
-        "name": "9月22日更新",
+        "name": "11月2日更新",
         "url": "",
         "icon": "https://5141.kstore.space/apk/logo.gif",
         "version": "软件已更新"
@@ -22,13 +22,13 @@
        
        {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/moyingshi-armeabi_v7a-beta.apk",
+        "url": "https://5141.kstore.space/apk/webhtv-armeabi_v7a-1930_beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_32位版"
       }, 
       {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/moyingshi+-arm64_v8a-beta.apk",
+        "url": "https://5141.kstore.space/apk/webhtv-arm64_v8a-1930_beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_64位版"
       }
@@ -69,13 +69,13 @@
       },
       {
         "name": "TVBox白盒python_32位电视版",
-        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20260924-2341-python32.apk",
+        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20261022-1137-python32.apk",
         "icon": "https://5141.kstore.space/apk/5b1.png",
         "version": "python_32位电视版"
       },
       {
         "name": "TVBox白盒python_64位电视版",
-        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20260924-2341-python64.apk",
+        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20261022-1137-python64.apk",
         "icon": "https://5141.kstore.space/apk/5b1.png",
         "version": "python_64位电视版"
       },
@@ -116,7 +116,7 @@
     "list": [
      {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/moyingshi-%E6%89%8B%E6%9C%BA-arm64_v8a-beta.apk",
+        "url": "https://5141.kstore.space/apk/webhtv_mobile-arm64_v8a-1930_beta.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
         "version": "墨影视_64位手机版"
       },
