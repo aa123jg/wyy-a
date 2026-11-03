@@ -54,7 +54,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🌟｜瓜子影视",
+      "name": "🐬｜瓜子影视",
       "jar": "./jar/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
       "type": 3,
       "timeout": 12,
@@ -64,7 +64,7 @@
     },
    {
        "key": "热播",
-       "name": "🌟｜热播多线",
+       "name": "🐬｜热播多线",
        "type": 3,
        "api": "csp_AppTTGuard",
        "jar": "./jar/fty.jar",
@@ -77,19 +77,23 @@
     },
     {
       "key": "南瓜影视.py",
-      "name": "🌟｜南瓜影视",
+      "name": "🐬｜南瓜影视",
       "type": 3,
       "api": "./py/南瓜.py"
     },
     {
-      "key": "影探4KPY",
-      "name": "🌟｜影探4K",
+      "name": "🐬｜金牌秒播",
+      "key": "JinPai",
       "type": 3,
-      "api": "./py/影探4K.py"
+      "api": "csp_JinPaiAmns",
+      "jar": "./jar/spider_aowu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "比特",
-      "name": "🌟｜比特不卡",
+      "name": "🐬｜比特不卡",
       "type": 3,
       "api": "csp_BttwooGuard",
       "jar":"./jar/spider_fty.jar",
@@ -99,40 +103,56 @@
       "changeable": 1
     },
     {
-      "key": "耐看点播PY",
-      "name": "🌟｜耐看点播",
-      "type": 3,
-      "api": "./py/耐看点播.py"
+       "key":"柠檬",
+       "name":"🐬｜柠檬影视",
+       "type":3,
+       "api":"csp_Nmvod",
+       "playerType":2,	
+       "jar":"./jar/213e.png",
+       "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-     {
-      "key": "xc",
-      "name": "🌟｜星辰影院",
+    {
+      "key": "WexAiYiYs",
+      "name": "🐬｜伊影秒播",
       "type": 3,
-      "api": "./py/星辰影院.py"
+      "api": "csp_WexAiYiYsGuard",
+      "jar":"./jar/wangerxiao.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
      {
         "key": "百花影院.py",
-        "name": "🌟｜百花影院",
+        "name": "🐬｜百花影院",
         "type": 3,
         "api": "./py/百花影院.py"
     },
     {
         "key": "豆花影视",
-        "name": "🌟｜豆花影视",
+        "name": "🐬｜豆花影视",
         "type": 3,
         "api": "./py/豆花影视.py",
         "changeable": 1
     },
    {
        "key": "555影视",
-       "name": "🌟｜兔岛影院",
+       "name": "🐬｜兔岛影院",
        "type": 3,
        "api": "./py/兔岛影院.py"
    },
-
+    {
+      "name": "🐬｜韩剧秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "jar": "./jar/spider_aowu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
      {
        "key": "韩小圈影视",
-       "name": "🇰🇷｜韩小圈影视",
+       "name": "🐬｜韩小圈影视",
        "type": 3,
        "api": "./py/韩小圈.py"
    }, 
