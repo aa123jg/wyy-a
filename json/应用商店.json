@@ -1,6 +1,6 @@
 [
   {
-    "name": "公告栏",
+    "name": "推荐",
     "list": [
       {
         "name": "免费分享持续更新",
@@ -9,7 +9,7 @@
         "version": "努力进步"
       },
       {
-        "name": "11月2日更新",
+        "name": "9月22日更新",
         "url": "",
         "icon": "https://5141.kstore.space/apk/logo.gif",
         "version": "软件已更新"
@@ -22,15 +22,15 @@
        
        {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/webhtv-armeabi_v7a-1930_beta.apk",
+        "url": "https://5141.kstore.space/apk/%E9%BB%98%E5%BD%B1%E8%A7%86_5.6.0_32%E4%BD%8DTV_1200%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
-        "version": "墨影视_32位版"
+        "version": "墨影视_32位1200版"
       }, 
       {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/webhtv-arm64_v8a-1930_beta.apk",
+        "url": "https://5141.kstore.space/apk/%E9%BB%98%E5%BD%B1%E8%A7%86_5.6.0_64%E4%BD%8DTV_1200%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
-        "version": "墨影视_64位版"
+        "version": "墨影视_64位1200版"
       }
     ]
   },
@@ -38,14 +38,14 @@
     "name": "最新电视apk软件",
     "list": [
      {
-        "name": "Fongmi_5.8.4",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_32%E4%BD%8DTV%E7%89%88.apk",
+        "name": "Fongmi_5.8.7",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.7_32%E4%BD%8DTV%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
         "version": "Fongmi_32位版"
       },
       {
-        "name": "Fongmi_5.8.4",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "name": "Fongmi_5.8.7",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.7_64%E4%BD%8DTV%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
         "version": "Fongmi_64位版"
       },
@@ -69,13 +69,13 @@
       },
       {
         "name": "TVBox白盒python_32位电视版",
-        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20261022-1137-python32.apk",
+        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20260924-2341-python32.apk",
         "icon": "https://5141.kstore.space/apk/5b1.png",
         "version": "python_32位电视版"
       },
       {
         "name": "TVBox白盒python_64位电视版",
-        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20261022-1137-python64.apk",
+        "url": "https://5141.kstore.space/apk/TVBox_q215613905_20260924-2341-python64.apk",
         "icon": "https://5141.kstore.space/apk/5b1.png",
         "version": "python_64位电视版"
       },
@@ -116,13 +116,13 @@
     "list": [
      {
         "name": "WebHTV_5.6.0",
-        "url": "https://5141.kstore.space/apk/webhtv_mobile-arm64_v8a-1930_beta.apk",
+        "url": "https://5141.kstore.space/apk/%E9%BB%98%E5%BD%B1%E8%A7%86_5.6.0_64%E4%BD%8DTV_1200%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/mo.png",
-        "version": "墨影视_64位手机版"
+        "version": "墨影视_64位1200手机版"
       },
      {
-        "name": "Fongmi_5.8.4",
-        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.4_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "name": "Fongmi_5.8.7",
+        "url": "https://5141.kstore.space/apk/%E5%BD%B1%E8%A7%86_5.8.7_64%E4%BD%8D%E6%89%8B%E6%9C%BA%E7%89%88.apk",
         "icon": "https://5141.kstore.space/apk/OK%E5%BD%B1%E8%A7%86.png",
         "version": "Fongmi_64位手机版"
       },
@@ -292,6 +292,12 @@
         "url": "https://5141.kstore.space/apk/MX+%E6%92%AD%E6%94%BE%E5%99%A8_2.13.0.apk",
         "icon": "https://5141.kstore.space/apk/MX.png",
         "version": "2.13.0版"
+      },
+      {
+        "name": "快传助手",
+        "url": "https://5141.kstore.space/apk/MX+%E6%92%AD%E6%94%BE%E5%99%A8_2.13.0.apk",
+        "icon": "https://5141.kstore.space/apk/kuaichuan.png",
+        "version": "3.0.2版"
       },
       {
         "name": "LocalSend(文件交互)",

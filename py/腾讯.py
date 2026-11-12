@@ -377,27 +377,31 @@ class Spider(Spider):
 
     def playerContent(self, flag, id, vipFlags):
         ids = id.split('@')
-        if len(ids) < 2 or not ids[0] or not ids[1]:
+        # 兼容 'cid@vid' 与裸 'vid' 两种传入格式，取最后一段作为视频 vid
+        vid = ''
+        for seg in reversed(ids):
+            if seg:
+                vid = seg
+                break
+        if not vid:
             return {'parse': 0, 'url': '', 'header': ''}
 
-        # 电影等单 ID 视频用更简洁的 URL，减少一次重定向，避免被解析站误判
-        if ids[0] == ids[1]:
-            url = f"{self.host}/x/cover/{ids[0]}.html"
-        else:
-            url = f"{self.host}/x/cover/{ids[0]}/{ids[1]}.html"
+        # 核心修复：原 jx.xmflv.com 解析站已关停（页面返回“后会无期”占位页），
+        # 导致点击视频后转圈无画面。这里不再依赖任何第三方解析接口，
+        # 改用腾讯视频官方 iframe 内嵌播放器页：壳子以 WebView 打开该页
+        # 即可嗅探官方流媒体直接播放，只要 v.qq.com 可达即可用。
+        # 免费内容可直接播；VIP 内容需在 App 内登录腾讯视频账号后才可播。
+        url = f"https://v.qq.com/txp/iframe/player.html?vid={vid}&autoplay=true"
 
-        # 必须对目标 URL 做 quote 编码，否则解析接口接收到的 URL 不完整或被安全规则拦截
-        parse_url = f"https://jx.xmflv.com/?url={quote(url, safe='')}"
-
-        # 核心修复：header 不能传空字符串，否则 OK 影视内置 WebView 没有 Referer 和 UA，
-        # 解析站（如 xmflv）会直接拦截或返回空白页，表现为一直转圈后 fallback 到其他解析。
+        # header 必须带 v.qq.com 的 Referer/Origin 与桌面 UA，
+        # 否则官方播放器页会拒绝初始化。
         header = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Referer': 'https://jx.xmflv.com/',
-            'Origin': 'https://jx.xmflv.com'
+            'Referer': f'{self.host}/',
+            'Origin': self.host
         }
 
-        return {'parse': 1, 'url': parse_url, 'header': header}
+        return {'parse': 1, 'url': url, 'header': header}
         
     def localProxy(self, param):
         pass
