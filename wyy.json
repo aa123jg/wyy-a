@@ -149,12 +149,12 @@
        "type": 3,
        "api": "./py/黑夜影院.py"
    },
-    {
-       "key": "tengxunPYPY",
-       "name": "🐬｜腾讯影视", 
-       "type": 3,
-       "api": "./py/腾讯.py"
-     },
+  {
+      "key": "华数TVPY",
+      "name": "🐬｜华数TV",
+      "type": 3,
+      "api": "./py/华数TV.py"
+    },
      {
       "key": "美剧天堂",
       "name": "🐬｜美剧天堂",
